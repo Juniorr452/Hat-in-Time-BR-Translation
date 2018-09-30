@@ -12,6 +12,7 @@ GameSettings_Desc = Ajustar opções relacionadas ao gameplay.
 
 GameSettings_Icon_Singleplayer = Um Jogador
 GameSettings_Icon_SplitScreen = Tela Dividida
+GameSettings_Icon_SystemSettings = Configurações do Sistema
 GameSettings_Icon_Camera = Câmera
 
 GraphicsSettings_Title = Opções Gráficas
@@ -118,6 +119,9 @@ Item_NoSaving_Desc = O jogo não irá salvar seu progresso. Isso não é recomen
 
 Item_DevConsole_Title = Console de Desenvolvedor
 Item_DevConsole_Desc = Permite acesso ao console de desenvolvedor. O jogo precisa ser reiniciado para essa opção fazer efeito. Aperte TAB / til para abrir.
+
+Item_DisableMods_Title = Desabilitar Mods
+Item_DisableMods_Desc = Desliga a Steam Workshop e suporte de mods para a ter a experiência original.
 
 [systemsettings.audio]
 Header_Audio = Áudio
@@ -397,6 +401,11 @@ Options_QuitGame_InGame_A_MainMenu = Menu Principal!
 Options_QuitGame_InGame_A_Desktop = Área de Trabalho!
 Options_QuitGame_InGame_A_Return = Voltar!
 
+Label_Equipment = EQUIPAMENTO
+Label_Badges = INSÍGNIAS
+Label_Weapon = ARMA
+Label_Contract = CONTRATO
+
 Options_RestartLevel_Q = Reiniciar o ato?
 
 [MainMenu]
@@ -544,7 +553,27 @@ HowToComment = Para deixar um comentário, veja esse mod na Steam Workshop.
 BackToHub = Ir para Espaçonave
 NextMap = Próximo Mapa
 ViewInWorkshop = Ver no Workshop
-NoMods = Você não tem mods instalados! Tente pegar alguns no Workshop.
+BrowseTheWorkshop = NAVEGAR NO WORKSHOP
+NoMods_Steam = Você não tem mods instalados! Tente pegar alguns no Workshop.
+NoMods = Você não tem mods instalados! Coloque alguns na pasta de mods pra instalar.
+
+DownloadingMod = Baixando Mod
+ModCreatedBy = Por
+ModVersion = Versão
+HowToAccessLevelMods = Fases de Mods podem ser acessadas[br]na sala do correio assim que você[br]tiver:
+
+PreviewButtonsText_Play = Jogar!
+PreviewButtonsText_Enable = Habilitar
+PreviewButtonsText_Config = Configurar
+PreviewButtonsText_ViewInWorkshop = Ver no Workshop
+
+Category_Levels = FASES
+Category_AllLevels = TODAS AS FASES
+Category_Chapters = CAPÍTULOS
+Category_TimeRifts = FENDAS TEMPORAIS
+Category_HatsAndBadges = CHAPÉUS E INSÍGNIAS
+Category_Collectibles = COLECIONÁVEIS
+Category_Misc = MISC
 
 [ConsoleProfileSwap]
 SwapProfile = Trocar de Perfil
@@ -553,3 +582,11 @@ SwapProfile = Trocar de Perfil
 Action_Delete = Deletar
 Action_Play = Jogar
 Action_Select = Selecionar
+
+[LoadoutMenuOptions]
+ReturnToHUB = Voltar para HUB
+Settings = Configurações
+QuitGame = Sair do Jogo
+Coop = CO-OP
+Mods = Mods
+RestartToLastCheckpoint = Reiniciar
