@@ -13,7 +13,7 @@ Location_MafiaHQ = Sede da Máfia
 Chapter1_Bonus_Secret_Sewer = Esgotos
 Chapter1_Bonus_Secret_Bazaar = Bazar
 Chapter1_Bonus_Cave_Intro = Máfia de Cozinheiros
-Chapter1_Bonus_Cave_Raccoon = Subcon Sonolento
+Chapter1_Bonus_Cave_Raccoon = Subcon Sonolenta
 
 
 Chapter2_Subcon = Floresta Subcon
@@ -52,7 +52,15 @@ TimeRift_Water_Alp_Goats = Sino da Penumbra
 TimeRift_Cave_Alps = Alpine Skyline
 
 Chapter5_Finale = O Fim do Tempo
-acT_5_1 = O Final
+act_5_1 = O Final
+
+Chapter6_Cruise = O Cruzeiro Ártico
+Cruise_Act1 = Bon Voyage!
+Cruise_Act2 = Vendo Navios
+Cruise_Act3 = Virando o Barco
+TimeRift_Cave_Cruise = Fundo do Mar
+TimeRift_Water_Cruise_Slide = Varanda
+TimeRift_Cave_Tour = Tour
 
 Spaceship_WaterRift_Gallery = A Galeria
 Spaceship_WaterRift_MailRoom = O Laboratório
@@ -64,6 +72,13 @@ Location_Bookstore = O Fim do Tempo
 
 FreeRoam = Livre Circulação
 TimeRift = Fenda Temporal
+DeathWish = Death Wish
+NiceWish = Nice Wish
+Community = Mapa da Comunidade
+
+TimeRift_Cave_RhythmJumpStudio = Estúdio Rhythm Jump
+TimeRift_Cave_TwilightTravels = Viagens do Crepúsculo
+TimeRift_Cave_MountainRift = A Fenda da Montanha
 
 secretlevel_beta_space = Desafio do Herói Beta
 
@@ -120,7 +135,7 @@ TOTD_DCad = Termo do Dia: Cadência Deceptiva
 TOTD_Rondo = Termo do Dia: Rondó
 TOTD_Allegro = Termo do Dia: Allegro
 
-TP_Secured = PEÇA TEMPORAL ASSEGURADA!
+TP_Secured = PEÇA TEMPORAL RECUPERADA!
 TP_Detected = PEÇA TEMPORAL DETECTADA!
 TimeRift = Peça Temporal criou uma Fenda Temporal
 TimeRift_Cave = Peça Temporal caiu e acertou alguém

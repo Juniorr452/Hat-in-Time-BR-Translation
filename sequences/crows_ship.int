@@ -1,0 +1,26 @@
+﻿[fluff]
+ticketcrow0 = Olá, companheira passageira. É um prazer conhecê-la. Pela primeira vez.
+ticketcrow1 = Nós, corvos, todos ganhamos nossos tickets na loteria. Todos nós. Foi muita sorte.
+ticketcrow2 = Você deve ter comprado o seu legitimamente. Apenas por curiosidade, quantas [icon:pon] você pagou?
+ticketcrow3 = Interessante. [TicketPrice] [icon:pon] parece ser um valor normal para ingressos de cruzeiros.
+ticketcrow4 = Normal, e nada incoerente com seu extrato bancário, de forma alguma.
+
+destinationcrow0 = Boa tarde, companheira passageira. Espero que esteja gostando da sua viagem.
+destinationcrow1 = Você sabe para onde esse cruzeiro está indo? Estava escrito nos nossos tickets, mas estava manchado.
+destinationcrow2 = Em todos eles. Foi um acidente bem raro. Pode nos lembrar para onde estamos indo?
+destinationcrow3 = Ah, é claro, [Destination]. Eu me lembro agora que tinha visto isso escrito antes. No meu ticket.
+
+familycrow0 = Tenho parentes em [Destination]. Estou bem satisfeito que é para lá que estamos indo. 
+familycrow1 = É por isso que entrei nesse cruzeiro, é claro.
+
+reviewcrow0 = Como assim não estamos na lista para o jantar?
+reviewcrow1 = Nós pagamos exatamente [TicketPrice] [icon:pon] pelos tickets, assim como qualquer outro passageiro.
+reviewcrow2 = Vou deixar uma análise negativa sobre essa viagem. 
+
+[act2]
+missives0 = Por favor, repasse essas mensagens não codificadas para mim. 
+missives1 = Ah. Obrigado pelas correspondências, companheira passageira.
+missives2 = Pode entregar isso para um companheiro passageiro?
+missives3 = Mensagens não codificadas? Para mim? Você não devia ter isso!
+missives4 = Esses são, uhm, cartões de aniversário. Para o meu amigo. Por favor, entregue-os para ele.
+missives5 = Ah. Feliz aniversário para mim. Obrigado, cara passageira. 

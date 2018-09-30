@@ -82,6 +82,17 @@ AlpineSkyline_Windmill_1 = Aquela coisa era gigante! Por que você construiria a
 AlpineSkyline_Finale_0 = Que diabos foi tudo isso? Aquelas plantas horríveis floriram e infectaram os bodes ou algo do tipo?
 AlpineSkyline_Finale_1 = Tudo o que eu sei é que eles ficaram REALMENTE nervosos e as coisas ficaram REALMENTE turbulentas e foi ruim pra todo mundo.
 
+//THE ARCTIC CRUISE
+Cruise_Boarding_0 = Uau! Olha para o tamanho daquele cruzeiro! Talvez eu devia ter feito minha espaçonave maior...
+Cruise_Boarding_1 = De qualquer jeito, isso deve ser divertido! Eu mereço férias depois de ficar correndo pra lá e pra cá. Mas eu me pergunto se tem mais [icon:timepiece][timepiece]Peças Temporais[/timepiece] por aqui.
+
+Cruise_Working_0 = Com certezaaaaaaaa têm [icon:timepiece][timepiece]Peças Temporais[/timepiece] naquele navio! E ninguém quer elas! 
+Cruise_Working_1 = Aquele capitão velho rabugento fez eu limpar (afff!!!) o cruzeiro dele, mas quem é o palhaço é ele! Pelo menos ninguém tá sendo assassinado ou explodido aqui.
+
+Cruise_Sinking_0 = Uhhhh..... oooops. Acho que ninguém viu eu fazer aquilo. Será que eu devo inventar uma desculpa só para garantir?
+Cruise_Sinking_1 = Foi um acidente maluco? Icebergs simplesmente ficam no meio às vezes? Eu realmente quis fazer aquilo?
+Cruise_Sinking_2 = Talvez afundar cruzeiros nem seja ilegal nesse planeta?
+
 act2a = Alguém morreu hoje. Mas não de verdade. Era ketchup.
 act2b = Acabou que era tudo só um filme...
 act3a = EU SOU UMA DIVA  A I  M E U  D E U S

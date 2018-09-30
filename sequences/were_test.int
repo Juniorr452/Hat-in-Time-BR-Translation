@@ -1,0 +1,11 @@
+﻿[internal]
+smash0 = [scream]AGH![/scream] Essa peça temporal está toda quebrada! 
+smash1 = Talvez você possa arrumar ela se encontrar todas as [hint]peças que estão faltando[/hint].
+smash2 = Você tem o pressentimento de que tem uma em cada sala
+smash3 = Eles parecem estar em pânico por não saber aonde varrer pra achar o estilhaço.
+smash4 = Eles parecem estar calmos agora que você pegou aquele fragmento! 
+
+speaker0 = Todos os passageiros, por favor, façam o check-in na recepção!
+
+checkin0 = Você fez o check-in!
+checkin1 = Agora para achar aquela peça temporal...

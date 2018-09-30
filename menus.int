@@ -59,12 +59,15 @@ Item_SkipCinematics_Desc = Se você estiver com pressa, ou se ja viu elas, você
 
 Header_SplitScreen = Dividir Tela
 Item_AllowSharedScreen_Title = Permite o compartilhamento de tela (separa a tela em duas)
-Item_AllowSharedScreen_Desc = Split screen pode ser desativada automaticamente em certas partes do jogo.
+Item_AllowSharedScreen_Desc = Tela dividida pode ser desativada automaticamente em certas partes do jogo.
 
 Item_SplitScreenMethod_Title = Alinhamento da Tela Dividida
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
 Item_SplitScreenMethod_Item_Vertical = Vertical
 Item_SplitScreenMethod_Desc = Trocar o jeito de como a tela é dividida para dois jogadores.
+
+Item_VersusModeAlways_Title = Ativar Modo Versus
+Item_VersusModeAlways_Desc = Ativa o Modo Versus quando o modo Cooperativo de Tela Dividida estiver ativado.
 
 Header_Camera = Câmera
 Header_Camera_Adv = Câmera Avançada
@@ -225,7 +228,7 @@ Item_EffectsQuality_Desc = Determina o número e a qualidade de efeitos, como an
 Item_LightingQuality_Title = Qualidade das Sombras
 Item_LightingQuality_Desc = Determina a qualidade visual de sombras, e quais objetos são permitidos ter sombras. Quanto maior a qualidade, mais precisas são as sombras e mais objetos possuem sombras. Diminuir essa opção causa uma melhora significativa na performance.
 
-; Avançado
+; Advanced
 Item_AdvancedGraphicsSettings_Title = Opções Gráficas Avançadas
 Item_AdvancedGraphicsSettings_Desc = Abra o menu para configurar todas as opções gráficas individualmente.
 
@@ -312,6 +315,9 @@ Item_Adv_AA_Title = Anti-Aliasing
 Item_Adv_AA_Desc = Quando ativado, applica o método de suavização para cantos de modelos selecionado. FXAA0 é o mais econômico, enquanto FXAA5 e MLAA são os mais pesados. Você não deve selecionar nenhum valor que não seja Nenhum ou FXAA0 a não ser que você esteja familiarizado com os diferentes métodos.
 Item_Adv_AA_Item_None = Nenhum
 
+Item_Adv_MaterialEffects_Title = Efeitos de Tela de Alta Qualidade
+Item_Adv_MaterialEffects_Desc = Permite efeitos de tela a usarem efeitos de maior qualidade e múltiplas amostras.
+
 Item_Adv_LensFlares_Title = Reflexo da Lente
 Item_Adv_LensFlares_Desc = Sprites renderizados na frente do ambiente para indicar luz forte (como o sol).
 
@@ -343,6 +349,11 @@ Header_Adv_Game = Jogo
 Item_Adv_PredictiveCamera_Title = Câmera Previsiva Traçada
 Item_Adv_PredictiveCamera_Desc = Melhora a suavização da câmera traçando ela contra a geometria próxima.
 
+Header_Adv_Debug = Debug
+Item_Adv_ProfilingStats_Title = Ativar/Desativar Estatísticas Para Criação de Perfil
+Item_Adv_ProfilingStats_Desc = Debugação
+Item_Toggle = Ativar/Desativar
+
 [systemsettings.input]
 Header_Input = Controle
 
@@ -367,6 +378,14 @@ Item_Rumble_Controller_Desc = Ativa ou desativa a vibração do controle
 
 Item_InputAssist_Title = Auxílio de Controle
 Item_InputAssist_Desc = O jogo irá tentar melhorar o controle do jogo guardando botões ou movimentos que ocorreram um pouco cedo demais, assim como tentar evitar apertos de botões duplos acidentais.
+
+[systemsettings.controller]
+Header_Controller = Controles Conectados
+Item_NewController_Title = Novo Controle
+Item_NewController_Desc = Configurar um novo controle personalizado!
+Item_NewController_Item_New = Novo
+
+Item_ConfigureController_Item_Configure = Configurar
 
 [alpha_warnings]
 alpha0 = não vou traduzir nada disso, 2017 já passou faz tempo Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
@@ -411,7 +430,15 @@ Label_Badges = INSÍGNIAS
 Label_Weapon = ARMA
 Label_Contract = CONTRATO
 
-Options_RestartLevel_Q = Reiniciar o ato?
+Options_RestartLevel_Q = Recomeçar o ato?
+Options_RestartDeathWish_Q = Recomeçar o Desejo de Morte?
+
+Coop_NoControllerPluggedIn = Por favor, conecte um controle
+Coop_CantDisableRightNow = Você não pode desativar o modo cooperativo agora
+Coop_CantEnableRightNow = Você não pode ativar o modo cooperativo agora
+Coop_CantEnableDeathWish = Indisponível para o modo cooperativo
+Coop_CantEnableDWActive = Você não pode desativar o modo cooperativo enquanto um Desejo de Morte estiver ativo
+
 
 [MainMenu]
 FileSelect_File = Save
@@ -429,6 +456,7 @@ Action_SwitchUser = Trocar de Usuário
 YarnBall = Novelo
 YarnBall_multiple = Novelos
 TimePiece = Peça Temporal
+DeathWishes = Carimbos do Desejo de Morte
 ModTimePiece = Ficha da Fenda de Mods
 ModTimePiece_multiple = Fichas da Fenda de Mods
 
@@ -505,11 +533,12 @@ MenuDecline = Não!
 
 [LevelChange]
 RetryLevelQuestion = Tentar esse Ato denovo?
+RetryDeathWishQuestion = Tentar esse Desejo de Morte de novo?
 RetryLevel_Yes = Yes
 RetryLevel_HUB = Voltar para o Hub
 
 [DecorationMap]
-DecorationMap_NoMarkers = Nenhuma Relíquia\n       Por Perto
+DecorationMap_NoMarkers = Nenhuma Relíquia\n Por Perto
 
 [Murder]
 ClockRing0 = FALTA 1 HORA CORUJA
@@ -523,6 +552,7 @@ Suspect3 = EU ESTOU DISPONÍVEL COMO UMA SUSPEITA AGORA!
 Suspect4 = [MotherMaidenName] ESTÁ DISPONÍVEL COMO UMA SUSPEITA AGORA!
 Suspect5 = A VÍTIMA ESTÁ DISPONÍVEL COMO UMA SUSPEITA AGORA!
 SelectSuspect = QUEM É O ASSASSINO?
+SelectSuspectButton = É esse imbecil?
 ConfirmSuspect = VOCÊ TEM CERTEZA QUE ESSE IMBECIL É O ASSASSINO?
 
 Suspect_Select0 = Proteger e servir[br]a qualquer custo!
@@ -595,4 +625,69 @@ Settings = Configurações
 QuitGame = Sair do Jogo
 Coop = CO-OP
 Mods = Mods
-RestartToLastCheckpoint = Reiniciar
+RestartToLastCheckpoint = Recomeçar
+DeathWish = Death Wish
+DLC1Title = Seal the Deal
+DLC2Title = DLC 2
+BingoMode = Modo Bingo
+
+[Cinematics]
+SkipCinematic = PULAR
+
+[Contracts]
+SignContract = Assinar Contrato
+DeclineContract = Recusar Contrato
+ZoomOutContract = Afastar
+ZoomInContract = Ampliar
+
+[TimeRiftRoulette]
+ClickToRoll = Para Rodar
+ClickToReRoll = Rodar Denovo
+ClickToClaimPrize = Pegar o Prêmio
+
+[DLC1Splash]
+cruise = Um capítulo completamente novo: O Cruzeiro Ártico
+deathwish = Novo modo desafiador: Desejo de Morte!
+coop = Modo cooperativo local de tela dividida!
+rifts = Seis novas fendas temporais!
+unlocks0 = Várias roupas, decorações, tintas,
+unlocks1 = e filtros de câmera desbloqueáveis!
+
+[DeathWishMap]
+Locked = Ato Bloqueado
+Reward = Pegue o Prêmio!
+Unlock = Desbloquear
+Disable = Desabilitar
+Enable = Habilitar
+Play = Jogar
+HardMode = Habilitar Modo Difícil
+Reset = Resetar o contrato
+Tip = Dica do Snatcher
+Debug = DEBUG Completar/Resetar
+
+[DeathWishEasyMode]
+EasyMode0 = Ninguém está por perto para me ajudar
+EasyMode1 = A vida é difícil, a vida é cheia de estresse
+EasyMode2 = Eu preciso de paz e tranquilidade
+EasyMode3 = Eu não tenho que provar nada pra ninguém
+EasyMode4 = Quer que eu deixe este Desejo de Morte um pouco mais fácil pra você?
+EasyShort = Bem vindo de volta para a zona sem julgamentos
+EasyExit = Não se preocupe, lembre-se de mim quando as coisas ficarem agitadas
+EasyAccept0 = Um... dois... presto!
+EasyAccept1 = Este Desejo de Morte ficou mais fácil!
+EasyAccept2 = Tenha um dia tranquilo!
+ButtonYes = Paz e Tranquilidade
+ButtonNo = Não!
+
+EasyNamePre = Você quer
+EasyNamePost = agora disponível para este Desejo de Morte
+EasyName0 = Paz e Tranquilidade
+EasyName1 = Ousadia e Alegria
+EasyName2 = Bica e Tranquilidade
+EasyName3 = P4Z e TR4NQU1L1D4D3
+EasyName4 = Por favor e Obrigadodade
+EasyName5 = Pás e Tonalidade
+EasyName6 = Peça de Tranquilidade
+EasyName7 = para tirar um cochilo
+EasyName8 = para habilitar Modo IZI???
+EasyName9 = para habilitar Desejo Legal

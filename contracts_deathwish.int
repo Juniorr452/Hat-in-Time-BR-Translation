@@ -1,0 +1,352 @@
+﻿[Info]
+Conditions_3Lives = Você tem 3 vidas
+Conditions_3Checkpoints = Você pode tentar de novo do último checkpoint 3 vezes
+Conditions_NoHealth = Sem gemas de vida
+Conditions_NoCheckpoints = Sem checkpoints
+Conditions_ClearLevel = Você tem que coletar uma Peça Temporal
+Conditions_EasyMode = Paz e Tranquilidade está ativado
+
+Contract_Clear = Concluído!
+Contract_Unlocked = Desbloqueado
+Obj_Bonus = Bônus
+Obj_Complete = Completo
+Obj_Failed = Falhado
+Best_Time = Melhor Tempo
+Best_Score = Melhor Pontuação
+
+[Hat_SnatcherContract_DeathWish_Intro_100Pons]
+Title = Louco por Gemas
+Objective = Pegue 20 Gemas
+50Pons = Pegue 50 Gemas
+100Pons = Pegue 100 Gemas
+Tip0 = Você sabe o que são [icon:money] [name]Gemas[/name], né? Essas coisinhas verdes?[br]Elas estão em todos os lugares. Por favor, me diga que você sabe o que são [icon:money] [name]Gemas[/name].
+
+[Hat_SnatcherContract_DeathWish_DifficultParade]
+Title = O Grande Festival
+Objective = Termine O Grande Desfile
+AllTokens = Não deixe nenhuma das fichas do DJ Grooves expirarem
+NoHit = Não seja atingido pela Expressobanda
+BigBand = Parece que você tem vários seguidores
+Tip0 = Essas corujas estúpidas vão te seguir até o fim do mundo. Talvez você possa ficar fazendo elas [name]andarem em círculos[/name].
+
+[Hat_SnatcherContract_DeathWish_TrainRushShortTime]
+Title = 10 Segundos Para Autodestruição
+Objective = Termine Hora do Rush
+NoHat = Sem habilidades de chapéu e com insígnia Herói de Um Golpe equipada.
+Tokens = Pegue todas as fichas do Condutor
+Condition = O Expresso das Corujas está bem atrasado
+Tip0 = Quando eu falo 10 segundos, é porque é 10 segundos mesmo! Melhor correr bem rápido, garotinha!
+
+[Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
+Title = Brecha de Segurança
+Objective = Infiltre o Estúdio Dead Bird
+NoCaught = Termine sem ser pego
+NoFees = Termine com menos de 200.000 em multas
+NoFees_Easy = Termine com menos de 600.000 em multas
+Condition = A segurança foi reforçada significativamente
+Tip0 = Essa vai ser sua tarefas mais difícil de todas: [name]Não ser um incômodo![/name]
+
+[Hat_SnatcherContract_DeathWish_HeatingUpHarder]
+Title = Vença o Calor
+Objective = Feche todas as torneiras de lava
+AvoidLava = Não fique muito quente!
+MinWater = Não se refresque mais que 2 vezes
+Condition = Está bem mais quente que o normal, refresque-se!
+Tip0 = Não se preocupe em fazer todas as tarefas no seu contrato de uma vez. Você pode [name]voltar mais tarde[/name] para fazer elas, eu não ligo! Sério![br][shake][scream]LEVE O TEMPO QUE PRECISAR.[/scream][/shake]
+EasyTip = Dê um mergulho a cada torneira fechada!
+
+[Hat_SnatcherContract_DeathWish_NoAPresses]
+Title = Zero Pulos
+Objective = Pegue qualquer Peça Temporal sem pular
+Condition = Se você pular, você morre!
+Collect4 = Pegue 4 Peças Temporais sem pular
+TrainRush = Termine Hora do Rush sem pular
+Tip0 = Com um toque, seu [icon:icehat] pode ser usado para sair do chão sem ter que pular. Que conveniente!
+
+[Hat_SnatcherContract_DeathWish_FastWindmill]
+Title = Moinho Turbinado
+Objective = Chegue no topo do Moinho
+OneHit = Sem habilidades de chapéu e com insígnia Herói de Um Golpe equipada.
+TimeLimit = Chegue no fim em 4 minutos
+TimeLimit_Easy = Chegue no fim em 10 minutos
+Condition = O Moinho está operando a todo vapor
+Tip0 = Tendo dificuldade com plataformas rápidas? Tente não pular tão alto que você vai pousar mais cedo. Então tente usar a [name]inércia[/name] da plataforma para sua vantagem![br]Lembre-se, garota, [name]sincronia é tudo[/name]!
+
+[Hat_SnatcherContract_DeathWish_SecretVault]
+Title = Cofre Secreto
+Objective = Abra o Cofre Dourado
+Condition = Todos os Códigos do Cofre estão espalhados
+Condition2 = O Cofre aponta parcialmente para os códigos
+
+[Hat_SnatcherContract_DeathWish_BossRush]
+Title = Boss Rush
+Objective = Abaixo à Máfia (e todo o resto!)
+NoMiss = Não perca uma chance de bater
+OneHit = Vença com a insígnia Herói de um Golpe equipada
+Condition = Sem cura entre lutas
+Tip0 = Se você encontrar uma [icon:health] [name]Gema de Vida[/name] que não precise, não a pegue ainda! Você pode precisar depois...
+
+[Hat_SnatcherContract_DeathWish_BossRushEX]
+Title = Seal the Deal
+Objective = Vença seus inimigos mais poderosos
+Condition = Boa sorte!
+NoHats = Não use nenhuma habilidade de chapéu
+FewHits = Não deixe sua vida cair para 1 PV
+Tip0 = Não esqueça de fazer intervalos! Não se mover por longos períodos de tempo não é bom para sua saúde!
+
+[Hat_SnatcherContract_DeathWish_PonFrenzy]
+Title = Collect-a-thon
+Objective = Simplesmente pegue 100 Gemas
+NoBoxes = Não quebre nenhuma caixa ou barril
+FewPons = Não pegue mais que 200 Gemas no total
+Condition = Gemas coletadas drenam com o tempo
+Tip0 = Não pare de coletar Gemas, garotinha! Fique de olho em caixas, barrís, inimigos e outras coisas que você pode [name]quebrar[/name] para pegar muitas Gemas de uma vez!
+EasyTip = Quebre caixas e barrís!
+
+[Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
+Title = Moedas do Snatcher em Cidade Mafiosa
+Objective = Encontre uma Moeda do Snatcher na Cidade Mafiosa
+2Tokens = Encontre 2 Moedas do Snatcher
+3Tokens = Encontre todas as 3 Moedas do Snatcher
+Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser como tirar doce de criança!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Birds]
+Title = Moedas do Snatcher em Batalha dos Pássaros
+Objective = Encontre uma Moeda do Snatcher em Batalha dos Pássaros
+2Tokens = Encontre 2 Moedas do Snatcher
+3Tokens = Encontre todas as 3 Moedas do Snatcher
+Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser moleza!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Subcon]
+Title = Moedas do Snatcher em Floresta Subcon
+Objective = Encontre uma Moeda do Snatcher em Floresta Subcon
+2Tokens = Encontre 2 Moedas do Snatcher
+3Tokens = Encontre todas as 3 Moedas do Snatcher
+Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser como andar de bicicleta!
+
+[Hat_SnatcherContract_DeathWish_Tokens_Alps]
+Title = Moedas do Snatcher em Alpine Skyline
+Objective = Encontre uma Moeda do Snatcher em Alpine Skyline
+2Tokens = Encontre 2 Moedas do Snatcher
+3Tokens = Encontre todas as 3 Moedas do Snatcher
+Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser muito fácil!
+
+[Hat_SnatcherContract_DeathWish_Speedrun_MafiaAlien]
+Title = Ela fez Speedrun do Espaço
+Objective = Termine 'Ela Veio do Espaço' em 1:50 ou menos
+Bonus1 = Termine em 1:35 ou menos
+Bonus2 = Termine em 1:20 ou menos
+Objective_Easy = Termine 'Ela Veio do Espaço' em 3:40 ou menos
+Bonus1_Easy = Termine em 3:10 ou menos
+Bonus2_Easy = Termine em 2:40 ou menos
+Tip0 = Seria legal se você pudesse deixar aquele doido de óculos para trás, mas [name]ele tem algo que você precisa[/name].
+
+[Hat_SnatcherContract_DeathWish_Speedrun_SubWell]
+Title = Poço do Speedrun
+Objective = Termine 'O Poço Subcon' em 2:00 ou menos
+Bonus1 = Termine em 1:40 ou menos
+Bonus2 = Termine em 1:25 ou menos
+Objective_Easy = Termine 'O Poço Subcon' em 2:00 ou menos
+Bonus1_Easy = Termine em 3:20 ou menos
+Bonus2_Easy = Termine em 2:50 ou menos
+Tip0 = Olha para todas essas plataformas colocadas todas em ordem. Seria uma pena se alguém [name]pulasse[/name] todas elas...
+
+[Hat_SnatcherContract_DeathWish_Speedrun_Illness]
+Title = A Infecção fez Speedrun
+Objective = Termine 'A Infecção se Espalhou' em 7:00 ou menos
+Bonus1 = Termine em 6:30 ou menos
+Bonus2 = Termine em 6:00 ou menos
+Objective_Easy = Termine 'A Infecção se Espalhou' em 14:00 ou menos
+Bonus1_Easy = Termine em 13:00 ou menos
+Bonus2_Easy = Termine em 12:00 ou menos
+Tip0 = Se você precisa [name]voltar para o começo[/name] depressa, porque não tenta [name]se jogar de um penhasco[/name]? É sério! [wave]Tenta![/wave]
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
+Title = Colapso de Fenda: Máfia de Cozinheiros
+Objective = Escape da fenda Máfia de Cozinheiros
+AllPons = Pegue todas as Gemas da Fenda
+AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
+Faster = Escape com 30 segundos faltando
+Faster_Easy = Escape com 15 segundos faltando
+Condition = A Fenda Temporal ficou instável!
+Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse pegar eles mais facilmente...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
+Title = Colapso de Fenda: Dead Bird Studio
+Objective = Escape da fenda Dead Bird Studio
+AllPons = Pegue todas as Gemas da Fenda
+AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
+Faster = Escape com 30 segundos faltando
+Faster_Easy = Escape com 15 segundos faltando
+Condition = A Fenda Temporal ficou instável!
+Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Subcon]
+Title = Colapso de Fenda: Subcon Sonolento
+Objective = Escape da fenda Subcon Sonolento
+AllPons = Pegue todas as Gemas da Fenda
+AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
+Faster = Escape com 30 segundos faltando
+Faster_Easy = Escape com 15 segundos faltando
+Condition = A Fenda Temporal ficou instável!
+Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse você pegar eles mais facilmente...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
+Title = Colapso de Fenda: Alpine Skyline
+Objective = Escape da fenda Alpine Skyline
+AllPons = Pegue todas as Gemas da Fenda
+AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
+Faster = Escape com 30 segundos faltando
+Faster_Easy = Escape com 15 segundos faltando
+Condition = A Fenda Temporal ficou instável!
+Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
+
+[Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
+Title = Colapso de Fenda: Fundo do Mar
+Objective = Escape da fenda Fundo do Mar
+AllPons = Pegue todas as Gemas da Fenda
+AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
+Faster = Escape com 30 segundos faltando
+Faster_Easy = Escape com 15 segundos faltando
+Condition = A Fenda Temporal ficou instável!
+Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
+
+[Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
+Title = Pulos da Máfia
+Objective = Termine 'Ela Veio do Espaço' em apenas 15 pulos
+Presses1 = Termine em 11 pulos
+Presses2 = Termine em 7 pulos
+Objective_Easy = Termine 'Ela Veio do Espaço' em apenas 24 pulos
+EasyPresses1 = Termine em 18 pulos
+EasyPresses2 = Termine em 14 pulos
+Tip0 = Com um toque, sua [icon:icehat] pode ser usada para subir nas bordas sem ter que pular. Parece útil!
+
+[Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
+Title = Bons Momentos com Snatcher
+Objective = Sobreviva ao Snatcher por 2 minutos
+Medium = Sobreviva ao Snatcher 4 minutos
+Long = Sobreviva ao Snatcher 6 minutos
+Objective_Easy = Sobreviva ao Snatcher por 1 minutos
+Medium_Easy = Sobreviva ao Snatcher por 2 minutos
+Long_Easy = Sobreviva ao Snatcher por 3 minutos
+Condition = Dessa vez, sem poções azuladas!
+Tip0 = Qual é, garota! Vamos ser amiguinhos! Que tal eu não jogar nenhuma poção azul em você e você não me atingir com seu guarda-chuva. Fechado?
+
+[Hat_SnatcherContract_DeathWish_HardCastle]
+Title = O Bigode do Infinito
+Objective = Acabe com todos os Caras Maus
+DontFry = Não se queime
+MeleeOnly = Não use nenhum projétil
+Tip0 = Certifique-se de [name]matar todo mundo[/name], garotinha! Você não vai querer chegar no fim só para saber que tem que [name]começar tudo de novo[/name], vai?
+
+[Hat_SnatcherContract_DeathWish_NiceBirdhouse]
+Title = Santuário dos Pássaros
+Condition = Não é permitido machucar os passarinhos!
+Objective = Passe voando pela Gaiola
+TimeLimit = Chegue no fim em 65 segundos
+TimeLimit_Easy = Chegue no fim em 3 minutos
+NoKills = Com a insígnia Herói de um Golpe equipada
+MafiaHunt = Elimine 6 Mafiosos escondidos
+Tip0 = Certifique-se de [name]manter os pássaros longe[/name] desses ovos bomba, não quero ver ninguém se machucando!
+
+[Hat_SnatcherContract_DeathWish_CameraTourist_1]
+Title = Turista Fotomaníaca
+Objective = Tire uma foto de 8 inimigos diferentes
+GroupShot = Tire uma foto com 3 inimigos diferentes nela
+AllBosses = Tire uma foto de cada chefão
+Tip0 = Certifique-se de pegar um ângulo bom quando for tirar a minha! Enquanto eu estiver [name]te matando[/name], de preferência.
+
+[Hat_SnatcherContract_DeathWish_MovingVault]
+Title = Códigos do Cofre no Vento
+Objective = Abra o Cofre Dourado
+NoSlow = Não desacelere o tempo
+Kill = Ache tempo para derrotar 10 mafiosos
+Kill_Easy = Ache tempo para derrotar um mafioso
+Condition = Você tem apenas 30 segundos para pegar cada código
+Tip0 = Leve o tempo que precisar com isso, garota. Apenas relaxe e veja os Códigos do Cofre voarem com o vento. É bem calmante!
+
+[Hat_SnatcherContract_DeathWish_MafiaBossEX]
+Title = De novo! De novo!
+Objective = Derrote o Chefão
+NoMiss = Não perca sua chance de atacar
+NoHit = Com a insignia Herói de um Golpe equipada
+Condition = Ele está energizado!
+Tip0 = Parece que esse trouxa está sendo um pouco mais cuidadoso com o corpo novo dele, mas ainda tem o mau hábito de atirar e pisar forte até [name]ficar azul[/name].
+
+[Hat_SnatcherContract_DeathWish_BirdBossEX]
+Title = Matando dois Pássaros
+Objective = Derrote os dois Diretores
+Fast = Vença com mais de 100 segundos faltando no cronômetro
+BestBird = Ataque apenas um diretor até o finalzinho
+Condition = Esse projeto é uma colaboração...
+Tip0 = Tem muita coisa acontecendo aqui, mas não se distraia![br]Lembre-se, garota: um pássaro na mão é melhor que dois voando!
+
+[Hat_SnatcherContract_DeathWish_SnatcherEX]
+Title = Brecha no Contrato
+Objective = Derrote o Snatcher
+Condition = Estou ainda mais bonitão que o normal!
+FewHits = Não deixe sua vida cair para 1 PV 
+NoUmbrella = Não me ataque! Apenas jogue poções azuis!
+Tip0 = Não tente procurar lugares para cair [name]entre as ondas de choque[/name]. Na verdade, tente deitar com a cara no chão, vai deixar isso [shake]BEM MAIS FÁCIL.[/shake]
+
+[Hat_SnatcherContract_DeathWish_MuGirlEX]
+Title = Sem Mais Caras Maus
+Objective = Derrote a Garota do Bigode
+NoHat = Não use nenhuma das suas habilidades de chapéu estúpidas!
+Time = Não fique mais do que 3 minutos na Zona Hyper
+Condition = Ela roubou um monte dessa peças temporais estranhas!
+Tip0 = Não vá que nem uma doida em cima dela como você faz. Tente ficar viva e aprender a [name]desviar dos ataques dela[/name] primeiro.
+
+[Hat_SnatcherContract_DeathWish_KillEverybody]
+Title = Lista Negra do Snatcher
+Objective = Mate 5 mafiosos sem levar um soco
+NoBully = Mate 10 corvos empurrões sem levar um empurrão
+KillEmAll = Mate um inimigo de cada tipo
+Condition = Eles já sabem de tudo!
+Tip0 = Certifique-se de matar [name]todo mundo[/name] dessa lista, certo? Alguns desses são difíceis de encontrar. Você deve ter que olhar em [name]diferentes capítulos[/name].
+
+[Hat_SnatcherContract_DeathWish_EndlessTasks]
+Title = Andar a Ver Navios
+Objective = Complete 40 tarefas
+NoMiss = Complete 40 tarefas sem perder uma
+More = Complete 70 tarefas
+Objective_Easy = Complete 30 tarefas
+Condition = Não tem fim
+Tip0 = Leve um tempo para [name]estudar a planta[/name] do navio. Pode ter alguns caminhos que talvez você nem conheça!
+
+[Hat_SnatcherContract_DeathWish_BackFromSpace]
+Title = Então Você Voltou do Espaço
+Objective = Chegue até a Peça Temporal
+Kills = Acabe com todos os OVNIs
+Speed = Chegue no fim em 65 segundos
+Speed_Easy = Chegue o fim em 3 minutos
+Condition = Máfia viu espaçonave!!
+Tip0 = Você não vai muito longe nessa se não souber como [name]cancelar o mergulho para subir uma parede[/name], o que quer que isso seja. Vou deixar você descobrir.
+EasyTip = Tente usar o Chapéu de Parar o Tempo!
+
+[Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
+Title = Fenda da Comunidade: Estúdio Rhythm Jump
+ShortTitle = Estúdio Jump Studio
+Condition = Contribuido por Lane 'FlameLFH' Haskins
+Objective = Termine a Fenda Temporal
+AllPons = Pegue todas as Gemas da Fenda
+AllPages = Pegue todas as páginas do livro.
+Tip0 = Esse é todo seu, garotinha. Eu sou um dançarino horrível.[br]Eu nem tenho as pernas para isso.
+
+[Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
+Title = Fenda da Comunidade: Viagens do Crepúsculo
+ShortTitle = Viagens do Crepúsculo
+Condition = Contribuido por Eric 'Jak' Ridge
+Objective = Termine a Fenda Temporal
+AllPons = Pegue todas as Gemas da Fenda
+AllPages = Pegue todas as páginas do livro.
+Tip0 = Pare de soar esses sinos, criança. Está me dando dor de cabeça.
+
+[Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
+Title = Fenda da Comunidade: A Fenda da Montanha
+ShortTitle = A Fenda da Montanha
+Condition = Contribuido por Devan 'Mr.Brawls' Miller
+Objective = Termine a Fenda Temporal
+AllPons = Pegue todas as Gemas da Fenda
+AllPages = Pegue todas as páginas do livro.
+Tip0 = Eu amo montanhas, você não ama? Olha só para todos esses penhascos!
