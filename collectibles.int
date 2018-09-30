@@ -1,0 +1,322 @@
+﻿[general]
+YouGotItem0 = Você conseguiu [plural][name][itemname][/name]![custom0]
+custom0 = [custom0]
+custom1 = [custom1]
+custom2 = [custom2]
+custom3 = [custom3]
+
+Plural0 = Um(a)
+Plural1 = Um(a)
+
+TwoItemsAnd = e
+
+GenericYarnSuffix = Lã
+GenericHatSuffix = Chapéu
+
+[trigger_abilities]
+BadgeCollect0 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado; apenas [yarn][badgepoints_left][/yarn] para completar!
+BadgeCollect1 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado, e você possui [yarn][badgepoints_player][/yarn]! Pressione [button:start] para abrir o menu, onde você pode costurá-lo!
+BadgeCollect2 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para costurar!
+BadgeCollect3 = Você possui [yarn][icon:yarn]lãs[/yarn] o suficiente para costurá-lo!
+BadgeCollect4 = Você já possui este chapéu, mas você ganhou [yarn]+1 [icon:yarn]lã[/yarn] mesmo assim!
+
+UnknownName = Chapéu ???
+UnknownDescLocked0 = Sem descrição.
+UnknownDescTech0 = Este chapéu não parece ser útil.
+
+SprintName = Chapéu de Corrida
+SprintDescLocked0 = Esta lã está parecendo pronta para correr!
+SprintDescLockedHat = Este chapéu está parecendo pronto para correr!
+SprintDesc0 = Segure [button:badge] para correr!
+
+StatueFallName = Chapéu de Gelo
+StatueFallFun0 = Tão frio!
+StatueFallTech0 = Segure [button:badge] para executar um pisão!
+
+HoverName = Chapéu Flutuante
+HoverDescFun0 = Flutua para longe de uma situação grudenta!
+HoverDescTech0 = Pressione e segure [button:badge] para flutuar por um curto tempo!
+
+HelpName = Chapéu da Criança
+HelpDescTech0 = Pressione [button:badge] para procurar pela próxima [icon:timepiece][timepiece]Peça Temporal[/timepiece]!
+HelpUsage = Use seu [icon:activehat] para encontrar seu objetivo!
+
+ChemicalName = Chapéu de Infusão
+ChemicalDescFun0 = Faça misturas malucas!
+ChemicalDescTech0 = Pressione [button:badge] para arremessar uma mistura explosiva!
+
+TimeStopName = Chapéu de Parar o Tempo
+TimeStopDescFun0 = A morte é inevitável, seu tempo é precioso.
+TimeStopDescTech0 = Pressione [button:badge] para desacelerar o tempo!
+
+FoxMaskName = Máscara do Habitante
+FoxMaskDescFun0 = Esta é uma lã assustadora!
+FoxMaskDescHat0 = Esta é uma máscara assustadora!
+FoxMaskDescTech0 = Pressione [button:badge] para ver o mundo pelos olhos de um[br]habitante!
+
+MapName = Mapa de Relíquias
+MapDesc0 = Uma mão amiga para encontrar relíquias!
+
+DetectiveHatName = Roupa de Solucionar Crimes
+DetectiveHatDesc0 = Hora de solucionar o crime! Cuidado com esta pequena detetive!
+
+ParadeHatName = Roupa de Desfile
+ParadeHatDesc0 = A líder que esta cidade precisa!
+
+[abilities]
+BadgeCollect0 = É necessário [hint][badgepoints_required] Pontos de Insígnia[/hint] para ativar; faltam apenas [name][badgepoints_left][/name]!
+BadgeCollect1 = É necessário [hint][badgepoints_required] Pontos de Insígnia[/hint] para ativar, e você possui [name][badgepoints_player][/name]! Pressione [button:start] para abrir o menu, onde você pode ativá-lo!
+BadgeCollect2 = É necessário [badgepoints_required] Pontos de Insígnia para ativar!
+BadgeCollect3 = Você possui Pontos de Insígnia suficientes para ativá-lo!
+BadgeCollect4 = Você já possui essa insígnia, mas conseguiu +1 Pontos de Insígnia mesmo assim!
+BadgePart = Parte
+
+UnknownName = Habilidade ??? 
+UnknownDescFun0 = Sem descrição.
+UnknownDescTech0 = Esta habilidade não parece ser útil.
+
+OneHitDeathName = Insígnia do Herói de Um Golpe
+OneHitDeathDesc0 = Você morre em um golpe. Apenas para os corajosos!
+
+DamageToEnergyName = Insígnia da Angústia Adolescente
+DamageToEnergyFun0 = Uma garotinha zangada nunca perde a energia!
+DamageToEnergyTech0 = Ganhe energia atacando os inimigos!
+
+TeleportName = Insígnia do Reino do Snatcher
+TeleportDescFun0 = Desfaça seus erros!
+TeleportDescTech0 = Pressione [button:badge] para desfazer um pulo!
+
+MoreEnergyFromOrbsName = Insígnia do Explorador
+MoreEnergyFromOrbsFun0 = Mal posso esperar para me aventurar!
+MoreEnergyFromOrbsTech0 = Receba 4x mais energia de gemas!
+
+SuckInOrbsName = Insígnia de Ímã de Itens
+SuckInOrbsFun0 = Item fora de alcance? Não é mais um problema!
+SuckInOrbsTech0 = Automaticamente atraia [br]colecionáveis próximos!
+
+RocketJumpName = Insígnia de Pulo-Foguete
+RocketJumpFun0 = Voe aos céus!
+RocketJumpTech0 = Segure [button:jump] depois de um pulo duplo para ser lançado para cima!
+
+MoreHealthName = Insígnia de Vida Extra
+MoreHealthFun0 = Aguente mais golpes!
+MoreHealthTech0 = Te dá mais um compartimento de vida!
+
+MuddyName = Insígnia do Balde de Lama
+MuddyDescFun0 = A insígnia vem com um balde de lama grátis! Eba?
+MuddyDescTech0 = Pressione [button:badge] para ficar lamacento!
+
+AttackProjectileName = Insígnia de Projétil
+AttackProjectileDescFun0 = Insígnia de Projétil
+AttackProjectileDescTech0 = Segure e solte [button:attack] para soltar uma onda de raios!
+
+CameraName = Insígnia de Câmera
+CameraDesc0 = Pressione [button:share] para tirar fotos de sua jornada!
+CameraDesc1 = Troque-a a qualquer momento no menu [button:start]!
+
+ScooterBadgeName = Insígnia de Scooter
+ScooterBadgeDesc0 = Aprimora seu [icon:sprinthat][br]para uma scooter!
+
+ScooterSubconBadgeName = Insígnia do Carteiro
+ScooterSubconBadgeDesc0 = Aprimora seu [icon:sprinthat] para uma scooter de carteiro!
+
+AirAttackBadgeName = Insígnia de Ataque Aéreo
+AirAttackBadgeDesc0 = Permite que você ataque no ar!
+
+MumbleBadgeName = Insígnia de Resmungo
+MumbleBadgeDesc0 = Tampa seus ouvidos, agora você só pode ouvir vagos resmungos!
+
+HookshotBadgeName = Insígnia de Arpéu
+HookshotBadgeDesc0 = Pressione e segure [button:attack] para balançar de ganchos!
+
+FindRelicsBadgeName = Insígnia de Encontrar Relíquias
+FindRelicsBadgeDesc0 = Mostra um mapa para [icon:relic] próximas!
+
+LungeAttackBadgeName = Insígnia de Investida
+LungeAttackBadgeDesc0 = Insígnia de Investida
+
+NoFallDamageBadgeName = Insígnia Flutuante
+NoFallDamageBadgeDesc0 = Automaticamente abra seu guarda- chuva antes de um impacto mortal!
+
+NoBonkBadgeName = Insígnia Anti-Pancada
+NoBonkBadgeDesc0 = Sem mais pancadas na parede durante investidas!
+
+HatCooldownBonusBadgeName = Insígnia do Chapeleiro Veloz
+HatCooldownBonusBadgeDesc0 = Significativamente reduz o tempo de recarga quando usar chapéus!
+
+[loot]
+MafiaTieName = Gravata da Máfia
+MafiaTieDesc0 = Tá toda suada e nojenta! Eca!
+MafiaTieGoldName = Gravata Dourada da Máfia
+MafiaTieGoldDesc0 = O quê?! Essa coisa deve ser bem pesada para vestir. E cara!
+
+LevelTabletName = Tablete Ancião
+LevelTabletDesc0 = Parece dizer algo... mas precisa de mais peças!
+LevelTabletDesc1 = Mas realmente parece muito raro. Melhor ficar atento para mais desses balões!
+
+BirdPassportName = Passaporte da União Federal das Aves
+BirdPassportDesc0 = Agora sou legalmente um pássaro! Eu acho?
+
+TimePieceName = Peça Temporal
+TimePieceDesc0 = Eu quero isso. Muito.
+
+BadgeSlotName = Alfinete de Insígnia
+BadgeSlotDesc0 = Permite que você equipe mais uma [icon:badge][name]insígnia[/name]!
+
+RouletteTokenName = Ficha da Fenda
+RouletteTokenDesc0 = Use na máquina de gemas para ganhar recompensas fofas!
+
+[levelspecific]
+VaultCodeName = Código do Cofre
+VaultCodeDesc0 = Parte do código para um cofre!
+VaultCodeRedName = Código do Cofre Vermelho
+VaultCodeGreenName = Código do Cofre Verde
+VaultCodeBlueName = Código do Cofre Azul
+VaultCodeYellowName = Código do Cofre Dourado
+
+[cosmetic]
+UnknownName = Cosmético ???
+UnknownDesc0 = Sem descrição.
+
+KidHatName = Chapéu da Criança
+KidHatDesc0 = Seu orgulho e alegria.
+
+ThorHatName = Boné do Inventor
+ThorHatDesc0 = Te dá um ataque giratório enquanto estiver no ar!
+
+WitchHatName = Chapéu da Bruxa
+WitchHatDesc0 = Reduz sua energia significantemente, mas também a regenera!
+
+HolidayHatName = Gorro Natalino 
+HolidayHatDesc0 = Um toque natalino!
+
+KidHatBoyName = Chapéu da Criança
+KidHatBoyDesc0 = Seu orgulho e alegria.
+
+DinoHatName = T-Rex Têxtil
+DinoHatDesc0 = Me ouça rugir! Roaaarrr!
+
+HeadbandName = Tiara de Joaninha
+HeadbandDesc0 = Flutue como uma joaninha, ferroe como uma também. Fui!
+
+CatBeanieName = Herói de Um Golpe
+CatBeanieDesc0 = Você morre em um golpe. Apenas para os corajosos!
+
+FuzzyHornHatName = Ovelha Dorminhoca
+FuzzyHornHatDesc0 = Faz com que você se sinta como uma ovelha preguiçosa, deitada sob o sol, tirando um cochilo.
+
+RaccoonHatName = Guaxinim Dorminhoco
+RaccoonHatDesc0 = Dormindo em sua cabeça, que tipo de monstro o acordaria?
+
+ParadeHatName = Chapéu do Desfile
+ParadeHatDesc0 = O líder que esta cidade precisa!
+
+[skins]
+SkinDesc0 = Tinja a cor de suas roupas!
+WhiteRedSkinName = O Chefão
+RedWhiteSkinName = A Lua Sangrenta
+GreenOrangeSkinName = O Quebra-nozes
+BlueYellowSkinName = Torta de Blueberry
+BlackSkinName = A Viúva
+CaptainName = Capitão do Mar
+WahooName = O Grande Apetite
+FreedomSkinName = A Liberdade
+MarginOfNightSkinName = Beira da Noite
+GirlySkinName = Fofa e Perigosa
+BronzeSkinName = Bronze
+GreenGoldName = O Bicho da Floresta
+LiquoriceName = Alcaçuz
+MintyName = Fresco como Hortelã
+CookieDoughSkinName = Massa de Biscoito
+
+[remixes]
+RemixDesc_MafiaTown0 = Um novo remix musical foi desbloqueado para a Cidade Mafiosa!
+RemixDesc_Subcon0 = Um novo remix musical foi desbloqueado para a Floresta Subcon!
+RemixDesc_Trainwreck0 = Um novo remix musical foi desbloqueado para a Batalha dos Pássaros!
+RemixDesc_Sand0 = Um novo remix musical foi desbloqueado para o Horizonte Alpino!
+RemixDesc_Rift0 = Um novo remix musical foi desbloqueado para as Fendas Temporais!
+MafiaTownElectroName = Cidade Mafiosa (Electronic Remix)
+ClockTowersOrchestralName = Fenda Temporal Aquática (Orchestral Remix)
+SandmobileJazzName = Areiamóvel (Jazz Remix)
+MafiaBossOrchestralName = Chefão da Máfia (Orchestral Remix)
+MoonJazzName = A Lua (Jazz Remix)
+SubconVillageScifiName = Vilarejo Subcon (Sci-Fi Remix)
+
+[weapons]
+UmbrellaName = Seu Guarda-chuva
+UmbrellaDesc0 = Você conseguiu seu fiel guarda-chuva de volta!
+UmbrellaDesc1 = Bata em cabeças-duras com [button:attack]!
+
+[decorations]
+DecorationMatch = Combinou! Você identificou uma relíquia desse planeta estranho!
+DecorationSaved = Essa relíquia desconhecida pode combinar com outras!
+DecorationMoney = Você já possui essa relíquia, então você ganhará [number] Gemas no lugar!
+DecorationMystery = Você sente uma perturbação temporal nesta sala... mas provavelmente não é nada.
+
+DecorationGenericName = Relíquia
+
+TrainToyName = Trem de Brinquedo
+TrainToyDesc = Piuííí! Aí vem capitão eu!
+TrainTracksName = Trilhos do Trem de Brinquedo
+TrainTracksDesc = Esses trilhos cairiam bem com um trem!
+TrainSetName = Trem Minúsculo (E Pássaros?)
+TrainSetDesc0 = Isso parece com uma versão minúscula do "trem" que os "pássaros" usam para "ir trabalhar".
+TrainSetDesc1 = Tem algum pássaro minúsculo aí? Eles fazem "filmes" minúsculos?
+TrainSetDesc2 = Eu não tenho tempo para lidar com a sociedade dos pássaros minúsculos!
+
+UFOName = OVNI
+UFODesc = Esse brinquedo está pronto para usar plantações como seu bloco de desenhos!
+CowToyName = Brinquedo de Vaca de Plástico
+CowToyDesc = Parece que essa vaca esteve em alguns lugares!
+UFOName = Ridicularização de Vida Fora do Planeta
+UFODesc0 = Mas o quê! Naves espaciais não são assim!
+UFODesc1 = Cadê a madeira? Por que está sugando vacas?
+UFODesc2 = Isso é humilhante! Vou processar!
+
+StatuePedestalName = Pedestal de Estátua
+StatuePedestalDesc = Já vi pessoas nuas esculpidas sobre essas coisas. Eca!
+
+StatueHeadName = Estátua de Mim
+StatueHeadDesc = Esta sou eu! Isso definitivamente significa que agora sou famosa.
+
+CrayonBoxName = Caixa de Giz de Cera
+CrayonBoxDesc = Útil para guardar, é... gizes de cera gigantes, eu acho?
+
+RedCrayonName = Giz de Cera Vermelho
+GreenCrayonName = Giz de Cera Verde
+BlueCrayonName = Giz de Cera Azul
+
+RedCrayonDesc = Vermelho é uma cor boa, mas apenas porque você precisa dela para fazer roxo!
+GreenCrayonDesc = Agora eu finalmente posso ser uma vândala! Hora de pintar as paredes de verde!
+BlueCrayonDesc = Azul é uma cor decente, mas nunca venceria numa luta contra o roxo!
+
+CrayonCompleteName = Kit de Graffiti Tricolor
+CrayonCompleteDesc0 = Isso foi feito para vandalismo. Definitivamente. Até eu me sinto forçada a pegá-los e desenhar em TUDO.
+CrayonCompleteDesc1 = Posso somente concluir que essa ferramenta de vandalismo deve ser ilegal.
+CrayonCompleteDesc2 = Isso faz com que essa relíquia seja extra rara. Se apenas a embalagem não tivesse sido aberta. Somente um monstro abreria a embalagem de um item raro.
+
+ToyDetonatorName = Detonador de Brinquedos
+ToyDetonatorDesc = Nunca termina bem quando essas coisas estão envolvidas em desenhos animados!
+
+ToyTNTName = TNT de Brinquedo
+ToyTNTDesc = Mãos ao alto, é um assalto! Exploda o cofre! Boom! Estamos ricos!
+
+RobotCatName = Gato Robótico de Brinquedo
+RobotCatDesc = Uma parte de mim mal pode esperar para virar uma senhora velha com gatos! Rainha dos gatos!
+
+BallOfStringName = Novelo
+BallOfStringDesc = Apenas um gato acharia esse brinquedo interessante!
+
+BurgerTopName = Almofada de Hambúrguer (Superior)
+BurgerTopDesc = Uma almofada com o formato de um hambúrguer. Está faltando o irmão de baixo! Essa não!
+BurgerBottomName = Almofada de Hambúrguer (Inferior)
+BurgerBottomDesc = Uma almofada com o formato de um hambúrguer. Está faltando o irmão de cima! Essa não!
+BurgerCushionName = Dispositivo Terráqueo de Sentar
+BurgerCushionDesc0 = Pesquisas concluem que essa coisa é bastante macia para sentar em cima.
+BurgerCushionDesc1 = Tão macia, que a única conclusão lógica é que essas são as cadeiras desse planeta.
+BurgerCushionDesc2 = Não é um lanche. Eu tentei. Tem gosto de tecido.
+
+[ItemQuality]
+SupporterPrefix = Apoiador
+GoldPrefix = Ouro
+CompletionistPrefix = Complecionista

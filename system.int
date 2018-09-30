@@ -1,0 +1,18 @@
+﻿[Input]
+NewAutoController = Nova Entrada:
+ControllerDisconnect = O controle foi desconectado. Por favor reconecte o controle para continuar.
+
+[levels]
+Chapter = Capítulo
+Act = Ato
+MountainPeak = Pico da Montanha
+FreeRoamDesc = Faça o Que Quiser
+
+[cheats]
+disallowed_outside_editor = Fora do Editor
+
+[Console]
+OfflineMode = Você quer jogar desconectado da internet? As funções do Xbox Live não estarão disponíveis e os dados não serão salvos.
+FailedLogin = Incapaz de conectar-se no momento. Por favor espere e tente novamente.
+Yes = Sim
+No = Não

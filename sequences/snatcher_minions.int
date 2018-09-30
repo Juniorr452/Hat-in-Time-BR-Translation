@@ -1,0 +1,48 @@
+﻿[guides]
+SubconWell0 = [hint]O Poço Subcon[/hint][br]é por aqui!
+Manor0 = [hint]A Mansão[/hint][br]é por aqui!
+EyeBlockade0 = Aquilo com certeza tem o [hint]olhar[/hint] preso em alguma coisa, né?
+Swamp0 = Esse lugar realmente [hint]afunda[/hint] meu espírito... [br]entendeu?
+BigTree0 = Aposto que a vista do topo daquela [hint]árvore enorme[/hint] deve ser muito boa!
+BigTree1 = Falta pouco, garota! 
+BigTree2 = Acho que ia ser muito [br]doloroso se você caísse [br]dessa altura.
+Ice0 = É tão difícil[br]se comunicar[br]com esses dwellers. 
+Ice1 = Talvez você poderia[br][hint]quebrar o gelo[/hint][br]com eles pra gente?
+Graves0 = Eu ouvi falar que dá pra ganhar dinheiro [hint]cavando túmulos[/hint]!
+Mushroom0 = Alguns desses [br][hint]cogumelos te [/hint]quicam [br]pra bem alto! 
+Mushroom1 = Tem uma piada aqui, [br]mas eu não acho que uma criança [br]iria entender.
+Noose0 = Essas cordas vão te dar[br]um carona até la em cima, se você tiver um jeito,[br]segure de se [hint]pendurar[/hint].
+House0 = Aquilo é um [icon:yarn] lá em cima? 
+House1 = Talvez alguns dos [hint]galhos[/hint] [br]aqui perto ainda não [br] foram queimados.
+Fruit0 = Você sabia que a parte[br]macia da fruta as vezes[br]é chamada de carne? 
+Fruit1 = Não dê corpos pra nenhum [hint]espírito irritado[/hint], garota! 
+DwellerPlatform0 = Dizem que se você tocar [br]certos [hint]sinos[/hint]... 
+DwellerPlatform01 = ...Objetos de [shake]outras[/shake] [br][shake]dimensões[/shake] se [br]materializam!
+DwellerPlatform1 = Esses pobres [hint]dwellers[/hint] não conseguem [br]ficar de pé em coisas assim. [br]Eles [hint]passam direto[/hint]!
+Spider0 = Essas [hint]aranhas[/hint] não têm [br]nenhum problema em ficar acima do pântano...
+Trees0 = Não esqueça de [hint]olhar pra cima[/hint]! [br]Tem muita coisa acontecendo em cima dessas árvores.
+Welcome0 = Já deu um jeito de [br]chegar aqui? Que pena.
+Statues0 = Essas estátuas não são legais?
+Fire0 = Cuidado, garota! [br]Tem um pouco de fogo aqui.
+Village0 = É uma pena que todas essas casas estejam vazias agora.[br]São imóveis gratuitos!
+Trap0 = Ei, garota! [br]Fica em cima dessa coisa! [br]É seguro!
+ScooterWall0 = Tem mais[br][hint]gente esperando cartas[/hint] atrás[br]da parede de fogo...
+ScooterWall1 = Você tem que[br]achar os [icon:painting][name]Espíritos do Fogo[/name]para quebrar[br] essa parede!
+
+
+ 
+[manor]
+limitations_alert0 = Ei, novata! O chefe me falou pra eu lembrar que você, uhhh... você assinou aquele papel sobre não usar seus chapéus enquanto estivesse na Mansão.
+limitations_alert_alt0 = Ei, novata! O chefe me disse pra eu, uhhh, te falar que todos os chapéus são proíbidos aqui ou algo do tipo.
+limitations_alert1 = É. Não use eles. Obrigado.
+
+[finale]
+outside0 = Tente não cair [br]na lava, garota!
+outside1 = Esse não é o meu[br]ameaçador e opressivo[br]lar!!
+outside2 = Desde de quando ser [br]assustador é um[br]crime?
+inside0 = Olhe por onde anda,[br]garota!
+inside1 = Sinto cheiro de frango!
+
+[sneakyhiddenstuff]
+book0 = É um livro bem grande e pesado, na capa diz: 'Prova de Consumo Ético Sobre o Capitalismo'.
+book1 = Todas as paginas estão em branco.

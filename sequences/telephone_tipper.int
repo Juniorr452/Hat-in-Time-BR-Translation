@@ -1,0 +1,37 @@
+﻿[murder]
+FirstTip0 = [shake2]Alô? É a garotinha do chapéu? Espero que goste do meu presente... [wave]he he he.[/wave][/shake2]
+FirstTip1 = [shake2][hint]Vá para o fim do trem[/hint]. A irmã do seu tio, [MotherMaidenName], veio te visitar.[/shake2]
+FirstTip2 = [shake2]Acho melhor você mostrar que ama sua família, ou na próxima eu irei estar falando com um cadáver.[/shake2]
+FirstTip3 = [scream]*CLICK*[/scream]
+
+SecondTip0 = [shake2]Então você acha mesmo que pode ficar simplesmente andando pelo trem?[/shake2]
+SecondTip1 = [shake2]Pare de bancar a detetive. Você nunca vai encontrar o verdadeiro assassino...[br][wave]he he he.[/wave][/shake2]
+SecondTip2 = [shake2]Você não tem como acusar alguém sem pistas.[br]O tempo tá passando. Será que você consegue achar pistas o suficiente pra encontrar o assassino?[/shake2]
+
+PetTrap0 = [shake2]Você não desiste, não é mesmo?[/shake2]
+PetTrap1 = [shake2]Parece que o único jeito de me livrar de você... é fazer você ficar sem tempo.[/shake2]
+PetTrap2 = [shake2]Então te trouxe um belo passatempo: [PetName] se meteu em[br]uma enrascada. [PetName] está pendurado nessa corda, bem em cima de uma máquina de cortar madeira. Mas que coincidência![/shake2]
+PetTrap3 = [shake2]E então, o que vai fazer?[br]Impedir [PetName] de virar poeira, ou descobrir quem é o assassino?[/shake2]
+
+DogThankYou0 = Obrigado, humilde humano, por me salvar. Au, au.
+DogThankYou1 = Eu achei essa pista. Espero que te ajude. Au, au.
+
+PetWarning0 = [shake2]Tem certeza que vai deixar [PetName] na mão?[/shake2]
+PetWarning1 = [shake2]Que tal voltar e gastar um pouquinho do seu[br]tempo ajudando [PetName] antes que seja tarde demais?[/shake2]
+
+suspect_mothermaiden0 = ...
+suspect_mothermaiden1 = Tudo bem, você me pegou no flagra, fofa.
+suspect_mothermaiden2 = Como você deve ter percebido, fofa, eu não sou a senhora [MotherMaidenName]. Sou eu, [icon:djgrooves][name]DJ Grooves[/name]!
+suspect_mothermaiden3 = Eu vi que você tava tendo problemas pra gravar um filme, fofa, então eu planejei isso tudo pra te ajudar a fazer um filme interessante!
+suspect_mothermaiden4 = A Expressoruja foi gentil o bastante pra usar a faca de borracha e se fingir de morto pra me ajudar.
+
+ending_revealed0 = Parece que você me descobriu, não é mesmo, fofa? Parece que ninguém consegue fingir um assassinato com você por perto!
+
+[spaceship]
+hub_alert_generic0 = ...
+hub_alert_generic1 = A premiação do [icon:trophy][trophy]prêmio aviário de filmes[/trophy] foi uma fraude. Foi tudo manipulado.
+hub_alert_dj2 = Quem ganhou sabe do poder das [icon:timepiece][timepiece]Peças Temporais[/timepiece]. Ele tem uma guardada, e vai quebrá-la.
+hub_alert_conductor2 =  Quem ganhou sabe do poder das [icon:timepiece][timepiece]Peças Temporais[/timepiece]. Ele tem uma guardada, e vai quebrar ela.
+hub_alert_generic3 = A verdade está escondida nos confins do [hint]Dead Bird Studios[/hint].[br]O que acontece no Dead Bird Studios quando não há ninguém por perto?
+hub_alert_dj4 = Exponha a verdade por trás disso tudo, fofa.
+hub_alert_conductor4 = Exponha a verdade por trás disso tudo, guria.

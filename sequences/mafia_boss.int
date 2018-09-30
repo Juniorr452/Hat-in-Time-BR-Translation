@@ -1,0 +1,23 @@
+﻿[ThroneRoom]
+throne0 = Então... é você!
+throne1 = Desde que você chegou na Cidade Mafiosa, tem chovido essas[timepiece][icon:timepiece] ampulhetas mágicas[/timepiece].
+throne2 = Você deve estar bem perdida, criança com o chapéu.[br]Você está no coração da nossa cidade, perante o mais poderoso homem que jamais encontrará.[br]Tudo o que você possui pertence a mim agora.
+throne3 = Incluindo essa [timepiece][icon:timepiece]ampulheta[/timepiece].[br]Se você a quiser de volta, vamos ter que resolver isso no verdadeiro estilo da Máfia!
+throne4 = Luzes! Ação! É hora... do show.
+
+[Spaceship]
+Intro0 = Então... nos encontramos novamente. Minha arqui-inimiga!
+Intro1 = ...[wait][scream][big]O QUÊ?![/big][br]Você não se lembra de mim?![/scream] Que rude!
+Intro2 = Sou eu, o Chefe da Máfia! Lembra-se? Você me explodiu na nossa pequena reunião, e sua jovem "amiga" capturou meus restos nesta jarra!
+Intro3 = Estou sem corpo! Eu deveria estar furioso! Mas tudo bem. Passado é passado, e eu vou aceitar sua carcaça como pedido de desculpas.
+Intro4 = [scream][big]VOCÊ NÃO VAI ME DAR?![/big][br]Quanta ousadia em uma criança tão pequena![/scream] Se eu tivesse mãos, iria te dar um tapa!
+Intro5 = Eu vou apenas comprar um corpo novo então! Deve ter alguma pobre alma por ai que aceitaria trocar o corpo por dinheiro!
+
+Intro6 = Posso não parecer, mas eu sou bem viajado. Sei de todos os cantos e segredos desse planeta!
+Intro7 = Compre minha insígnia de mapa, e eu vou te mostrar aonde você pode encontrar [name][icon:relic]relíquias[/name] que te farão rica!
+
+NothingToSell0 = PAbra meu mapa sempre que você precisar achar [name][icon:relic]relíquias[/name]!
+
+[Finale]
+outside0 = Oh, é tão quente aqui fora, meu líquido está quase fervendo!
+suicide0 = Não, VOCÊ é o vilão! Dá o fora!

@@ -1,0 +1,41 @@
+﻿[mafia_hq]
+intro0 = Os Mafiosos são péssimos na cozinha![br] Mas não tema, a [name]Gata Cozinheira[/name] está aqui!
+intro1 = Eu preparo o jantar de verdade aqui em cima e troco a comida antes que alguém coma o que a Máfia cozinhou.
+intro2 = Tenho plena certeza que alguém morreria se eles comessem comida feita pela Máfia.
+
+new0 = Ahn? Você quer invadir o teatro para falar com o Chefe da Máfia?
+new1 = Desculpe, mas não dá! Você teria que entrar pela porta da frente, e ela está totalmente bloqueada. O único outro caminho seria pelos dutos de ventilação.
+new2 = Apesar que você precisaria de uma [icon:key][hint]chave[/hint] para isso. Eu acredito que alguém da Máfia deve tê-la. Vou te contar, aposto que se você os servir um [hint]copo de chocolate quente[/hint], eles vão te emprestar a chave com certeza.
+
+mask0 = Uhhh... por que você está usando uma máscara com a minha cara?
+
+gotkey0 = Você conseguiu a chave? Ótimo! Apenas vá em direção ao freezer, tem uma entrada para os dutos de ventilação que você pode usar!
+
+[spaceship]
+firstdecoration0 = Que nave especial mais adorável você tem aqui! Desculpe pela invasão, mas eu queria mesmo ver como uma espaçonave alienígena é.
+firstdecoration1 = Sabe, eu esperava que alienígenas fossem mais verdes e sedentos por carne. Mas acredito que vocês aliens vem em todas as formas e tamanhos, hein?
+firstdecoration2 = Ei, se você está pensando em explorar nosso planeta, você precisa entendê-lo primeiro. Se não você nem vai saber se está pisando em grama ou areia movediça!
+firstdecoration3 = Não sabe como identificar [icon:relic][name]relíquias[/name]? Não tema, a [name]Gata Cozinheira[/name] está aqui!
+firstdecoration4 = Vou te deixar ficar com a relíquia [name]Almofada Hamburger[/name] de graça!
+firstdecoration5 = Você pode identificar essa [icon:relic][name]relíquia[/name] no pódio! Se você as colocar no pódio na ordem certa, você pode conseguir entendê-la.
+firstdecoration7 = Se você for capaz de identificar uma [icon:relic][name]relíquia[/name],[br]algo ótimo deve acontecer! Nunca se sabe! Então fique atento achar para relíquias.
+firstdecoration8 = Eu te ensinei tudo o que eu sei sobre relíquias!
+
+cooking0 = Ah, ei! Espero que você não se importe comigo usando sua cozinha. Eu pensei em te fazer uma boa comida terrestre, já que você é um alien e tudo mais.
+cooking1 = Diga, você é uma pessoa que prefere carnes ou vegetais?
+cooking_q_steak = Carne
+cooking_q_veggie = Vegetais
+cooking2_steak = É mesmo? Bom, espero que você não esteja procurando cozinhar alguns terráqueos!
+cooking2_veggie = É mesmo? Acho que vocês aliens tem mais em comum com, uhhh, formigas e tudo mais?
+cooking3 = De qualquer forma, espero que minha comida esteja pronta antes de você sair. Eu gostaria de ver quão bons meus pratos ficariam usando um forno alienígena!
+
+cooking4 = Sabe, eu pensei que a tecnologia de um forno alienígena seria um pouco mais avançada.
+
+[finale]
+outside0 = Eu já estive em cozinhas quentes antes, mas isso é outra coisa! Eu não sei como você não está nem suando, eu estou cozinhando. 
+outside1 = Talvez você poderia furar a fila e descobrir quem é o chefe aqui?
+ninjacat0 = Miau.
+ninjacat1 = Mimiiaauu.
+ninjacat2 = [wave]Miiiaaauuuuuuu.[/wave]
+ninjacat3 = É, acho que você não fala esse dialéto regional de gato. Heh.
+group_counter0 = É! Dá o fora!

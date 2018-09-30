@@ -1,0 +1,22 @@
+﻿[deadbird]
+lobby_a0 = Ei! Olhe bem onde você está indo, camarada![br]Não chegue perto do [icon:djgrooves][name]DJ Grooves[/name], morô?
+lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] significa muito para nós, então temos que protegê-lo. Não pense em fazer nada, ok? Estarei de olho em você amiga.
+
+lobby_b0 = Tá vendo meus dedos aqui? Tá vendo como eles estão estralando?[br]Esse é o sinal universal de pássaro pra "se manda".
+lobby_b1 = Olhe, meus dedos têm gostado de você. Olhe para eles. Snap, snap, snap. Sacou?
+
+lobby_c0 = Você não é um pássaro, hein? Então, o que te traz ao Dead Bird Studio? Antes de responder, você deve assistir ao último filme do DJ Grooves. É muuuito bom, e não estou sendo pago para dizer isso. Sério!
+
+lobby_d0 = Ei, garotinha! Você deveria participar do nosso fã clube do [icon:djgrooves][name]DJ Grooves[/name]. Você ganha um cartão de membro e tudo mais. É um bom negócio para qualquer pássaro cinéfilo.
+
+lobby_e0 = Não conte pra ninguém, mas antes do [icon:djgrooves][name]DJ Grooves[/name] ficar fascinado com os filmes, ele dirigia um clube noturno. Eu sei, doido, né? Quem pensaria...
+
+[finale]
+outside0 = Vaza, criança.[br]Tô tentando entrar[br]na fila.
+outside1 = O chefe vai nos [br]tirar dessa. [name]DJ Grooves[/name] [br]é uma estrela, sabe.
+outside2 = Olhando pra trás,[br]talvez eu poderia[br]ter feito algo melhor[br]com a minha vida.
+group_counter0 = Dá o fora! Não é, galera?!
+group_counter1 = Dá o fora!
+group_counter2 = É, cai fora!
+group_counter3 = Vá embora!
+group_counter4 = Você é uma babaca!

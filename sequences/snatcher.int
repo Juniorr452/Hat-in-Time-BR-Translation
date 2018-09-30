@@ -1,0 +1,176 @@
+﻿[manor]
+intro0 = [shake2]Ei ei! Não tem razão para bater no seu velho amigo, [wave]ha ha ha ha[/wave]![/shake2]
+intro1 = [shake2]O que você está fazendo aqui? Não sabe que ela vai ficar doida se te pegar?[/shake2]
+intro2 = [shake2]O quê, eu? Só olhando por algumas coisas do meu velho amigo, [name]o Moonjumper[/name][/shake2].
+intro3 = [shake2]Pobre companheiro, ele nem se lembra mais que vivia aqui! Tooooooda vez eu o trago algo desse lugar, ele quase se mija de medo, [wave]HA HA HA!![/wave][/shake2]
+intro4 = [shake2][name]A Floresta Subcon[/name] é pequena demais para nós dois, sabe. E você, uma garotinha, está tentando entrar nessa briga pela floresta também? Ora ora, não vai dar.[/shake2]
+intro5 = [shake2]Você precisa ir lá pra cima, ou então ela vai vir aqui e te achar, não é? Seria uma pena se [hint]a chave tiver desaparecido[/hint], [wave]ha ha ha[/wave]![/shake2]
+
+chase0 = [shake2][wave]Ha ha ha![/wave] É meu![/shake2]
+chase1 = [shake2]O que vai fazer? Sabe, você não pode [hint]machucar uma sombra[/hint]![/shake2]
+
+givekey0 = [shake2]Quer a chave? Toma, é sua![/shake2]
+givekey1 = [shake2]Não preciso dela mesmo... e nem você vai precisar dela quando ela te pegar! [wave]HA HA HA![/wave][/shake2]
+
+enter_manor_hascontract0 = [shake2]Eeeeeeei amiguinha! Lembre-se do nosso contrato, sem abilidades aqui dentro![/shake2]
+enter_manor_hascontract1 = [shake2]Tem algumas... coisas... aí dentro em que eu não quero que você mexa! Lembre-se das suas obrigações contratuais![/shake2]
+
+[subconforest]
+scooter_intro0 = [shake2]BOOOOOOOM DIA! Preparada pra completar suas obrigações contratuais?[/shake2]
+scooter_intro1 = [shake2]Não sou sem coração! De vez em quando eu vou escondido nas caixas de correio e roubo as cartas, para então entregar elas pros meus minions. Desse jeito, é como se alguém se importasse com eles![/shake2]
+scooter_intro2 = [shake2]Mas nosso último carteiro foi embora [wave]*poof*[/wave]. Você vai ter que fazer o trabalho dele![/shake2]
+scooter_intro3 = [shake2]Tenho um 'presente' para a ocasião. Mas ele requer um chapéu especial para ser usado - Espero que você tenha ele! [wave]Ha ha ha![/wave][/shake2]
+
+scooter_onenter0 = [shake2]Essa [icon:badge][name]insígnia[/name] é de aluguel. Preciso dela antes de você ir embora! Lembre-se de colocar seu [icon:sprinthat][name]Chapéu de Corrida[/name], ou ela não vai fazer absolutamente nada! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
+scooter_onenter1 = [shake2]Todos os minions que estiverem esperando suas cartas vão ter [hint]um ícone em cima deles[/hint]. Volte aqui quando tiver terminado.[/shake2]
+
+[contract_initial]
+intro0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
+intro1 = [shake][big][scream][wave]TROOOOOOOOOOOOOOOOOOOOOUXA!![/wave][/scream][/big][/shake]
+intro2 = [shake2]Você caiu nessa! Se ferrou todinha! Ninguém entra na minha casa e sai para contar história![/shake2]
+intro3 = [shake2]Mas vou te contar! Espera só! Você vai viver! Isso mesmo! Que sorte, não?![/shake2]
+intro4 = [shake2]Normalmente eu comeria sua alma e jogaria seu corpo fora, mas você foi sortuda! Ganhou na loteria, porque aconteceu de eu estar precisando de outro servo![/shake2]
+intro5 = [shake2]Isso mesmo! O outro acabou morrendo, a cabeça dele caiu do lugar, e agora preciso de outro ajudante![/shake2]
+contract_appear0 = [shake2]Então vou te contar, tenho um papel aqui! Não se preocupe com os detalhes! Só preciso que assine bem aqui embaixo![/shake2]
+
+contract_disagree_retry = Deixe-me reconsiderar...
+contract_disagree_decline = Não vou assinar!
+
+contract_disagree0 = [shake2]Qual é, não complica! Não é você quem decide isso! Assine o papel![/shake2]
+contract_disagree1 = [shake2]Acho que não deixei isso claro o suficiente: SUA OPINIÃO NÃO IMPORTA PRA MIM. Coloque seu nome no contrato ou vou fazer seu cadáver OCO assinar por você![/shake2]
+contract_disagree2 = [shake2]ÚLTIMA CHANCE! Assine o papel![/shake2]
+contract_disagree3 = [shake2]Que pena! Te dei uma oportunidade de se redimir de uma situação ruim e você a jogou fora! Jogou qualquer chance de sobreviver a isso pela janela![/shake2]
+contract_disagree4 = [shake2]Adeus! Quer dizer, adeus para a sua consciência! Vou estar dizendo olá para seu cadáver assim que você tiver ido embora![/shake2]
+
+contract_agree0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
+contract_agree1 = [shake2]Isso sela o acordo! Estamos fechados! Deixa só eu pegar isso rapidinho...[/shake2]
+
+contract_soul = Você se sente extremamente vazia por dentro.
+
+contract_agree2 = [shake2]Oooops! Acho que essa alma pertence a mim agora![/shake2]
+contract_agree3 = [shake2]Mas não se preocupe! Se terminar suas tarefas rápido, vai ter sua alma de volta logo logo![/shake2]
+contract_agree4 = [shake2]E não se atreva a esquecer do nosso contrato! Coloquei no seu [button:start] menu para que não saia da sua vista![/shake2]
+contract_agree5 = [shake2]Tchau! Se cuida! Vê se não morre![/shake2]
+
+enter_village0 = [shake][big][scream][wave]OOOOOOOOOORA OLÁ![/wave][/scream][/big][/shake][br][shake2]Não se esqueceu de mim, né?! Não me diga que se esqueceu de mim![/shake2]
+enter_village1 = [shake2]E então? Tem feito suas obrigações contratuais ultimamente? É bom que tenha! Lembre-se do nosso acordo![/shake2]
+enter_village2 = [shake2]Olha só. Esses [name]Espíritos de Fogo[/name] extremamente chatos estão logo ali, no meio do meu vilarejo.[/shake2]
+enter_village3 = [shake2]A dancinha deles está criando essas barreiras super irritantes que estão me impedindo de ir para outros lugares da minha floresta. É quase como se eles estivessem tentando dar um fim em mim... que adorável.[/shake2]
+enter_village4 = [shake2]Livre-se deles. Não me importo como vai fazer isso, desde que eles sofram por ter entrado nos meus domínios! [wave]HEHEHEHE![/wave][/shake2]
+enter_village5 = [shake2]Enfim, de volta ao trabalho, soldado![br]Isso aqui não são férias, e eu estou ficando impaciente![/shake2]
+
+[breakice_contract]
+breakice0 = [shake][big][scream][wave]MUITO BEM![/wave][/scream][/big][/shake][br][shake2]Por favor, me diga que eles sofreram. Você matou eles, né? Aposto que estrangulou eles. Boa garota! [scream][wave]Ha ha ha ha![/wave][/scream][/shake2]
+breakice1 = [shake2]Mas não pense que acabamos ainda! Tem mais dessas pestes na minha floresta, e preciso que você tome conta de cada um deles.[/shake2]
+breakice2 = [shake2]Próximo na sua lista: Limpar o Poço Subcon. Isso mesmo, você é uma encanadora agora! Parabéns pela promoção![/shake2]
+breakice3 = [shake2]Eu também tenho um... outro... trabalho pra você que não consigo fazer. E ei, enquanto eu precisar de você, você continua viva. Que acordo, não?[/shake2]
+
+breakice4 = [shake2]Mas chega de papo! Você parece que consegue fazer várias coisas ao mesmo tempo! Deixa eu pegar pra você mais um contrato![/shake2]
+breakice5 = [shake2]Escolha um, mas apenas um! Não é emocionante assinar pela sua vida?[/shake2]
+
+breakice6 = [shake2]Boa escolha! Espero que você seja boa o suficiente para essa tarefa![/shake2]
+breakice7 = [shake2]Você está procurando pelas [icon:timepiece][timepiece]Peças Temporais[/timepiece], certo? Eu encontrei uma delas enquanto estava assombrando uma pobre alma![/shake2]
+breakice8 = [shake2]Pode ficar com ela, mas essa é a primeira e última vez que te recompenso por completar partes de um contrato! Sabe o por quê? Por que não sou legalmente obrigado! [wave][scream]HA HA HA HA HA![/scream][/wave][/shake2]
+
+[contract_generic_trap]
+trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]TROOOOOOOOOooo... não, pera, é você?[/shake2]
+trapA1 = [shake2]Eu meio que tava esperando uma nova vítima cair na armadilha. Já peguei sua alma e tudo mais. Você ao menos terminou suas obrigações contratuais?[/shake2]
+trapA2 = [shake2]Não leve pro lado pessoal, criança, mas fique longe das minhas armadilhas. Minha voz não aguenta ficar gritando desse jeito várias vezes. Você está tirando a experiência de outras pessoas.[/shake2]
+trapA3 = [shake2]Ah, mas já que você caiu na minha armadilha, eu posso também extender nosso negócio![/shake2]
+trapA4 = [shake2][small]*cof*[/small][/shake2][br] [br][shake][big][scream][wave]TROOOOOOOOOOOOOOOOOOOOOUXA!![/wave][/scream][/big][/shake]
+trapA5 = [shake2]Você entrou na minha floresta, e agora deve pagar o preço![/shake2]
+trapA6 = [shake2]Escolha seu veneno! Que fardo você quer carregar para o resto da sua vida?![/shake2]
+
+trapA7 = [shake2]Nada mal! Esse aí deve ser moleza! Mas você está deixando os contratos mais difíceis para os novatos, o que é bem rude quando você para pra pensar sobre isso.[/shake2]
+trapA8 = [shake2]Que seja! Tô saindo! Um cheiro![/shake2]
+
+[home]
+home_question0 = [shake2]E aí, garotinha? Não sabe para onde ir?[/shake2]
+home_question0_whereto = Para onde que eu vou?
+home_question0_contract = Entregar o contrato
+
+home_intro0 = [shake2]Por que você está me incomodando? Você não leu o contrato antes de assinar, criança?[/shake2]
+home_intro1 = [shake2]Você não vai conseguir nada de mim até que complete o contrato! Então vaza![/shake2]
+
+nosoul0 = [shake2]Você não está esperando ter sua alma de volta só porque completou seu primeiro contato, está?[/shake2]
+nosoul1 = [shake2]Bom, [shake][big][scream]QUE PENA![/scream][/big][/shake][/shake2][br][shake2]Você é a minha mais nova serva, e nosso negócio não terminou ainda! Faça-o e depois a gente conversa![/shake2]
+
+home_businessconcluded = [shake2]Garota, nosso negócio está concluído. Não vou te dar mais nada. Dá o fora![/shake2]
+
+wheretogo_subconwell0 = [shake2]Era pra você estar limpando o poço, criança. Fica bem no interior do pântano, mas é grande o bastante para uma baixinha como você conseguir achar. Só tenta não tropeçar e bater a cabeça no fundo... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+
+postfinale0 = [shake2]Você denovo? Achei que tinha deixado bem claro da última vez, garotinha.[/shake2]
+postfinale1 = [shake2]Estamos terminados. Acabou. Nossa relação terminou. Não vou mais gastar meu tempo com você![/shake2]
+
+postfinale2 = [shake2][wave][scream][big]Agora caia fora da minha floresta![/big][/scream][/wave][/shake2]
+
+[bossbattle]
+intro0 = [shake2]Espera aí, criança. Lembra que a cabeça do outro contratante tinha caído fora?[/shake2]
+intro1 = [shake2]Aquilo não foi uma coincidência. Ela saiu fora no momento que ele parou de ser útil para mim.[/shake2]
+intro2 = [shake2]Adivinha quem mais se tornou obsoleta? Isso mesmo. Você.[/shake2]
+intro3 = [shake2]Agora que aquele banheiro possuído não está me incomodando, e todos aqueles seus contratos já foram concluídos... Eu não preciso mais de você.[/shake2]
+intro4 = [shake2]Além disso, você não achou que eu ia te deixar ficar com todas essas [icon:timepiece][timepiece]Peças Temporais[/timepiece], achou? Elas cairam na minha floresta, criança! Elas pertencem a [scream]MIM[/scream].[/shake2]
+intro6 = [shake2]Hora de mostrar do que eu realmente sou capaz, garota. Diga adeus para essa sua cabecinha![/shake2]
+
+Derp0 = É assim que[br]você se parece![br]Você é uma idiota!
+Derp1 = E você fede!
+
+blue0 = [shake2]Você provavelmente está esperando eu ficar azul, não é?[/shake2]
+blue1 = [shake2]Desculpa garotinha, azul não combina comigo.[br]E acho que isso me faz invencível, hã?[br]É uma pena! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+
+Chemicals0 = [shake2]Vamos ver[br]alguns desses![/shake2]
+Chemicals1 = [shake2]Não é o bastante?[br]Vamos ver 1,000![/shake2]
+Chemicals2 = [shake2]Muitos, é?[br]Vamos tentar só um![/shake2]
+Chemicals3 = [shake2]Não, espera aí.[/shake2]
+Chemicals4 = [shake2]Aquele deveria ter[br]te acertado![/shake2]
+Chemicals5 = [shake2]Qual é,[br] me dá uma chance![/shake2]
+Chemicals6 = [shake2]Estou feliz que[br]tenha reconsiderado![/shake2]
+Chemicals7 = [shake2]Você é meio rude,[br]não é?[/shake2]
+
+turned_blue0 = [shake2]...[/shake2]
+turned_blue1 = [shake2]Você acabou de me colorir de azul com meu próprio ataque?[/shake2]
+turned_blue2 = [shake2]Isso não pode contar, certo? Com certeza não conta?[/shake2]
+turned_blue3 = [shake2]Já chega, hora de você [scream][wave]MORRER[wait][/wave][/scream].[/shake2]
+
+Cherry0 = [shake2]Oh não![/shake2]
+Cherry1 = [shake2]Eu acabei deixando essa [br]bomba cereja cair![/shake2]
+Cherry2 = [shake2]... HA![/shake2]
+Cherry3 = [shake2]Você achou que eu fosse estúpido [br] o bastante para te dar BOMBAS?[/shake2]
+
+[death]
+death0 = [shake2]*huff*[waitlong] *huff*[waitlong] Você é uma mocinha tão desrespeitosa...[/shake2]
+death1 = [shake2]Me sinto... tão fraco...[waitlong] *huff*[/shake2]
+death2 = [shake2]Por favor...[waitlong] *huff*[waitlong] tenha piedade...[/shake2]
+death3 = [shake2][waitlong][wait]Por favor... [br] [waitlong][waitlong][br][big]SENTE-SE[/big][/shake2][waitlong][waitlong]
+death4 = [shake2]Todas essas [icon:timepiece][timepiece]Peças Temporais[/timepiece] caíram na MINHA floresta. Elas são MINHA propriedade.[/shake2]
+death5 = [shake2]Então, vamos fazer um acordo, jovenzinha. Você dá o fora da minha floresta, e nunca mais nos vemos. Parece bom para um acordo?[/shake2]
+death6 = [shake2]Não gostou? Que pena! Não é você quem dá as cartas aqui.[/shake2]
+death7 = [shake2]Aqui, vou até fazer isso mais fácil pra você![/shake2]
+death8 = [shake2]Agora tudo que precisa fazer é assinar![/shake2]
+
+sign0 = [shake2]...Você entende que não é assim como os contratos funcionam, não é?[/shake2]
+sign1 = [shake2]Estou te dando uma chance pra cair fora, criança! Não têm pegadinhas ou cláusulas dessa vez! [/shake2]
+sign2 = [shake2]E se eu te dar sua alma de volta, vai fazer você sair?[/shake2]
+sign3 = [shake2]Sim? Não? Alôôôôô? Você está aí? Por que não está dizendo nada?[/shake2]
+sign4 = [shake2].......[/shake2]
+sign5 = [shake2]...Você é bem diferente, não é? E uma negociadora difícil.[/shake2]
+sign6 = [shake2]Tudo bem, vou melhorar o acordo pra você.[/shake2]
+sign7 = [shake2]Aqui, tome minha última [icon:timepiece][timepiece]Peça Temporal[/timepiece]. Se eu continuar vendo você na minha floresta depois disso, vou ficar bem desapontado![/shake2]
+
+contract_soul_return = Você pegou sua alma de volta! Você se sente aliviada, energizada, e só com a quantidade usual de vazio!
+
+[finale]
+outside0 = [shake2]Ei criança! Como que está aquela sua alma? Ainda chacoalhando aí dentro?[/shake2]
+outside0b = [shake2]Espera. Até que você não conseguiu ela de volta, conseguiu?[/shake2]
+outside1 = [shake2]Eu adoraria saber quem é que pensa que é grande o suficiente para [wave]me[/wave] julgar! E daí que eu peguei algumas [small]centenas[/small] de almas - grande coisa![/shake2]
+outside2 = [shake2]Faça um favor para todos nós, criança! Vá ver quem é essa que acha que é melhor do que nós! E bata nela![/shake2]
+outside3 = [shake2]Eu não costumo defender esse tipo de coisa, mas isso é bem autoritário![/shake2]
+group_counter0 = [shake2]Essa realidade alternativa fede! Dá o fora![/shake2]
+cherrybombs0 = [shake2]Vamos assinar um contrato e fazer essa garota cair fora, de uma vez por todas![/shake2]
+cherrybombs1 = [shake2]Hahaha! Muito bem, vamos lá. Eu crio, você joga![/shake2]
+
+suicide0 = [shake2]Nós não PRECISAMOS de um herói! Caia fora![/shake2]
+
+[ending]
+hang0 = [shake2]Ei garotinha, vamos fazer outro contrato![/shake2]
+hang1 = Vamos sentir saudades de vocêeeeeeeeeeeeee...!!!

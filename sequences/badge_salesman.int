@@ -1,0 +1,11 @@
+﻿[spaceship]
+sell_intro0 = [glitch]Olá, jovem. Eu sou de uma terra distante. Já vi todos os cantos da terra, e agora eu vendo pequenos pedaços das minhas descobertas.[/glitch]
+sell_intro1 = [glitch]Você pode me chamar de [name]Vendedor de insígnias[/name], pois eu vendo e troco [icon:badge]insígnias. Eu posso lhe fornecer abilidades fortes e upgrades para o seu chapéu... se você tiver dinheiro, claro.[/glitch]
+sell_intro2 = [glitch]Veio fazer outra compra?[/glitch]
+sell_intro3 = [glitch][icon:badge]insígnias estão... totalmente "na moda" agora. Isso foi o que fui dito para falar. Então faça uma compra, por favor.[/glitch]
+sell_intro4 = [glitch]Nem tudo o que eu vendo é de valor. Eu também vendo [icon:badge]insígnias horríveis... e ainda assim as pessoas compram de qualquer jeito.[/glitch]
+sell_intro5 = [glitch]Bem-vindo, jovem. Faça uma compra na minha humilde banca.[/glitch]
+sell_intro6 = [glitch]Por favor desconsidere meus movimentos bruscos. Meu corpo esteve em lugares que me deixaram uma marca permanente.[/glitch]
+
+all_out0 = [glitch]Isso é tudo o que posso vender por agora. Se cuide.[/glitch]
+all_out1 = [glitch]Não tenho mais nada para vender. Por favor, venha me visitar outra hora.[/glitch]

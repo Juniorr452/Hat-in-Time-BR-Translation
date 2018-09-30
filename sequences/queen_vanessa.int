@@ -1,0 +1,27 @@
+﻿[encounter]
+Encounter0 = QUEM ESTÁ AI?
+Encounter1 = QUEM OUSA[br]ENTRAR NA MINHA CASA?
+
+[diaries]
+crowning0 = Mamãe sofreu um pequeno acidente semana passada, então hoje eu fui coroada rainha. Agora o principe não pode mais me chamar de princesa dele! A vida não é justa!
+prince_breakfast0 = Meu principe gosta dos cafés da manhã até demais. Estou com ciúmes daquele maldito bacon! Ele ama aquilo! Sem mais bacon nessa casa!
+mom_breakfast0 = Mamãe continua insistindo que eu seja "adequada". Uma jovem dama pode fazer o que ela quiser!
+mom_breakfast1 = Essa manhã eu tive dois cookies de café da manhã. Isso vai mostrar pra ela. Se bobear ainda como um terceiro.
+cellar_chains0 = Oh, como eu desejo ficar com ele pra sempre! Preso e acorrentado no porão! Mas você não pode accorentar um homem... ou pode?
+prince_hair0 = Desculpe pelo seu cabelo, meu príncipe. Eu só queria que o tamanho combinasse com o meu! ... e a cor... e os cachos... você está lindo!
+princeletter0 = Minha querida Vanessa,[br]se passaram varios dias desde que te vi pela última vez, mas sinto como se fossem meses.
+princeletter1 = Minha vida na Academia é difícil, mas estou avançando rapidamente. Existe muito a se estudar quando se trata da lei, mas a biblioteca aqui é bem estocada.
+princeletter2 = Nossos tutores são os melhores da região, e eu sou grato pela ajuda deles. Estive estudando em particular com um deles, uma praticante experiente da lei chamada Senhorita -
+princeletter3 = O resto da carta está amassada e rasgada.
+diary0 = Um diário velho e arruinado. Várias páginas foram arrancadas.
+diary1 = Abrir em qual página restante?
+diarychoice_1 = Página 13
+diarychoice_2 = Página 48
+diarychoice_3 = Página 73
+diary13a = Querido diário,[br]Hoje meu príncipe saiu para começar seus estudos. Ele vai para tão longe, e por tanto tempo. Ele me prometeu escrever. Ele não vai me esquecer, não é mesmo?
+diary13b = Sua princesa amada?
+diary48a = Por quê? O que eu fiz de errado? Nas cartas ele só fala a respeito dela. A 'tutora'. Ele diz que me ama. Mas ELA vê ele. Eu ganho as cartas, e ELA ganha a presença dele.
+diary48b = Ele é MEU. Quando os estudos dele acabarem eu vou tê-lo de volta.
+diary73a = Ele está voltando. Por um fim-de-semana. Uma pequena folga, DELA. Eu vou convencê-lo a ficar.
+diary73b = EU NÃO POSSO deixar meu amor ir embora novamente.
+diary73c = Soa um pouco melodramático.

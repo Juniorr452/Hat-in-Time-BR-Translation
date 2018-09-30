@@ -1,0 +1,197 @@
+﻿[chapter3act1]
+sketch0 = Ehhhh ba ba bab![waitlong] Onde cê pensa que tá indo, guria?
+sketch1 = Cê é uma estrela de cinema agora, guriazinha! A gente precisa da sua careta feia por toda parte, daí vão vir aves de todos os lugares do mundo pra assistir aos seus filmes!
+sketch2 = Aqui, pega esse papel e caneta, e começa a fazer um poster de filme! Faça você parecer durona e pronta pra uma briga de rua!
+sketch3 = Se lembre de fazer um figurino também! Um bom visual é tudo!
+
+sketch_done0 = Eh he he! Isso é o melhor que cê pode fazer, então? Tá bom, vou colocar ele!
+sketch_done1 = Pode ir entrando. Estamos nos preparando pra filmar o MAIOR filme de ação da história das aves!
+sketch_done2 = Este filme vai ser BOMBÁSTICO!! [wave]GWAHAHAHAHA[/wave]!
+sketch_done3 = ... E eu digo bombástico no bom sentido, cabeça de bica!
+
+trigger_detonation0 = Tá certo guria, escuta aqui. Eu tenho más notícias!
+trigger_detonation1 = Essa alavanca que você acabou de puxar... ela começa a sequência de auto-destruição do trem, e isso não é nenhuma piada. Vai explodir!
+trigger_detonation2 = Eu preciso de um filme com uma pitada de ação intensa DE VERDADE, então é isso que vamos fazer! Esse trem vai explodir em alguns minutos!
+trigger_detonation3 = Mas você pode salvar a gente, guria! Alcançe o interruptor na frente do trem pra desligá-lo!
+trigger_detonation4 = E É BOM CÊ FAZER ISSO A TEMPO, TÁ CERTO? Não tô nem aí pras corujas ou pra você, mas não se ATREVA a explodir meu trem de verdade! É meu bebê!
+trigger_detonation5 = As cameras vão estar rodando guriazinha, se apresse! Vá! Adeus e até logo!
+
+ending0 = Você conseguiu! E a tempo!
+ending1 = Oh ho ho hooo... olha pra todo esse material de filmagem que conseguimos![br]Olha como cê tá correndo pela sua vida preciosa![br][wave]EH HE HE[/wave]!
+ending2 = Que foi? A gente fez isso em nome da cinematografia! ... e pra vencer aquele terrível [icon:djgrooves][name]DJ Grooves[/name]! Aposto que ele não vai conseguir fazer METADE do filme que acabamos de fazer!
+ending3 = Olha aqui, toma um desses [icon:timepiece][timepiece]trambolhos[/timepiece] que você gosta. Você merece!
+
+[big_parade]
+playing_cards0 = ... calma... pera aí... me dá um minuto pra pensar na minha próxima jogada!
+playing_cards1 = ... ahnn... Azes são as melhores, ou as piores cartas...?
+
+[deadbird]
+intro0 = Esse estúdio de filmagem é grande demais pra nós dois, [icon:djgrooves][name]DJ Grooves[/name]! O filme deve ser feito por pássaros DE VERDADE!
+intro1 = Vocês [name]Pinguins da lua[/name] só vão escrever uma coisa sem sentido barulhenta e espalhafatosa! Se eu quisesse um punhado de cabeças de bica pra dançar por aí usando sementinha, eu iria visitar meus netos!
+intro2 = Quê?! Nós não fizemos isso, seu palhaço!
+intro3 = Ah é?
+intro4 = Bem, dessa vez, nós TAMBÉM iremos apimentar com nossos novos apetrechos!
+intro5 = Essas [icon:timepiece][timepiece]ampulhetinhas[/timepiece] vão ser nossa grande jóia no nosso velho oeste!
+intro6 = .......
+intro7 = [scream][big]É O QUÊ?![/big][/scream]
+intro8 = Seus cabeças de bica sujos imprestáveis! Vocês copiaram nossos apetrechos!
+intro9 = Já chega! Cê que se retire daqui, eu tenho um filme pra gravar!
+intro10 = Ah é?! Vamo ver o que vocês conseguem sem poder entrar na recepção! [wave]GWAHAHAHAHA![/wave]
+intro11 = Pera aí, trancar os cabeças de bica dentro do estúdio vai forçar eles a trabalhar mais.
+intro12 = Ok, hora de ir, corujas! Vamos fazer nosso filme arrasa-quarteirões!!
+intro13 = Ah, e recepcionista, cê pode POR FAVOR fechar aquela saída de ar de uma vez? Não quero cheiro de pinguins chegando nem perto do meu pessoal!
+
+director_cut0 = CORTA!
+director_cut1 = O que. Foi. ISSO?!
+director_cut2 = Câmeras, CORTEM!
+director_cut3 = Quem é ISSO?!
+director_cut4 = Saia do meu set!
+
+director_action0 = OK, pessoal, prontos? Vamos primeiro pelo começo, então. AÇÃO!
+director_action1 = Vamos fazer esse filme virar realidade! Corujas! Em posição! AÇÃO!
+director_action2 = Câmeras! Luzes! AÇÃO!
+director_action3 = Tomada número quatro mil e sessenta e cinco! AÇÃO!
+director_action4 = Vocês corujas estão prontas pra filmar a próxima cena? Vamos lá! AÇÃO!
+
+director_idle0 = Cês corujas são atores nojentos! Nojentos!
+director_idle1 = Vamo lá, façam uma apresentação melhor que os pinguins pelo menos!
+director_idle2 = Você! O que você tá fazendo!? Volte pra sua posição!
+director_idle3 = Em que cena nós estamos? Quarenta e dois? Porque você não deveria estar enquadrado na cena quarenta e dois!
+
+outro0 = [scream][big]EI! QUE CÊ PENSA QUE TÁ FAZENDO?![/big][/scream]
+outro1 = Cê não pode simplesmente aparecer e mexer com o [icon:trophy][trophy]troféu anual de filmes de pássaros[/trophy]! Isso é uma fraude! FRAUDE! Olha pessoal, nós temos uma FRAUDE BEM AQUI!
+outro2 = ...
+outro3 = CADÊ MEUS GUARDAS CORUJAS?! Por que as corujas são tão inúteis assim?!
+outro5 = Tá bom, escuta aqui, guriazinha! Cê tá com grandes problemas. Se você tá ajudando aquele sem vergonha do [icon:djgrooves][name]DJ Grooves[/name] a manipular a premiação, e eu não posso te pôr na cadeia, então cê tem que me ajudar a igualar as pontuações!
+outro6 = É isso aí, cê vai ter que ser a estrela dos meus filmes também!
+outro7 = Aqui, segure nosso [icon:timepiece][timepiece]novo apetrecho[/timepiece], pratique como apresentá-lo, e o traga pro meu set de filmagens amanhã! Cê me entendeu? Não se atrase!
+
+[murder]
+intro0=Bem vinda de volta, guriazinha! Eu ainda não escrevi o roteiro do meu próximo filme, então não estamos gravando!
+intro1=Vou te chamar quando o roteiro estiver pronto.
+
+victim_reveal0 = [scream]U-um ASSASSINATO? No MEU Expresso Coruja!?[/scream]
+victim_reveal1 = Eu não acredito que alguém poderia assassinar uma das expressorujas!
+victim_reveal2 = E eu não acredito ainda mais que é a irmã do seu tio [MotherMaidenName]!
+victim_reveal3 = O que você tem pra falar quanto a isso, [MotherMaidenName]?!
+victim_reveal4 = ...
+victim_reveal5 = Cê tá me dando o tratamento silencioso, né?! É isso que um assassino faria!
+victim_reveal6 = QUÊ!? Eu não posso nem andar no meu próprio trem? Como ousa!
+
+mission_start0 = Esses cabeças de bica da C.U.A. não podem me dizer o que fazer! Aposto que eles cometeram o assassinato e estão destruindo todas as evidências!
+mission_start_evidence0 = Você tem evidências que o assassino sou EU? Hah! Me faça rir! Volte aqui quando você tiver TODOS os fatos em mãos.
+
+mission_end0 = Então, quem fez?!
+mission_end1 = Quê! Então cês fizeram bicaria nenhuma pra resolver o caso?!
+mission_end2 = Quem é o assassino? Qual de vocês fez isso?!
+
+suspect_crows0 = Foram os corvos?!
+suspect_sciowls0 = Foram as expressorujas?!
+suspect_mothermaiden0 = Foi a Sra. [MotherMaidenName] afinal?!
+suspect_victim0 = Foi a vítima?!
+suspect_victim1 = Pera, isso significa que foi um suicídio?
+
+suspect_generic0 = Mas... por quê? Por quê matar uma das expressorujas?
+suspect_generic1 = Cum o quê? Faca de BORRACHA?!
+
+suspect_ending0 = Bem, valeu por resolver o assassinato, guriazinha.
+suspect_ending1 = Não só você revelou o assassino, como também revelou que a vítima nem foi ferida.
+suspect_ending2 = ... e você nos deu uma gravação maneira pro filme!
+suspect_ending3 = O quê? Você pensa que eu iria deixar um assassinato acontecer no MEU expresso das corujas? Pense melhor! Foi tudo uma armação pro meu novo filme do expresso das corujas:[br][name]Assassinato no Expresso das Corujas![/name]
+
+suspect_ending4 = Você acha que o [icon:djgrooves][name]DJ Cabeça de Bica[/name] vai fazer um filme tão bom quanto esse? Eu acho que não!
+suspect_ending5 = Aqui, toma essa [icon:timepiece][timepiece]coisa estranha[/timepiece] e xispa daqui!
+suspect_ending6 = ... E é melhor cê não aparecer em nenhum dos filmes do [icon:djgrooves][name]DJ Grooves[/name]! Os filmes dele são BUCHADA ESTRAGADA NUM MÓI DE TITICA DE PORCO![br]Além disso, nós temos um acordo de exclusividade, né não?
+
+suspect_conductor0 = ... EU?!
+suspect_conductor1 = Eu não posso ser o assassino, eu sou o condutor!
+suspect_conductor2 = Que foi?
+suspect_conductor3 = Sério, que foi?
+suspect_conductor4 = Não fui eu!
+suspect_conductor5 = Para.
+suspect_conductor6 = Corta essa.
+suspect_conductor7 = ...
+suspect_conductor8 = TÁ, TÁ CERTO!
+suspect_conductor9 = Fui eu. Eu fiz isso. Pronto, tá feliz?
+
+suspect_conductor10 = Como cê descobriu que fui eu? Eu tentei evitar com todas as forças ser o vilão do meu próprio filme.
+suspect_conductor11 = A expressoruja nem tá morta, eu só dei uma faca de borracha e pedi pra fingir de morto por algumas horas.
+
+suspect_hatkid0 = Você fez isso?!
+suspect_hatkid1 = Mas claro, sim, tudo faz sentido!
+suspect_hatkid2 = Você viu a expressoruja toda só, uma vítima isolada no seu plano de mestre.
+suspect_hatkid3 = Com raiva da sociedade e seu progresso dos transportes crescendo rapidamente, você derrubou o primeiro passageiro que viu.
+suspect_hatkid4 = Seu corpo caiu como um manequim, com sangue derramando pra todos os lados, e o cheiro... ele acordou seus demônios internos!
+suspect_hatkid5 = Daí você arrancou os membros do corpo dele, e os comeu um por um, como um animal com desejo por sangue.
+suspect_hatkid6 = Foi assim que aconteceu, não foi?!
+suspect_hatkid7 = Você assassinou aquela coruja a sangue frio!
+
+suspect_hatkid8 = Oh.
+suspect_hatkid9 = Ainda sim, você foi longe demais dessa vez, detetive! Você vai pra casinha de cachorro!
+
+[GearPieces]
+story_intro0 = Ótima casa você tem aqui, guria! Nada mal, nada mal mesmo.
+story_intro1 = Sabe, lá nos tempos antigos, Eu costumava ir em aventuras, assim como você!
+story_intro2 = Quer escutar velhas histórias de um homem velho? Não vou te dar nenhum prêmio ou coisa assin..
+story_intro3 = Que tipo de história cê quer ouvir?
+story_intro4 = Vão ser [cost] gemas por uma história nova! O quê, cê pensou que minha sabedoria ia ser de graça? Hah!
+story_intro5 = Tá bem, escolhe uma história!
+
+story_Jungle01 = Eu e as expressorujas estávamos indo para um novo território, a procura da próxima Peça de Engrenagem!
+story_Jungle02 = Eu me aventurei pelas partes mas profundas da selva macaroni, quando de repente, eu me encontrei com membros de uma tribo! Vários deles! Eu estava arrodeado, criança!
+story_Jungle03 = Mas pera... eles me reconheceram! Todos eles se curvaram em admiração! Eles disseram que eu era o maior pássaro do oeste! Eles tevem ter visto meus filmes ou algo assim!
+story_Jungle04 = Eles me levaram ao templo deles, e eu vi a próxima Peça de Engrenagem em plena luz do dia. Eu sabia que tinha que por as minhas mãos nela, mas como?
+story_Jungle05 = Quando eles me levaram pra câmara de adoração deles, minhas expectativas ficaram cada vez maiores, sabe? Eu estava me vendo na forma de estátua dourada!
+story_Jungle06 = Mas eis que, sabe o que eu vi, criança? Um poster do [icon:djgrooves][name]DJ GROOVES[/name]! Eu tava tipo, CÊS O QUE, CABEÇAS DE BICA?!
+story_Jungle07 = E então eu rasguei o poster, roubei a Peça de Engrenagem deles, e saí correndo! E foi assim que eu consegui minha 7a Peça de Engrenagem! Logo o Trem Jóia Negra será meu!
+
+[BossBattle]
+SupportNotice0 = Guria, olha aqui!
+SupportNotice1 = Espera um pouco,[br]vou achar uma maneira de[br]desarmar a bomba!
+SupportNotice2 = Meu desarmador[br]está pronto, vem aqui!
+
+hth_intro0 = Vamos ter uma pequena conversa de coração a coração. Pode se sentar aqui, guriazinha.
+hth_intro1 = Desde que cê chegou nesse planeta, essas [icon:timepiece][timepiece]Peças Temporais[/timepiece] têm caído dos céus.
+hth_intro2 = Agora, eu entendo se você sente que elas pertencem a você. Eu saquei. Mas cê sabia que elas podem voltar o tempo?
+hth_intro3 = Com uma [timepiece][icon:timepiece]Peça Temporal[/timepiece], Eu poderia retomar o troféu que pertence a mim! É isso aí, a perda do prêmio 42!
+hth_intro4 = Eu peguei 2º lugar no [icon:trophy][trophy]42º troféu anual de pássaros[/trophy]! Eu! Dá pra imaginar? [icon:djgrooves][name]DJ Grooves[/name] conseguiu pegar o troféu de 1º lugar!
+hth_intro5 = Eu só preciso de uma [timepiece][icon:timepiece]Peça Temporal[/timepiece] pra consertar esse erro. Cê num pode me poupar só uma [icon:timepiece][timepiece]Peça Temporal[/timepiece]?
+hth_intro5_yes = Talvez?
+hth_intro5_no = Nada disso!
+hth_intro6a = Brigado, guriazinha! Você não vai se arrepender! A gente vai consertar esse pequeno erro na história, e voltar a ter um recorde perfeito!
+hth_intro7a = Infelizmente... Não posso deixar você sair dessa sala. Eu não posso arriscar que o mundo saiba. DJ cabeça de bica vai zombar de mim por trapacear!
+hth_intro8a = Foi bom conhecer você, guriazinha! Tchau tchau!
+hth_intro6b = Você é uma jovem guria ambiciosa, não é? Só preciso de umazinha, e cê não vai dividir comigo?
+hth_intro7b = Bem, se cê quer tanto essa [timepiece][icon:timepiece]Peça Temporal[/timepiece] de volta, vem pegar ela!
+hth_intro9 = Se lembra dessa mini bomba? Dessa vez ela tá acoplada a você, ao invés do meu amável trem... [wave]eh he he he![/wave]
+
+Intro0 = Oh ho hoooo, olha quem temos aqui! Então parece que você achou meu pequeno porão, em?
+Intro1 = Essa última [icon:timepiece][timepiece]Peça Temporal[/timepiece] é toda minha. Se cê quer ela, cê vai ter que tirar das minhas frias, e mortas mãos!
+
+[award]
+intro0 = Brigado, brigado! Cês são gentis demais! Não, por favor, continue!
+intro1 = Oh! Guriazinha, é você! Cê conseguiu! Eu venci o [icon:trophy][trophy]troféu anual de filmes de pássaros[/trophy] mais uma vez![br]Imagina a cara que o [icon:djgrooves][name]DJ Grooves[/name] deve estar fazendo agora! [scream][wave]EH HE HE HE![/wave][/scream]
+intro2 = Aqui, pega esse [icon:timepiece][timepiece]minúsculo, insignificante apetrecho de filmes[/timepiece] pra combinar com seus minúsculos, insignificantes esforços pra garantir minha vitória. Você provavelmente pode vender no Tucano Livre por uns trocados e uns centavos!
+intro3 = Que é? Cê tava esperando mais, ou alguma coisa?[br]Esqueça! Vá! Passa! Saia logo daqui![br]Nunca mais quero ver sua cara feia!
+
+[finale]
+outside0 = Cê aqui também, guria? Que lugar é esse?! Eu nunca descumpri uma lei na minha vida!
+outside1 = Quem quer que eles sejam, eu num vou ser julgado por uma...
+outside2 = [scream]BIGODUDA,[/scream]
+outside3 = [scream]SEM-CHAPÉU,[/scream]
+outside4 = [scream]CAPUZEIRA,[/scream]
+outside5 = [scream]LOUCA-DAS-ESTÁTUAS,[/scream]
+outside6 = [scream]OSTENTA-CASTELOS,[/scream]
+outside7 = [scream]ENTREGA-TICKETS[/scream]
+outside8 = [scream][big]CABEÇA DE BICA![/big][/scream]
+group_counter0 = É isso aí, DÁ O FORA! Ninguém te quer aqui! Num é, grandalhão?
+mafiaball0 = É isso aí, rapaz. Vamo dar a ela algo que ela pode socar na direção daquela mini praga vermelha, pra ela dar o fora!
+mafiaball1 = Vamo rolar, eh he he!! Garotinha, lança a gente bem na cara feira daquela guria vermelha!
+
+suicide0 = Hehehe... aqueles caras da Máfia... tão tolamente corajosos. Mas né, qual o sentido de viver se eu não tenho meu trem mesmo?
+suicide1 = Tá certo [icon:djgrooves][name]DJ Grooves[/name], nós dois vamos ajudar essa guriazinha do chapéu. se prepara pra um soco com força, e cê mire na minha cara, é meu ponto fraco!
+suicide2 = Essa guria vermelha irritada tem que... DAR O FORA!
+
+[ending]
+hang0 = Não ouse sair, guria!
+hang1 = A gente vai sentir sua faltaaaaaaaa...!!!
