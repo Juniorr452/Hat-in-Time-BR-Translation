@@ -494,7 +494,7 @@ RetryLevel_Yes = Yes
 RetryLevel_HUB = Voltar para o Hub
 
 [DecorationMap]
-DecorationMap_NoMarkers = Nenhuma Relíquia Por Perto
+DecorationMap_NoMarkers = Nenhuma Relíquia\n       Por Perto
 
 [Murder]
 ClockRing0 = FALTA 1 HORA CORUJA
@@ -518,7 +518,7 @@ Suspect_Select4 = ...
 Suspect_Select5 = Você não pode culpar[br]uma coruja morta![br]Quer dizer... zzz...
 
 [Decoration]
-PayCost = Reparos:
+PayCost = Reparos:\n
 
 [DeadBirdBills]
 Bill_WalkOnSet = Atrapalhando Gravações
@@ -541,7 +541,7 @@ Highscore = AS ANÁLISES SAÍRAM...
 PleaseRate_0 = Nos ajude a determinar a avaliação desse mod na
 PleaseRate_1 = Steam Workshop pelo seu feedback!
 HowToComment = Para deixar um comentário, veja esse mod na Steam Workshop.
-BackToHub = Sair para Espaçonave
+BackToHub = Ir para Espaçonave
 NextMap = Próximo Mapa
 ViewInWorkshop = Ver no Workshop
 NoMods = Você não tem mods instalados! Tente pegar alguns no Workshop.
