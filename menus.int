@@ -5,6 +5,8 @@ SystemSetting_Value_Unchecked = Desligado
 SystemSetting_Requires_Restart = Essa opção requer que o jogo seja reiniciado para ter efeito.
 SystemSetting_ArtStyle_Warning = Aviso: O estilo artístico do jogo foi feito com essa função em mente. Desligar ela não traz uma melhora significativa na performance do jogo. Nós recomendamos que essa opção fique em seu valor padrão; apenas desligue ela se você tem certeza que quer fazer isso.
 SystemSetting_Gameplay_Warning = Aviso: É altamente recomendado deixar essa opção em seu valor padrão!
+SystemSetting_Confirm = CONFIRMAR
+SystemSetting_Back = VOLTAR
 
 [systemsettings.main]
 GameSettings_Title = Opções do Jogo
@@ -48,6 +50,9 @@ Item_SpeedrunTimer_Item_Off = Desligado
 Item_SpeedrunTimer_Item_On = Ligado
 Item_SpeedrunTimer_Item_GameOnly = Só o Tempo do Jogo
 Item_SpeedrunTimer_Item_ActOnly = Só o Tempo de Atos
+
+Item_Language_Title = Idioma
+Item_Language_Desc = Idioma dos textos do jogo. Não afeta as vozes (Você pode ajustar as vozes nas Opções de Áudio).
 
 Item_SkipCinematics_Title = Pular Automaticamente Cutscenes Puláveis
 Item_SkipCinematics_Desc = Se você estiver com pressa, ou se ja viu elas, você pode pular todas as cutscenes que são puláveis se ativar essa opção. Lembre-se que você poder pular cutscenes a qualquer tempo mesmo com essa opção desativada.
@@ -434,6 +439,7 @@ ItemUnlock_Badge = Novo chapéu costurado, pronto para uso!
 ItemUnlock_Rare = Esse estilo é raro!
 ItemUnlock_VeryRare = Esse estilo é muito raro!
 ItemUnlock_Flair = Você agora pode trocar a aparência desse item!
+ItemUnlock_Equip = EQUIPAR
 
 [InventoryCamera]
 Help_TakePicture = Tirar Foto
@@ -460,7 +466,7 @@ Filter7 = Frio
 Filter8 = Preto e Branco
 Filter9 = Noite
 Filter10 = Pôr do Sol
-Filter11 = #SemFiltro
+Filter11 = Sem Filtro
 
 [ActSelect]
 Help_GoToAct = Iniciar Ato
@@ -573,7 +579,7 @@ Category_Chapters = CAPÍTULOS
 Category_TimeRifts = FENDAS TEMPORAIS
 Category_HatsAndBadges = CHAPÉUS E INSÍGNIAS
 Category_Collectibles = COLECIONÁVEIS
-Category_Misc = MISC
+Category_Misc = OUTROS
 
 [ConsoleProfileSwap]
 SwapProfile = Trocar de Perfil

@@ -29,7 +29,8 @@ button0 = O botão de emergência, perfeito para momentos em que você precisa d
 
 [Tokens]
 tokenmachine0 = É uma pequena máquina que aceita [icon:token][name]Tokens[/name] e dá um presente em retorno! Gastar [icon:token][name]3 Tokens[/name] por um presente?
-tokenmachine1 = Sem [icon:token][name]Tokens[/name] o suficente!
+tokenmachine1 = Sem [icon:token][name]Tokens[/name] o suficiente!
+tokenmachine2 = A máquina está vazia!
 tokenmachine0_yes = Sim!
 tokenmachine0_no = Odeio presentes
 
@@ -155,7 +156,7 @@ computerself4 = VOCÊ DEVIA IR LÁ FORA E TOMAR UM POUCO DE AR FRESCO, SE PUDER.
 computerself5 = NÃO ESQUEÇA DE COMER O SUFICIENTE. TENTE NÃO PULAR O CAFÉ DA MANHÃ, ELA É A REFEIÇÃO MAIS IMPORTANTE DO DIA.
 computerself6 = É NORMAL TER FALHAS E ASPECTOS COM QUAL VOCÊ NÃO ESTÁ FELIZ. ESTÁ TUDO BEM TRABALHAR NELES EM UM RITMO QUE É CONFORTÁVEL PARA VOCÊ. 
 computerself7 = VOCÊ TEM VALOR. TOME CONTA DE SI MESMA. SEJA BOA PARA SI MESMA E PARA OS OUTROS.
-computerself7 = FECHANDO APLICAÇÃO DE REAFIRMAÇÃO.
+computerself8 = FECHANDO APLICAÇÃO DE REAFIRMAÇÃO.
 
 computersurf0 = VOCÊ SELECTIONOU A APLICAÇÃO DE SURF NA REDE.
 computersurf1 = INFELIZMENTE, A MARÉ ESTÁ BAIXA AGORA. POR FAVOR TENTE NOVAMENTE MAIS TARDE.
