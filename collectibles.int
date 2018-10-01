@@ -43,7 +43,7 @@ HelpUsage = Use seu [icon:activehat] para encontrar seu objetivo!
 
 ChemicalName = Chapéu de Infusão
 ChemicalDescFun0 = Faça misturas malucas!
-ChemicalDescTech0 = Pressione [button:badge] para arremes-[br]sar uma mistura explosiva!
+ChemicalDescTech0 = Pressione [button:badge] para jogar[br]uma mistura explosiva!
 
 TimeStopName = Chapéu de Parar o Tempo
 TimeStopDescFun0 = A morte é inevitável, seu tempo é precioso.
