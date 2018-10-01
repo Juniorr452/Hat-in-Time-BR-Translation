@@ -144,7 +144,7 @@ Item_SoundEffectVolume_Desc = Ajusta o volume dos efeitos sonoros. 100% é o val
 Item_VAVolume_Title = Volume do Diálogo
 Item_VAVolume_Desc = Ajusta o volume de todas as falas. 100% é o valor recomendado, mas você pode aumentar o volume além disso.
 
-Item_MasterVolume_Title = Master Volume
+Item_MasterVolume_Title = Volume Geral
 Item_MasterVolume_Desc = Ajusta o volume do jogo todo. 100% é o valor recomendado, mas você pode aumentar o volume além disso.
 
 Item_VAType_Title = Tipo de Vozes
@@ -438,7 +438,9 @@ Coop_CantDisableRightNow = Você não pode desativar o modo cooperativo agora
 Coop_CantEnableRightNow = Você não pode ativar o modo cooperativo agora
 Coop_CantEnableDeathWish = Indisponível para o modo cooperativo
 Coop_CantEnableDWActive = Você não pode desativar o modo cooperativo enquanto um Desejo de Morte estiver ativo
-
+Coop_Disable_Question = Desabilitar Co-op?
+Coop_Disable_Confirm = Desabilitar
+Coop_Disable_Deny = Voltar
 
 [MainMenu]
 FileSelect_File = Save
@@ -563,7 +565,7 @@ Suspect_Select4 = ...
 Suspect_Select5 = Você não pode culpar[br]uma coruja morta![br]Quer dizer... zzz...
 
 [Decoration]
-PayCost = Reparos:\n
+PayCost = Reparar:\n
 
 [DeadBirdBills]
 Bill_WalkOnSet = Atrapalhando Gravações
@@ -585,6 +587,12 @@ Highscore = AS ANÁLISES SAÍRAM...
 [Modding]
 PleaseRate_0 = Nos ajude a determinar a avaliação desse mod na
 PleaseRate_1 = Steam Workshop pelo seu feedback!
+PleaseRate_2 = Por favor, avalie esta fase!
+PleaseRate_3 = Muito boa!
+PleaseRate_4 = Foi decente.
+PleaseRate_5 = Meh...
+PleaseRate_6 = Não muito boa!
+
 HowToComment = Para deixar um comentário, veja esse mod na Steam Workshop.
 BackToHub = Ir para Espaçonave
 NextMap = Próximo Mapa
@@ -665,14 +673,18 @@ Reset = Resetar o contrato
 Tip = Dica do Snatcher
 Debug = DEBUG Completar/Resetar
 
+ResetDeathwishQuestion = Resetar TODO o progresso deste contrato?
+ResetDeathwishConfirm = Rasga e queima!
+ResetDeathwishDeny = Pare!!!
+
 [DeathWishEasyMode]
 EasyMode0 = Ninguém está por perto para me ajudar
 EasyMode1 = A vida é difícil, a vida é cheia de estresse
 EasyMode2 = Eu preciso de paz e tranquilidade
 EasyMode3 = Eu não tenho que provar nada pra ninguém
-EasyMode4 = Quer que eu deixe este Desejo de Morte um pouco mais fácil pra você?
+EasyMode4 = Quer que eu deixe este Desejo de Morte\num pouco mais fácil pra você?
 EasyShort = Bem vindo de volta para a zona sem julgamentos
-EasyExit = Não se preocupe, lembre-se de mim quando as coisas ficarem agitadas
+EasyExit = Não se preocupe, lembre-se de mim\nquando as coisas ficarem agitadas
 EasyAccept0 = Um... dois... presto!
 EasyAccept1 = Este Desejo de Morte ficou mais fácil!
 EasyAccept2 = Tenha um dia tranquilo!

@@ -174,3 +174,6 @@ suicide0 = [shake2]Nós não PRECISAMOS de um herói! Caia fora![/shake2]
 [ending]
 hang0 = [shake2]Ei garotinha, vamos fazer outro contrato![/shake2]
 hang1 = Vamos sentir saudades de vocêeeeeeeeeeeeee...!!!
+
+[spaceship]
+no_contracts0 = [shake2]Sem contratos? Bobagem! Explore minha floresta e você vai achar mais.[/shake2]

@@ -162,7 +162,7 @@ Bonus2_Easy = Termine em 12:00 ou menos
 Tip0 = Se você precisa [name]voltar para o começo[/name] depressa, porque não tenta [name]se jogar de um penhasco[/name]? É sério! [wave]Tenta![/wave]
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_MafiaTown]
-Title = Colapso de Fenda: Máfia de Cozinheiros
+Title = Rush! - Máfia de Cozinheiros
 Objective = Escape da fenda Máfia de Cozinheiros
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
@@ -172,8 +172,8 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse pegar eles mais facilmente...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
-Title = Colapso de Fenda: Dead Bird Studio
-Objective = Escape da fenda Dead Bird Studio
+Title = Rush! - Estúdio Dead Bird
+Objective = Escape da fenda Estúdio Dead Bird
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
 Faster = Escape com 30 segundos faltando
@@ -182,7 +182,7 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Subcon]
-Title = Colapso de Fenda: Subcon Sonolento
+Title = Rush! - Subcon Sonolento
 Objective = Escape da fenda Subcon Sonolento
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
@@ -192,7 +192,7 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse você pegar eles mais facilmente...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
-Title = Colapso de Fenda: Alpine Skyline
+Title = Rush! - Alpine Skyline
 Objective = Escape da fenda Alpine Skyline
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
@@ -202,7 +202,7 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Cruise]
-Title = Colapso de Fenda: Fundo do Mar
+Title = Rush! - Fundo do Mar
 Objective = Escape da fenda Fundo do Mar
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
@@ -327,7 +327,7 @@ EasyTip = Tente usar o Chapéu de Parar o Tempo!
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
 Title = Fenda da Comunidade: Estúdio Rhythm Jump
 ShortTitle = Estúdio Jump Studio
-Condition = Contribuido por Lane 'FlameLFH' Haskins
+Condition = Contribuído por Lane 'FlameLFH' Haskins
 Objective = Termine a Fenda Temporal
 AllPons = Pegue todas as Gemas da Fenda
 AllPages = Pegue todas as páginas do livro.
@@ -336,7 +336,7 @@ Tip0 = Esse é todo seu, garotinha. Eu sou um dançarino horrível.[br]Eu nem te
 [Hat_SnatcherContract_DeathWish_CommunityRift_TwilightTravels]
 Title = Fenda da Comunidade: Viagens do Crepúsculo
 ShortTitle = Viagens do Crepúsculo
-Condition = Contribuido por Eric 'Jak' Ridge
+Condition = Contribuído por Eric 'Jak' Ridge
 Objective = Termine a Fenda Temporal
 AllPons = Pegue todas as Gemas da Fenda
 AllPages = Pegue todas as páginas do livro.
@@ -345,7 +345,7 @@ Tip0 = Pare de soar esses sinos, criança. Está me dando dor de cabeça.
 [Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
 Title = Fenda da Comunidade: A Fenda da Montanha
 ShortTitle = A Fenda da Montanha
-Condition = Contribuido por Devan 'Mr.Brawls' Miller
+Condition = Contribuído por Devan 'Mr.Brawls' Miller
 Objective = Termine a Fenda Temporal
 AllPons = Pegue todas as Gemas da Fenda
 AllPages = Pegue todas as páginas do livro.
