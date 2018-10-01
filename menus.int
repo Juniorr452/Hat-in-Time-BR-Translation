@@ -412,7 +412,7 @@ Loadout_BadgeLocked_Affordable = Aperte [button:menuconfirm] para usar [yarn][nu
 
 Loadout_AbilityActivation_Trigger = Ativar
 Loadout_AbilityActivation_Jump = Pular
-Loadout_AbilityActivation_Automatic = Automático
+Loadout_AbilityActivation_Automatic = Auto
 Loadout_AbilityActivation_Attack = Atacar
 Loadout_AbilityActivation_Weapon = Arma
 

@@ -32,7 +32,7 @@ Tip0 = Essas corujas estúpidas vão te seguir até o fim do mundo. Talvez você
 [Hat_SnatcherContract_DeathWish_TrainRushShortTime]
 Title = 10 Segundos Para Autodestruição
 Objective = Termine Hora do Rush
-NoHat = Sem habilidades de chapéu e com insígnia Herói de Um Golpe equipada.
+NoHat = Sem habilidades de chapéu e com insígnia Hit Kill equipada.
 Tokens = Pegue todas as fichas do Condutor
 Condition = O Expresso das Corujas está bem atrasado
 Tip0 = Quando eu falo 10 segundos, é porque é 10 segundos mesmo! Melhor correr bem rápido, garotinha!
@@ -66,7 +66,7 @@ Tip0 = Com um toque, seu [icon:icehat] pode ser usado para sair do chão sem ter
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = Moinho Turbinado
 Objective = Chegue no topo do Moinho
-OneHit = Sem habilidades de chapéu e com insígnia Herói de Um Golpe equipada.
+OneHit = Sem habilidades de chapéu e com insígnia Hit Kill equipada.
 TimeLimit = Chegue no fim em 4 minutos
 TimeLimit_Easy = Chegue no fim em 10 minutos
 Condition = O Moinho está operando a todo vapor
@@ -82,7 +82,7 @@ Condition2 = O Cofre aponta parcialmente para os códigos
 Title = Boss Rush
 Objective = Abaixo à Máfia (e todo o resto!)
 NoMiss = Não perca uma chance de bater
-OneHit = Vença com a insígnia Herói de um Golpe equipada
+OneHit = Vença com a insígnia Hit Kill equipada
 Condition = Sem cura entre lutas
 Tip0 = Se você encontrar uma [icon:health] [name]Gema de Vida[/name] que não precise, não a pegue ainda! Você pode precisar depois...
 
@@ -182,8 +182,8 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Subcon]
-Title = Rush! - Subcon Sonolento
-Objective = Escape da fenda Subcon Sonolento
+Title = Rush! - Subcon Sonolenta
+Objective = Escape da fenda Subcon Sonolenta
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
 Faster = Escape com 30 segundos faltando
@@ -245,7 +245,7 @@ Condition = Não é permitido machucar os passarinhos!
 Objective = Passe voando pela Gaiola
 TimeLimit = Chegue no fim em 65 segundos
 TimeLimit_Easy = Chegue no fim em 3 minutos
-NoKills = Com a insígnia Herói de um Golpe equipada
+NoKills = Com a insígnia Hit Kill equipada
 MafiaHunt = Elimine 6 Mafiosos escondidos
 Tip0 = Certifique-se de [name]manter os pássaros longe[/name] desses ovos bomba, não quero ver ninguém se machucando!
 
@@ -269,7 +269,7 @@ Tip0 = Leve o tempo que precisar com isso, garota. Apenas relaxe e veja os Códi
 Title = De novo! De novo!
 Objective = Derrote o Chefão
 NoMiss = Não perca sua chance de atacar
-NoHit = Com a insignia Herói de um Golpe equipada
+NoHit = Com a insignia Hit Kill equipada
 Condition = Ele está energizado!
 Tip0 = Parece que esse trouxa está sendo um pouco mais cuidadoso com o corpo novo dele, mas ainda tem o mau hábito de atirar e pisar forte até [name]ficar azul[/name].
 
