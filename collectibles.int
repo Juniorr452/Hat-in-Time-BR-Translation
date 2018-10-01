@@ -99,7 +99,6 @@ FindRelicsBadgeName = Insígnia de Encontrar Relíquias
 FindRelicsBadgeDesc0 = Mostra um mapa para [icon:relic] próximas!
 
 CompassBadgeName = Insígnia de Compasso
-CompassBadgeDesc0 = Quando você estiver parada, ela aponta para [icon:relic] [icon:token] que estão por perto!
 CompassBadgeDesc0 = Aponta para [icon:relic] [icon:token] próximos quando você estiver parada!
 
 NoFallDamageBadgeName = Insígnia Flutuante
