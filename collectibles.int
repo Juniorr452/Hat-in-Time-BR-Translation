@@ -43,11 +43,11 @@ HelpUsage = Use seu [icon:activehat] para encontrar seu objetivo!
 
 ChemicalName = Chapéu de Infusão
 ChemicalDescFun0 = Faça misturas malucas!
-ChemicalDescTech0 = Pressione [button:badge] para arremessar uma mistura explosiva!
+ChemicalDescTech0 = Pressione [button:badge] para jogar[br]uma mistura explosiva!
 
 TimeStopName = Chapéu de Parar o Tempo
 TimeStopDescFun0 = A morte é inevitável, seu tempo é precioso.
-TimeStopDescTech0 = Pressione [button:badge] para desacelerar o tempo!
+TimeStopDescTech0 = Pressione [button:badge] para[br]desacelerar o tempo!
 
 FoxMaskName = Máscara do Habitante
 FoxMaskDescFun0 = Esta é uma lã assustadora!
@@ -65,7 +65,7 @@ UnknownName = Habilidade ???
 UnknownDescFun0 = Sem descrição.
 UnknownDescTech0 = Esta habilidade não parece ser útil.
 
-OneHitDeathName = Insígnia do Herói de Um Golpe
+OneHitDeathName = Insígnia Hit Kill
 OneHitDeathDesc0 = Você morre em um golpe. Apenas para os corajosos!
 
 SuckInOrbsName = Insígnia de Ímã de Itens
@@ -99,10 +99,10 @@ FindRelicsBadgeName = Insígnia de Encontrar Relíquias
 FindRelicsBadgeDesc0 = Mostra um mapa para [icon:relic] próximas!
 
 CompassBadgeName = Insígnia de Compasso
-CompassBadgeDesc0 = Quando você estiver parada, ela aponta para [icon:relic] [icon:token] que estão por perto!
+CompassBadgeDesc0 = Aponta para [icon:relic] [icon:token] próximos quando você estiver parada!
 
 NoFallDamageBadgeName = Insígnia Flutuante
-NoFallDamageBadgeDesc0 = Automaticamente abra seu guarda-chuva antes de um impacto mortal!
+NoFallDamageBadgeDesc0 = Abra seu guarda-chuva automa-[br]ticamente antes de cair no chão!
 
 NoBonkBadgeName = Insígnia Anti-Pancada
 NoBonkBadgeDesc0 = Sem mais pancadas na parede durante investidas!

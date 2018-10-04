@@ -412,7 +412,7 @@ Loadout_BadgeLocked_Affordable = Aperte [button:menuconfirm] para usar [yarn][nu
 
 Loadout_AbilityActivation_Trigger = Ativar
 Loadout_AbilityActivation_Jump = Pular
-Loadout_AbilityActivation_Automatic = Automático
+Loadout_AbilityActivation_Automatic = Auto
 Loadout_AbilityActivation_Attack = Atacar
 Loadout_AbilityActivation_Weapon = Arma
 
@@ -702,4 +702,4 @@ EasyName5 = Pás e Tonalidade
 EasyName6 = Peça de Tranquilidade
 EasyName7 = para tirar um cochilo
 EasyName8 = para habilitar Modo IZI???
-EasyName9 = para habilitar Desejo Legal
+EasyName9 = um Desejo Legal
