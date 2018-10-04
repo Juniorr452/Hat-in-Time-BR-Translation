@@ -109,7 +109,7 @@ Item_CameraDistance_Title = Distância da Câmera
 Item_CameraDistance_Desc = Controla o quão longe do jogador a câmera fica normalmente.
 Item_CameraDistance_Item_VeryClose = Muito Perto
 Item_CameraDistance_Item_Close = Perto
-Item_CameraDistance_Item_Standard = Regular
+Item_CameraDistance_Item_Standard = Normal
 Item_CameraDistance_Item_Far = Longe
 Item_CameraDistance_Item_VeryFar = Muito Longe
 
@@ -211,7 +211,7 @@ Item_GraphicalQuality_Desc = Determina a qualidade visual do jogo. Valores mais 
 
 Item_GraphicalQuality_Item_VeryLow = Alta Performance
 Item_GraphicalQuality_Item_Low = Performance
-Item_GraphicalQuality_Item_Medium = Regular
+Item_GraphicalQuality_Item_Medium = Normal
 Item_GraphicalQuality_Item_High = Alta Qualidade
 Item_GraphicalQuality_Item_VeryHigh = Altíssima Qualidade
 Item_GraphicalQuality_Item_Ultra = Ultra Qualidade
@@ -290,8 +290,8 @@ Item_Adv_DoF_Title = Profundidade de Campo
 Item_Adv_DoF_Desc = Profundidade de Campo desfoca o plano de fundo. Isso permite a você focar no que estiver a sua frente, e remove ruído visual de objetos distantes. Uma Profundidade de Campo mais complexa é mais precisa, mas por um custo muito maior à performance.
 Item_Adv_DoF_Item_None = Nenhuma
 Item_Adv_DoF_Item_Simple = Simples
-Item_Adv_DoF_Item_Standard = Regular
-Item_Adv_DoF_Item_Complex = Complexa
+Item_Adv_DoF_Item_Standard = Normal
+Item_Adv_DoF_Item_Complex = Complexo
 
 Item_Adv_Bloom_Title = Bloom
 Item_Adv_Bloom_Desc = Quando ativado, áreas claras irão produzir um efeito de brilho.
@@ -314,6 +314,9 @@ Item_Adv_Distortion_Desc = Permite algumas superfícies transparentes (como a á
 Item_Adv_AA_Title = Anti-Aliasing
 Item_Adv_AA_Desc = Quando ativado, applica o método de suavização para cantos de modelos selecionado. FXAA0 é o mais econômico, enquanto FXAA5 e MLAA são os mais pesados. Você não deve selecionar nenhum valor que não seja Nenhum ou FXAA0 a não ser que você esteja familiarizado com os diferentes métodos.
 Item_Adv_AA_Item_None = Nenhum
+
+Item_Adv_AO_Title = Oclusão de Ambiente
+Item_Adv_AO_Desc = Quando ativado, aplica sombra em áreas de contato entre objetos.
 
 Item_Adv_MaterialEffects_Title = Efeitos de Tela de Alta Qualidade
 Item_Adv_MaterialEffects_Desc = Permite efeitos de tela a usarem efeitos de maior qualidade e múltiplas amostras.
