@@ -1,4 +1,4 @@
-﻿[systemsettings.global]
+[systemsettings.global]
 SystemSetting_DefaultValue = Padrão:
 SystemSetting_Value_Checked = Ligado
 SystemSetting_Value_Unchecked = Desligado

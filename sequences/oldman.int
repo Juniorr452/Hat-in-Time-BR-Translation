@@ -1,4 +1,4 @@
-﻿[rainy_mafia]
+[rainy_mafia]
 encounter0 = [shake]Oh não, aliens estão vindo pegar Máfia! Eu posso ver espaçonave! [hint]Monstros gosmentos[/hint] chegar a qualquer momento![/shake]
 
 hit0 = O que... [scream]HÃ?![/scream]

@@ -1,4 +1,4 @@
-﻿[general]
+[general]
 YouGotItem0 = Você conseguiu [plural][name][itemname][/name]![custom0]
 custom0 = [custom0]
 custom1 = [custom1]
