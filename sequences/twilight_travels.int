@@ -1,9 +1,9 @@
 [Tutorial]
-BellHint = [timepiece]Rift gates[/timepiece] are spawned in using [hint]bells[/hint]! Use your [name]Kid's Hat[/name][icon:hat] to find them!
+BellHint = [timepiece]Riftes[/timepiece] são gerados ao usar [hint]sinos[/hint]! Use o seu [name]Chapéu da Criança[/name][icon:hat] para acha-los!
 
 [DeepLore]
-Grave0 = Legends say a great hero from long ago went on a grand journey to get to the [hint]Twilight Bell[/hint], he left his home and faced many troubles along the way, but persevered.
-Grave1 = This statue is here in rememberance of him.
-Grave2 = There is a quote on the backside of the stone, supposedly from the goat himself.
-Grave3 = It reads: [name]Never forget, being determined can push you to greater lengths than you may ever know. Be proud of your work, even if it's a small thing.[/name]
-Grave4 = You wish you could meet this goat one day, he seems like he'd be a great friend to have, even if they don't talk.
+Grave0 = Lendas dizem que um herói de muito tempo atrás foi em uma grande jornada para chegar no [hint]Sino da Penumbra[/hint], ele saiu de sua casa e enfrentou vários problemas em seu caminho, mas perseverou.
+Grave1 = Esta estátua está aqui em memória dele.
+Grave2 = Há uma citação atrás da pedra, supostamente do bode mesmo.
+Grave3 = Se lê: [name]Nunca se esqueça, ser determinado pode lhe puxar para mais longe do que você possa imaginar. Seja orgulhoso de seu trabalho, mesmo que seja algo pequeno.[/name]
+Grave4 = Você queria que pudesse conheçer esse bode um dia, ele parece que seria um grande amigo de se ter, mesmo que eles não falem.
