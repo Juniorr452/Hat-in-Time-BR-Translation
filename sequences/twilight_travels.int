@@ -1,9 +1,9 @@
 [Tutorial]
-BellHint = [timepiece]Riftes[/timepiece] são gerados ao usar [hint]sinos[/hint]! Use o seu [name]Chapéu da Criança[/name][icon:hat] para acha-los!
+BellHint = [timepiece]Portões da Fenda[/timepiece] são criados ao tocar [hint]sinos[/hint]! Use o seu [name]Chapéu da Criança[/name][icon:hat] para achá-los!
 
 [DeepLore]
-Grave0 = Lendas dizem que um herói de muito tempo atrás foi em uma grande jornada para chegar no [hint]Sino da Penumbra[/hint], ele saiu de sua casa e enfrentou vários problemas em seu caminho, mas perseverou.
+Grave0 = Lendas dizem que um herói de muito tempo atrás foi em uma grande jornada para chegar ao [hint]Sino da Penumbra[/hint], ele saiu de sua casa e enfrentou vários problemas em seu caminho, mas perseverou.
 Grave1 = Esta estátua está aqui em memória dele.
-Grave2 = Há uma citação atrás da pedra, supostamente do bode mesmo.
+Grave2 = Há algo escrito na parte de trás, supostamente do próprio bode.
 Grave3 = Se lê: [name]Nunca se esqueça, ser determinado pode lhe puxar para mais longe do que você possa imaginar. Seja orgulhoso de seu trabalho, mesmo que seja algo pequeno.[/name]
-Grave4 = Você queria que pudesse conheçer esse bode um dia, ele parece que seria um grande amigo de se ter, mesmo que eles não falem.
+Grave4 = Você gostaria que pudesse conhecer esse bode um dia. Parece que seria um grande amigo de se ter, mesmo que eles não falem.
