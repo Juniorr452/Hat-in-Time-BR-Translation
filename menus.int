@@ -15,19 +15,19 @@ GameSettings_Desc = Ajustar opções relacionadas ao gameplay.
 GameSettings_Icon_Singleplayer = Um Jogador
 GameSettings_Icon_SplitScreen = Tela Dividida
 GameSettings_Icon_SystemSettings = Configurações do Sistema
-GameSettings_Icon_SystemSettings_Console = Preferences
+GameSettings_Icon_SystemSettings_Console = Preferências
 GameSettings_Icon_Camera = Câmera
 
 GraphicsSettings_Title = Opções Gráficas
-GraphicsSettings_Title_Console = Visual Settings
+GraphicsSettings_Title_Console = Opções Visuais
 GraphicsSettings_Desc = Ajuste opções gráficas que afetam os visuais e a performance do jogo.
-GraphicsSettings_Desc_Console = Adjust the game's visual presentation.
+GraphicsSettings_Desc_Console = Ajustar a apresentação visual do jogo.
 
 GraphicsSettings_Icon_Performance = Performance
 GraphicsSettings_Icon_Rendering = Renderização
 GraphicsSettings_Icon_Effects = Efeitos
-GraphicsSettings_Icon_Brightness = Brightness
-GraphicsSettings_Icon_ColorBlindness = Color Blindness
+GraphicsSettings_Icon_Brightness = Brilho
+GraphicsSettings_Icon_ColorBlindness = Daltonismo
 
 AudioSettings_Title = Opções de Áudio
 AudioSettings_Desc = Ajustar o volume de cada tipo de áudio.
@@ -74,8 +74,8 @@ Item_SplitScreenMethod_Desc = Trocar o jeito de como a tela é dividida para doi
 Item_VersusModeAlways_Title = Ativar Modo Versus
 Item_VersusModeAlways_Desc = Ativa o Modo Versus quando o modo Cooperativo de Tela Dividida estiver ativado.
 
-Item_CoopIsSplitScreen_Title = FullScreen Co-op
-Item_CoopIsSplitScreen_Desc = Keep both players on one screen instead of split-screen co-op.
+Item_CoopIsSplitScreen_Title = Cooperativo em tela cheia
+Item_CoopIsSplitScreen_Desc = Deixar os dois jogadores em uma tela só ao invés de separar a tela em dois.
 
 Header_Camera = Câmera
 Header_Camera_Adv = Câmera Avançada
@@ -176,7 +176,7 @@ Tab_Detailed = Detalhado
 Tab_Advanced = Avançado
 
 Header_Window = Janela
-Header_Visuals = Visuals
+Header_Visuals = Visuais
 
 Item_DisplayResolution_Title = Resolução do Display
 Item_DisplayResolution_Desc = Determina quantos pixels são renderizados horizontalmente e verticalmente. Uma resolução maior resulta em uma qualidade maior, mas irá reduzir a performance.
@@ -370,7 +370,7 @@ Item_Toggle = Ativar/Desativar
 
 [systemsettings.input]
 Header_Input = Controle
-Header_Input_Adv = Input (Advanced)
+Header_Input_Adv = Controle (Advançado)
 
 Item_OnTheFlyController_Title = Auto-Selecionar Controle
 Item_OnTheFlyController_Desc = Se ativado e estiver no modo single player, o controle ativo irá trocar quando você apertar um botão em um novo controle.
@@ -383,11 +383,11 @@ Item_MouseSensitivity_Title = Sensibilidade de Mouse
 Item_MouseSensitivity_Desc = Quanto maior a sensibilidade, maior o impacto do movimento do mouse no jogo.
 
 Item_InvertCameraX_Controller_Title = Inverter Eixo Horizontal da Câmera (Controles)
-Item_InvertCameraX_Controller_Title_Console = Invert Horizontal Camera
+Item_InvertCameraX_Controller_Title_Console = Inverter Eixo Horizontal da Câmera
 Item_InvertCameraX_Controller_Desc = Inverte o movimento horizontal da câmera quando estiver usando um controle
 Item_InvertCameraX_Controller_Desc_Console = Inverte o movimento horizontal da câmera
 Item_InvertCameraY_Controller_Title = Inverter Eixo Vertical da Câmera (Controles)
-Item_InvertCameraY_Controller_Title_Console = Invert Vertical Camera
+Item_InvertCameraY_Controller_Title_Console = Inverter Eixo Vertical da Câmera
 Item_InvertCameraY_Controller_Desc = Inverte o movimento vertical da câmera quando estiver usando um controle
 Item_InvertCameraY_Controller_Desc_Console = Inverte o movimento vertical da câmera
 Item_Rumble_Controller_Title = Vibrar
@@ -396,8 +396,8 @@ Item_Rumble_Controller_Desc = Ativa ou desativa a vibração do controle
 Item_InputAssist_Title = Auxílio de Controle
 Item_InputAssist_Desc = O jogo irá tentar melhorar o controle do jogo guardando botões ou movimentos que ocorreram um pouco cedo demais, assim como tentar evitar apertos de botões duplos acidentais.
 
-Item_HoldBackToCancelDive_Title = Hold Backwards To Cancel Diving
-Item_HoldBackToCancelDive_Desc = Hold backwards while performing a jump dive to cancel it.
+Item_HoldBackToCancelDive_Title = Segurar Para Trás Para Cancelar o Mergulho
+Item_HoldBackToCancelDive_Desc = Enquanto estiver mergulhando, segure na direção oposta para cancelar.
 
 [systemsettings.controller]
 Header_Controller = Controles Conectados
@@ -458,7 +458,7 @@ Coop_CantDisableRightNow = Você não pode desativar o modo cooperativo agora
 Coop_CantEnableRightNow = Você não pode ativar o modo cooperativo agora
 Coop_CantEnableDeathWish = Indisponível para o modo cooperativo
 Coop_CantEnableDWActive = Você não pode desativar o modo cooperativo enquanto um Desejo de Morte estiver ativo
-Coop_Disable_Question = Desabilitar Co-op?
+Coop_Disable_Question = Desabilitar Modo Cooperativo?
 Coop_Disable_Confirm = Desabilitar
 Coop_Disable_Deny = Voltar
 
@@ -585,7 +585,7 @@ Suspect_Select4 = ...
 Suspect_Select5 = Você não pode culpar[br]uma coruja morta![br]Quer dizer... zzz...
 
 [MailDelivery]
-FirePrompt = Fire Mail
+FirePrompt = Atirar Correspondência
 
 [Decoration]
 PayCost = Reparar:\n
@@ -608,11 +608,11 @@ Starring = ESTRELANDO
 Highscore = AS ANÁLISES SAÍRAM...
 
 [PlayTesting]
-PlayTestRate_0 = Please rate what you just played!
-PlayTestRate_1 = Very good!
-PlayTestRate_2 = It was decent.
+PlayTestRate_0 = Por favor avalie o que você acabou de jogar!
+PlayTestRate_1 = Muito bom!
+PlayTestRate_2 = Foi decente.
 PlayTestRate_3 = Meh...
-PlayTestRate_4 = Not too good!
+PlayTestRate_4 = Não muito bom!
 
 [Modding]
 PleaseRate_0 = Nos ajude a determinar a avaliação desse mod na
@@ -661,7 +661,7 @@ Action_Select = Selecionar
 ReturnToHUB = Voltar para HUB
 Settings = Configurações
 QuitGame = Sair do Jogo
-Coop = CO-OP
+Coop = Cooperativo
 Mods = Mods
 RestartToLastCheckpoint = Recomeçar
 DeathWish = Death Wish
@@ -682,26 +682,26 @@ ZoomInContract = Ampliar
 ClickToRoll = Para Rodar
 ClickToReRoll = Rodar Denovo
 ClickToClaimPrize = Pegar o Prêmio
-PrizeHat = New Hat
-PrizeFlair = Hat Flair
-PrizeDye = New Color
-PrizeRemix = New Remix
-PrizeBadge = New Badge
-PrizeBadgeFlair = Badge Flair
+PrizeHat = Novo Chapéu
+PrizeFlair = Estilo de Chapéu
+PrizeDye = Nova Cor
+PrizeRemix = Novo Remix
+PrizeBadge = Nova Insígnia
+PrizeBadgeFlair = Estilo de Insígnia
 
 [DLC1Splash]
 cruise = Um capítulo completamente novo: O Cruzeiro Ártico
 deathwish = Novo modo desafiador: Desejo de Morte!
 coop = Modo cooperativo local de tela dividida!
-cruise_acts = 3 new acts set on a cruise!
+cruise_acts = 3 novos atos situados em um cruzeiro!
 rifts = Seis novas fendas temporais!
 unlocks0 = Várias roupas, decorações, tintas,
 unlocks1 = e filtros de câmera desbloqueáveis!
 
-coop_title = New feature: Co-op
-coop_bullet0 = Play the entire adventure
-coop_bullet1 = and help eachother to survive
-coop_bullet2 = in split-screen shenanigans!
+coop_title = Novo modo: Cooperativo
+coop_bullet0 = Jogue a aventura inteira
+coop_bullet1 = e ajude um ao outro a sobreviver
+coop_bullet2 = em aventuras de tela divida!
 
 [DeathWishMap]
 Locked = Ato Bloqueado
