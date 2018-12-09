@@ -75,7 +75,7 @@ Item_VersusModeAlways_Title = Ativar Modo Versus
 Item_VersusModeAlways_Desc = Ativa o Modo Versus quando o modo Cooperativo de Tela Dividida estiver ativado.
 
 Item_CoopIsSplitScreen_Title = Cooperativo em tela cheia
-Item_CoopIsSplitScreen_Desc = Deixar os dois jogadores em uma tela só ao invés de separar a tela em dois.
+Item_CoopIsSplitScreen_Desc = Deixar os dois jogadores em uma tela só ao invés de a dividir em duas.
 
 Header_Camera = Câmera
 Header_Camera_Adv = Câmera Avançada
@@ -176,7 +176,7 @@ Tab_Detailed = Detalhado
 Tab_Advanced = Avançado
 
 Header_Window = Janela
-Header_Visuals = Visuais
+Header_Visuals = Aparência
 
 Item_DisplayResolution_Title = Resolução do Display
 Item_DisplayResolution_Desc = Determina quantos pixels são renderizados horizontalmente e verticalmente. Uma resolução maior resulta em uma qualidade maior, mas irá reduzir a performance.
@@ -396,7 +396,7 @@ Item_Rumble_Controller_Desc = Ativa ou desativa a vibração do controle
 Item_InputAssist_Title = Auxílio de Controle
 Item_InputAssist_Desc = O jogo irá tentar melhorar o controle do jogo guardando botões ou movimentos que ocorreram um pouco cedo demais, assim como tentar evitar apertos de botões duplos acidentais.
 
-Item_HoldBackToCancelDive_Title = Segurar Para Trás Para Cancelar o Mergulho
+Item_HoldBackToCancelDive_Title = Segurar para Trás para Cancelar o Mergulho
 Item_HoldBackToCancelDive_Desc = Enquanto estiver mergulhando, segure na direção oposta para cancelar.
 
 [systemsettings.controller]
@@ -585,7 +585,7 @@ Suspect_Select4 = ...
 Suspect_Select5 = Você não pode culpar[br]uma coruja morta![br]Quer dizer... zzz...
 
 [MailDelivery]
-FirePrompt = Atirar Correspondência
+FirePrompt = Jogar Correspondência
 
 [Decoration]
 PayCost = Reparar:\n
@@ -699,9 +699,9 @@ unlocks0 = Várias roupas, decorações, tintas,
 unlocks1 = e filtros de câmera desbloqueáveis!
 
 coop_title = Novo modo: Cooperativo
-coop_bullet0 = Jogue a aventura inteira
+coop_bullet0 = Jogue a aventura inteira com um amigo
 coop_bullet1 = e ajude um ao outro a sobreviver
-coop_bullet2 = em aventuras de tela divida!
+coop_bullet2 = ou zoem juntos em tela dividida!
 
 [DeathWishMap]
 Locked = Ato Bloqueado
