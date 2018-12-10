@@ -25,8 +25,8 @@ UnknownDescLocked0 = Sem descrição.
 UnknownDescTech0 = Este chapéu não parece ser útil.
 
 SprintName = Chapéu de Corrida
-SprintDescLocked0 = Esta lã está parecendo pronta para correr!
-SprintDescLockedHat = Este chapéu está parecendo pronto para correr!
+SprintDescLocked0 = Esta lã parece pronta para correr!
+SprintDescLockedHat = Este chapéu parece pronto para correr!
 SprintDesc0 = Segure [button:badge] para correr!
 
 StatueFallName = Chapéu de Gelo
