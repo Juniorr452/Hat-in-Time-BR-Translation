@@ -463,12 +463,12 @@ Coop_Disable_Confirm = Desabilitar
 Coop_Disable_Deny = Voltar
 
 [MainMenu]
-FileSelect_File = Save
+FileSelect_File = Jogo
 FileSelect_Progress_Completed = Completo
-FileSelect_New = Criar Novo Save
+FileSelect_New = Novo Jogo
 
-Action_Delete = Deletar Save
-Action_Delete_Q = Você tem certeza que quer[br]deletar o save [id]?
+Action_Delete = Deletar Jogo
+Action_Delete_Q = Você tem certeza que quer[br]deletar o jogo [id]?
 
 Action_NewGame = Começar um Novo Jogo
 Action_NewGame_Q = Começar um Novo Jogo?
