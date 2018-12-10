@@ -14,9 +14,9 @@ GenericYarnSuffix = Lã
 GenericHatSuffix = Chapéu
 
 [trigger_abilities]
-BadgeCollect0 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado; apenas [yarn][badgepoints_left][/yarn] para completar!
-BadgeCollect1 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado, e você possui [yarn][badgepoints_player][/yarn]! Pressione [button:start] para abrir o menu, onde você pode costurá-lo!
-BadgeCollect2 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para costurar!
+BadgeCollect0 = É(São) necessária(s) [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado; apenas [yarn][badgepoints_left][/yarn] para completar!
+BadgeCollect1 = É(São) necessária(s) [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado, e você possui [yarn][badgepoints_player][/yarn]! Pressione [button:start] para abrir o menu, onde você pode costurá-lo!
+BadgeCollect2 = É(São) necessária(s) [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para costurar!
 BadgeCollect3 = Você possui [yarn][icon:yarn]lãs[/yarn] o suficiente para costurá-lo!
 BadgeCollect4 = Você já possui este chapéu, mas você ganhou [yarn]+1 [icon:yarn]lã[/yarn] mesmo assim!
 
