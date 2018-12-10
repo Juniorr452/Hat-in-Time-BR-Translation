@@ -1,14 +1,14 @@
 [chapter1muchase]
 tower0 = Ei você,[waitlong] aí embaixo! [waitlong][waitlong]Não pense que não vi você me perseguindo!
-tower1 = Nós crianças deveríamos andar juntas, não perseguir umas às outras. Quer dizer, a [name]Cidade Mafiosa[/name] pode ser um lugar bem perigoso! Então o quê que cê acha, quer se juntar à minha pequena rebelião?
-tower2 = Oh, a propósito, você tem alguma coisa a ver com o [timepiece][icon:timepiece]lixo[/timepiece] que caiu do céu? É? Caramba, parece que você tem um monte de limpeza pra fazer, hã?
-tower3 = Vou te contar, venha aqui e eu posso te mostrar onde um de seus [timepiece][icon:timepiece]lixos[/timepiece] caiu!
+tower1 = Nós, crianças, deveríamos andar juntas, não perseguir umas às outras. Quer dizer, a [name]Cidade Mafiosa[/name] pode ser um lugar bem perigoso! Então o quê que cê acha, quer se juntar à minha pequena rebelião?
+tower2 = Ah, a propósito, você tem alguma coisa a ver com o [timepiece][icon:timepiece]lixo[/timepiece] que caiu do céu? É? Caramba, parece que você muita limpeza pra fazer, né?
+tower3 = Vou te contar, venha aqui e eu posso te mostrar onde um dos seus [timepiece][icon:timepiece]lixos[/timepiece] caiu!
 
 tower_wrong_jump = Um pulo só não vai dar. Você vai precisar dobrar esse pulo!
 
 mu_follow0 = Siga-me,[br]esquadrão rebelde!
 
-umbrella_there0 = Ei! Acho que uma de suas [timepiece][icon:timepiece]peças lixosas[/timepiece] caiu e quebrou aquela fonte do mercado. Ficou bem destroçada.
+umbrella_there0 = Ei! Acho que uma das suas [timepiece][icon:timepiece]peças lixosas[/timepiece] caiu e quebrou aquela fonte do mercado. Ficou toda destroçada!
 umbrella_there1 = Quando for lá, só tente não fazer contato visual com os Mafiosos e você vai ficar bem. Boa sorte, camarada rebelde!
 umbrella_there2 = Até mais!
 
