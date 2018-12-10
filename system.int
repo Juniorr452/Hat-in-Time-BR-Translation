@@ -1,5 +1,5 @@
 [Input]
-NewAutoController = Nova Entrada:
+NewAutoController = Novo Controle:
 ControllerDisconnect = O controle foi desconectado. Por favor, reconecte o controle para continuar.
 
 [levels]
