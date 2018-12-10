@@ -436,8 +436,8 @@ Loadout_AbilityActivation_Automatic = Auto
 Loadout_AbilityActivation_Attack = Atacar
 Loadout_AbilityActivation_Weapon = Arma
 
-Options_ReturnToHUB_Q = Salvar e Retornar para o Hub?
-Options_ReturnToHUB_NoSaving_Q = Retornar para o Hub?
+Options_ReturnToHUB_Q = Salvar e Retornar para a Nave?
+Options_ReturnToHUB_NoSaving_Q = Retornar para a Nave?
 Options_QuitGame_Q = Sair do Jogo?
 Options_QuitGame_InGame_Q = Salvar e Sair para...
 Options_QuitGame_InGame_NoSaving_Q = Sair sem Salvar para...
@@ -557,7 +557,7 @@ MenuDecline = Não!
 RetryLevelQuestion = Tentar esse Ato denovo?
 RetryDeathWishQuestion = Tentar esse Desejo de Morte de novo?
 RetryLevel_Yes = Yes
-RetryLevel_HUB = Voltar para o Hub
+RetryLevel_HUB = Voltar para a Nave
 
 [DecorationMap]
 DecorationMap_NoMarkers = Nenhuma Relíquia\n Por Perto
@@ -658,7 +658,7 @@ Action_Play = Jogar
 Action_Select = Selecionar
 
 [LoadoutMenuOptions]
-ReturnToHUB = Voltar para HUB
+ReturnToHUB = Voltar para Nave
 Settings = Configurações
 QuitGame = Sair do Jogo
 Coop = Cooperativo
