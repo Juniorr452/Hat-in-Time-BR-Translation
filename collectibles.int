@@ -68,9 +68,9 @@ UnknownDescTech0 = Esta habilidade não parece ser útil.
 OneHitDeathName = Insígnia Hit Kill
 OneHitDeathDesc0 = Você morre em um golpe. Apenas para os corajosos!
 
-SuckInOrbsName = Insígnia de Ímã de Itens
+SuckInOrbsName = Insígnia Ímã de Itens
 SuckInOrbsFun0 = Item fora de alcance? Não é mais um problema!
-SuckInOrbsTech0 = Automaticamente atraia [br]colecionáveis próximos!
+SuckInOrbsTech0 = Atraia itens próximos [br]automaticamente!
 
 AttackProjectileName = Insígnia de Projétil
 AttackProjectileDescFun0 = Insígnia de Projétil
@@ -102,13 +102,13 @@ CompassBadgeName = Insígnia de Compasso
 CompassBadgeDesc0 = Aponta para [icon:relic] [icon:token] próximos quando você estiver parada!
 
 NoFallDamageBadgeName = Insígnia Flutuante
-NoFallDamageBadgeDesc0 = Abra seu guarda-chuva automa-[br]ticamente antes de cair no chão!
+NoFallDamageBadgeDesc0 = Abre seu guarda-chuva[br]antes de você cair[br]no chão!
 
 NoBonkBadgeName = Insígnia Anti-Pancada
 NoBonkBadgeDesc0 = Sem mais pancadas na parede durante investidas!
 
 HatCooldownBonusBadgeName = Insígnia do Chapeleiro Veloz
-HatCooldownBonusBadgeDesc0 = Significativamente reduz o tempo de recarga quando usar chapéus!
+HatCooldownBonusBadgeDesc0 = Reduz significativamente o tempo de recarga para usar chapéus!
 
 MirrorBadgeName = Insígnia de Espelho
 MirrorBadgeDesc0 = Odut ariv!
