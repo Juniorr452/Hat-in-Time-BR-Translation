@@ -529,8 +529,8 @@ Help_SeeDreamWorld = Olhar Foto
 Help_UnSeeDreamWorld = Fechar Foto
 Help_Exit = Sair
 
-Action_EnterCompletedAct = Você já completou esse ato. Entrar mesmo assim?
-Action_MissingItem = Você não tem o item [br] necessário e não irá conseguir completar esse ato. Entrar mesmo assim?
+Action_EnterCompletedAct = Você já completou esse ato. Deseja entrar mesmo assim?
+Action_MissingItem = Você não tem o item [br] necessário e não irá conseguir completar esse ato. Deseja entrar mesmo assim?
 
 StandOff_Confirm_Conductor0 = O Condutor tem a pontuação mais alta! Confirmar ele como o vencedor?
 StandOff_Confirm_Conductor1 = Ele é um pouco metido a besta em relação a isso. Tem certeza que quer que ele vença?
