@@ -1,5 +1,5 @@
 [chapter1act1]
-doublejump0 = Companheiro Máfia assistiu TV ontem à noite? Coruja cientista confusante disse que pessoas pequenas podem dar [hint]pulo duplo no ar[/hint].
+doublejump0 = Companheiro Máfia assistiu TV ontem à noite? Coruja cientista disse que pessoas pequenas podem dar [hint]pulo duplo no ar[/hint].
 doublejump1 = Eu vi. Isso deixa Máfia desconfortável com corpo. Precisamos exercitar.
 doublejump2 = Companheiro Máfia viu programa Gato Cozinheiro Maluco?
 doublejump3 = Não. O que ele cozinhou?
@@ -14,7 +14,7 @@ seagull0 = Gaivota comer peixe, mas peixe pertence à Máfia. Socamos gaivota po
 seagull1 = Gaivota dizer, "Não soque, tenho filho!" Máfia soca gaivota com filho.
 seagull2 = Gaivotas estúpidas. Tudo que fazem é ficar por aí. Que nem Máfia! Imitadores.
 
-road0 = Todos caminhos levam à Máfia. Nada bom, grandes problemas com imigração.
+road0 = Todos os caminhos levavam à Máfia. Nada bom, grandes problemas com imigração.
 road1 = Arrumamos isso mudando para ilha. Agora nenhum caminho levar à Máfia.
 road2 = Desvantagem de viver em ilha distante: coisas demoram eternidade pra chegar quando pedidas on-line.
 road3 = Vêm em barcos pequenos, mas toda vez que vêm, atiramos. Depois de um tempo, barco parar de vir.
@@ -211,9 +211,9 @@ bar4 = Ela parece ser do tipo rebelde. Fique de olho nela.
 
 [spaceship]
 flyingboat0 = O que ser isso, [br]barco voador?
-flyingboat1 = Todos barcos [br]precisam pagar taxa [br]na [name]Cidade Mafiosa[/name].
+flyingboat1 = Todos os barcos [br]precisam pagar taxa [br]na [name]Cidade Mafiosa[/name].
 flyingboat2 = ...até[br]no espaço!
-flyingboat3 = Máfia entra[br]para coletar.
+flyingboat3 = Máfia entra[br]para recolher.
 
 [cheating_race]
 intro0 = Haha! Foguetes serem rápidos, e se Máfia estar em foguete, Máfia é rápida! Homem mais rápido vivo!
