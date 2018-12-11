@@ -1,17 +1,17 @@
 [murder]
-IntroMaidenName0 = Olá, companheira coruja. Acredito que não tivemos o prazer de nos conhecermos?
+IntroMaidenName0 = Olá, companheira coruja. Acredito que não tivemos o prazer de nos conhecermos.
 IntroMaidenName1 = Como você pode ver, também sou uma Expressoruja. Eu pio bastante.
-IntroMaidenName2 = De coruja para coruja, podemos dividir detalhes, sim? Qual é o nome de solteira da irmã do seu tio?
+IntroMaidenName2 = De coruja para coruja, podemos compartilhar informações, sim? Qual é o nome de solteira da irmã do seu tio?
 IntroMaidenName3 = Ah, é [MotherMaidenName]? Sim, sim. Esse é o tipo de nome de solteira da irmã do tio que eu esperaria de uma Expressoruja companheira.
-IntroMaidenName4 = Eu espero que possa encontrar [MotherMaidenName] algum dia, pois nós Expressorujas gostamos de nos encontrar com a família de nossos colegas corujas.
+IntroMaidenName4 = Eu espero que possa encontrar [MotherMaidenName] algum dia, pois nós, Expressorujas, gostamos de nos encontrar com a família de nossos colegas corujas.
 
-BlackboardHelp0 = Olá, cara Expressoruja. Estou preso em uma questão de matemática e ciência avançada.
-BlackboardHelp1 = Você vê essa fórmula avançada no quadro? Não consigo decifrá-la.
+BlackboardHelp0 = Olá, cara Expressoruja. Estou preso em uma questão difícil de matemática e ciência.
+BlackboardHelp1 = Você vê essa fórmula maluca no quadro? Não consigo decifrá-la.
 BlackboardHelp2 = Pode decifrar a fórmula científica pra mim? O que ela diz?
 BlackboardHelp3 = Entendi! A solução é [BlackboardSolution]! Era óbvio! Obrigado, Expressoruja.
 BlackboardHelp4 = E obrigado por concordar com os termos e condições na parte de trás do quadro.
 
-Pet0 = Você sabia que ter um animal de estimação ajuda a melhorar a auto-estima e aliviar o estresse?
+Pet0 = Você sabia que ter um animal de estimação ajuda a melhorar a autoestima e aliviar o estresse?
 Pet1 = Você também sabia que animais de estimação também podem ter animais de estimação? É verdade!
 Pet2 = Infelizmente, nós, Expressorujas, não podemos ter bichos de estimação. É um sacrifício que devemos fazer em nome do piado.
 Pet3 = Mas, se você tivesse um animalzinho, como você acha que seria o nome do animal de estimação do seu animal de estimação de infância?
@@ -19,24 +19,24 @@ Pet4 = [PetName] certamente é um nome interessante para um animal. Até mesmo p
 
 Password0 = Olá, Expressoruja. Você liga para segurança? Eu ligo bastante pra segurança.
 Password1 = Você não deveria sair por aí dando informações a estranhos. Isso coloca sua segurança em risco!
-Password2 = Eu posso ajudar o seu dia-a-dia a ficar mais seguro. Qual é a sua combinação favorita de letras e números?
+Password2 = Posso ajudar a tornar seu dia-a-dia mais seguro. Qual é a sua combinação favorita de letras e números?
 Password3 = Ah, sim, sim. [FavoritePassword] também é minha combinação favorita de letras e números.
 
 Username0 = Amiga Expressoruja, você já se perguntou como seria ser um super-heroína?
 
-Username1 = A coisa mais importante de um super-herói é o nome. Todo super-herói precisa de um nome difícil para sua fama.
-Username2 = Se você fosse uma super-heroína, como seria seu nome, se fosse usado em um formulário online com requisitos de identificação de conta padronizados?
+Username1 = A coisa mais importante de um super-herói é o nome. Todo super-herói precisa de um nome complicado para sua fama.
+Username2 = Se você fosse uma super-heroína, como seria seu nome, se fosse usado em um formulário on-line com requisitos de identificação de conta padronizados?
 Username3 = Esse nome é ótimo! Já posso até imaginar: a grande [SuperheroName], salvadora da justiça!
 Username4 = Deixe-me só escrever sua resposta aqui, rapidinho...
 
-PrivatePart0 = Todas nós Expressorujas temos uma parte do corpo que nos envergonhamos. É por isso que algumas corujas optam por tirar suas penas.
+PrivatePart0 = Todas nós, Expressorujas, temos uma parte do corpo que nos envergonhamos. É por isso que algumas corujas optam por tirar suas penas.
 PrivatePart1 = De qual parte do corpo você mais se envergonha, [br]Expressoruja?
 PrivatePart2 = Ah, pobre Expressoruja. [BodyPartName]? Não devia se envergonhar disso!
-PrivatePart3 = Mas é melhor você checar isso com um médico. Eu li online que pode ser um sintoma da gripe aviária.
-PrivatePart3b = Mas é melhor você checar isso com um médico. Eu li online que isso poderia ser infectado com a gripe aviária.
+PrivatePart3 = Mas é melhor você checar isso com um médico. Eu li na internet que pode ser um sintoma da gripe aviária.
+PrivatePart3b = Mas é melhor você checar isso com um médico. Eu li na internet que pode ser um sintoma da gripe aviária.
 
 Victim_Reveal0 = Deixe esse caso conosco.
-Victim_Reveal1 = Somos a CUA, [name]Corvos Unidos Agentes[/name].[br]Estivemos monitorando todos neste trem[br]desde a última estação.
+Victim_Reveal1 = Somos a C.U.A., [name]Corvos Unidos Agentes[/name].[br]Estivemos monitorando todos neste trem[br]desde a última estação.
 Victim_Reveal2 = Vamos estar [hint]vasculhando todo o trem por evidências[/hint]. Ninguém tem permissão de sair deste vagão.
 Victim_Reveal3 = Assim que [hint]relógio bater meia-noite[/hint], vamos parar na estação com o assassino algemado.
 Victim_Reveal4 = Permaneçam aqui enquanto investigamos mais a fundo.

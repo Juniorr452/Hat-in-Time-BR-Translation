@@ -12,13 +12,13 @@ mask0 = Uhhh... por que você está usando uma máscara com a minha cara?
 gotkey0 = Você conseguiu a chave? Ótimo! Apenas vá em direção ao freezer, tem uma entrada para os dutos de ventilação que você pode usar!
 
 [spaceship]
-firstdecoration0 = Que nave especial mais adorável você tem aqui! Desculpe pela invasão, mas eu queria mesmo ver como uma espaçonave alienígena é.
-firstdecoration1 = Sabe, eu esperava que alienígenas fossem mais verdes e sedentos por carne. Mas acredito que vocês aliens vem em todas as formas e tamanhos, hein?
+firstdecoration0 = Que nave especial mais linda você tem aqui! Desculpe pela invasão, mas eu queria mesmo ver como é uma espaçonave alienígena.
+firstdecoration1 = Sabe, eu esperava que alienígenas fossem mais verdes e sedentos por carne. Mas acredito que vocês aliens vêm em todas as formas e tamanhos, hein?
 firstdecoration2 = Ei, se você está pensando em explorar nosso planeta, você precisa entendê-lo primeiro. Se não você nem vai saber se está pisando em grama ou areia movediça!
-firstdecoration3 = Não sabe como identificar [icon:relic][name]relíquias[/name]? Não tema, a [name]Gata Cozinheira[/name] está aqui!
-firstdecoration4 = Vou te deixar ficar com a relíquia [name]Almofada Hamburger[/name] de graça!
-firstdecoration5 = Você pode identificar essa [icon:relic][name]relíquia[/name] no pódio! Se você as colocar no pódio na ordem certa, você pode conseguir entendê-la.
-firstdecoration7 = Se você for capaz de identificar uma [icon:relic][name]relíquia[/name],[br]algo ótimo deve acontecer! Nunca se sabe! Então fique atento achar para relíquias.
+firstdecoration3 = Não sabe como identificar[icon:relic][name] relíquias[/name]? Não tema, a [name]Gata Cozinheira[/name] está aqui!
+firstdecoration4 = Vou deixar você ficar com a relíquia [name]Almofada Hamburger[/name] de graça!
+firstdecoration5 = Você pode identificar essa[icon:relic][name] relíquia[/name] no pódio! Se você as colocar no pódio na ordem certa, você pode conseguir entendê-la.
+firstdecoration7 = Se você for capaz de identificar uma[icon:relic][name] relíquia[/name],[br]algo ótimo deve acontecer! Nunca se sabe! Então fique atento para achar relíquias.
 firstdecoration8 = Eu te ensinei tudo o que eu sei sobre relíquias!
 
 cooking0 = Ah, ei! Espero que você não se importe comigo usando sua cozinha. Eu pensei em te fazer uma boa comida terrestre, já que você é um alien e tudo mais.
