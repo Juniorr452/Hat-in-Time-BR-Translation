@@ -54,7 +54,7 @@ FoxMaskDescFun0 = Esta é uma lã assustadora!
 FoxMaskDescHat0 = Esta é uma máscara assustadora!
 FoxMaskDescTech0 = Pressione [button:badge] para ver o mundo pelos olhos de um[br]habitante!
 
-DetectiveHatName = Roupa de Solucionar Crimes
+DetectiveHatName = Roupa da Detetive
 DetectiveHatDesc0 = Hora de solucionar o crime! Cuidado com esta pequena detetive!
 
 ParadeHatName = Roupa de Desfile
@@ -93,7 +93,7 @@ MumbleBadgeName = Insígnia de Resmungo
 MumbleBadgeDesc0 = Tampa seus ouvidos, agora você só pode ouvir vagos resmungos!
 
 HookshotBadgeName = Insígnia de Arpéu
-HookshotBadgeDesc0 = Pressione e segure [button:attack] para se balançar de ganchos!
+HookshotBadgeDesc0 = Pressione e segure [button:attack] para se balançar com o gancho!
 
 FindRelicsBadgeName = Insígnia de Encontrar Relíquias
 FindRelicsBadgeDesc0 = Mostra um mapa para [icon:relic] próximas!
