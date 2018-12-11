@@ -1,7 +1,7 @@
 [parade]
 welcome0 = Olá, fofa! Bem-vinda ao maior set de gravação que você vai ver na vida!
 welcome1 = Vamos começar a gravar agora [hint]O Grande Desfile[/hint], o filme que vai deixar as platéias ao redor do mundo sem fôlego! E você será a estrela, como sempre!
-welcome2 = Pra esse filme, vamos precisar da nossa [icon:timepiece][timepiece]peça especial[/timepiece]! Ela vai aparecer bem no final!
+welcome2 = Para esse filme, vamos precisar da nossa [icon:timepiece][timepiece]peça especial[/timepiece]! Ela vai aparecer bem no final!
 welcome3 = Mas calma aí, fofa! Sua roupa não combina muito com um desfile. Você poderia ir ali e se trocar?
 welcome3b = Sua roupa não combina muito com um desfile. Você poderia ir ali e se trocar?
 welcome4 = Fofa, você ficou linda! Não se preocupe, esse filme é bem simples. Fique andando por aí e a banda vai te seguir! Só não esbarre neles!
@@ -20,13 +20,13 @@ third_intermission0 = Chegou a hora de soltar o [icon:timepiece][timepiece]eleme
 
 [deadbird]
 intro0 = Loucura, fofo, loucura!
-intro1 = Suas [name]aves do Expresso das Corujas[/name] vão só gravar outro filme de faroeste entediante nesse seu trem! É o que você tem feito pelos últimos dez anos, fofo!
+intro1 = Suas [name]aves do Expresso das Corujas[/name] só vão gravar outro filme de faroeste entediante nesse seu trem! É o que você tem feito pelos últimos dez anos, fofo!
 intro2 = [icon:conductor][name]Condutor[/name], fofo, esse ano nós vamos ganhar o [icon:trophy][trophy]prêmio aviário anual de filmes[/trophy], já que nossa nova peça de filme vai chamar a atenção das platéias! 
 intro3 = Essas [icon:timepiece][timepiece]coisas brilhantes[/timepiece] caíram do céu! Elas vão iluminar nossos sets de gravação e deixá-los reluzentes!
 intro4 = Jamais, fofo! Claramente foi você que se inspirou em minhas novas peças fabulosas.
 intro5 = Por mim tudo bem, fofo! Mas seremos nós os vencedores do [icon:trophy][trophy]prêmio aviário anual de filmes[/timepiece], pode ter certeza!
 
-passport0 = Incrível! Fabuloso! Esse troféu é tudo que eu quero... na prateleira da minha sala!
+passport0 = Incrível! Fabuloso! Este troféu é tudo que eu quero... na prateleira da minha sala!
 passport1 = É claro, esse grandão aqui é só uma réplica de plástico! O troféu de verdade é bem pequeno!
 passport2 = Minha nossa! Minha nossa! O que meus olhos vêem? Seria... a verdadeira beleza interior? Uma alma inocente com um coração de ouro?
 passport3 = Ah, não. É só uma garotinha. Olá! 
@@ -41,10 +41,10 @@ passport10 = Vamos ver como ficou a foto...
 passport11 = O QUÊ?
 passport12a = Fofa, você não é muito fotogênica, não é mesmo?
 passport12b = Fofa, você se mexeu! A foto já era! Como pôde?
-passport13 = Precisamos consertar esse seu retrato com manipulação de fotos à moda antiga! Aqui, pegue essas canetinhas e se transforme na garotinha mais estilosa que alguém já viu!
-passport13b = Precisamos consertar esse seu retrato com manipulação de fotos à moda antiga! Aqui, pegue essas canetinhas e se transforme no garotinho mais estiloso que alguém já viu!
+passport13 = Precisamos consertar esse seu retrato com manipulação de fotos à moda antiga! Aqui, pegue essas canetinhas e transforme-se na garotinha mais estilosa que alguém já viu!
+passport13b = Precisamos consertar esse seu retrato com manipulação de fotos à moda antiga! Aqui, pegue essas canetinhas e transforme-se no garotinho mais estiloso que alguém já viu!
 passport14 = Perfeito! Vamos colocar essa foto bem aqui no seu passaporte e... aqui está! Um passaporte pra você!
-passport15 = Maravilhoso, fofa! Simplesmente maravilhoso! Me encontre no set de gravação amanhã, e vamos fazer de você uma estrela!
+passport15 = Maravilhoso, fofa! Simplesmente maravilhoso! Encontre-me no set de gravação amanhã e vamos fazer de você uma estrela!
 
 [award]
 intro0 = Obrigado fofa, obrigado![br]Você garantiu nossa vitória! Ganhamos o [icon:trophy][trophy]troféu aviário anual[/trophy]!
@@ -110,7 +110,7 @@ Endorsement_Cooking7 = [small]Agora vaza, sai de frente das câmeras o mais ráp
 Endorsement_Alley0 = Veja só como essa diva sempre se preocupa com os outros. Ela está parada nesse beco sinistro, próxima a potenciais bandidos!
 Endorsement_Alley1 = Perigo é seu apelido, e ela não tem medo de sair da sua zona de conforto!
 
-Ending0 = O público tá indo à loucura, fofa! Venha até aqui e mostre nosso elemento surpresa... nossa [icon:timepiece][timepiece]nova peça[/timepiece]!
+Ending0 = O público está indo à loucura, fofa! Venha até aqui e mostre nosso elemento surpresa... nossa [icon:timepiece][timepiece]nova peça[/timepiece]!
 
 [Highscore]
 NewHighScore0 = Bom trabalho, fofa!
