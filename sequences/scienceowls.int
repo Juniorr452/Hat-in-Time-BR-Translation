@@ -44,13 +44,13 @@ prop1 = Você é do tipo de pessoa que vende objetos de filme no Tucano Livre?
 
 intro0 = Uhhh, oi. Eu sou uma [name]Expressoruja[/name]. O que quer dizer que eu ando no [name]Expresso das Corujas[/name] que é conduzido pelo [icon:conductor][name]Condutor[/name].
 intro1 = Eu preciso pegar o trem pra chegar no trabalho, mas o [icon:conductor][name]Condutor[/name] vive fazendo paradas inesperadas.
-intro2 = Eu não faço idéia do porquê a gente tá num estúdio de gravação. Eu preciso chegar no trabalho em 15 minutos!
+intro2 = Eu não faço ideia do porquê a gente tá num estúdio de gravação. Eu preciso chegar no trabalho em 15 minutos!
 
 guard0 = Ah é, desculpa, o [icon:conductor][name]Condutor[/name] disse que apenas pássaros são permitidos a partir daqui. E ele específicamente disse que nenhum tipo de pinguim pode passar por aqui.
 guard1 = Eu não sei o -porquê-, eu só sou um passageiro nesse trem. Tanto faz, desde que a gente volte pro trem logo.
 
 feud0 = Eu não entendo essa briga entre o [name]Condutor[/name] e o [icon:djgrooves][name]DJ Grooves[/name].
-feud1 = Tipo, porque um operador de trens e um cara do disco querem competir? Todos nós somos pássaros, não é? A gente não deveria cooperar?
+feud1 = Tipo, por que um operador de trens e um cara do disco querem competir? Todos nós somos pássaros, não é? A gente não deveria cooperar?
 feud2 = ... Eu sei lá, acho que cooperar é meio besta. Eu acho. É... só me ignore...
 
 reception_desk0 = Eu queria perguntar uma coisa pra esse recepcionista, mas ele nem me percebeu aqui.
