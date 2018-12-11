@@ -17,8 +17,8 @@ trigger_detonation4 = E É BOM CÊ FAZER ISSO A TEMPO, TÁ CERTO? Não tô nem a
 trigger_detonation5 = As cameras vão estar rodando guriazinha, se apresse! Vá! Adeus e até logo!
 
 ending0 = Você conseguiu! E a tempo!
-ending1 = Oh ho ho hooo... olha pra todo esse material de filmagem que conseguimos![br]Olha como cê tá correndo pela sua vida preciosa![br][wave]EH HE HE[/wave]!
-ending2 = Que foi? A gente fez isso em nome da cinematografia! ... e pra vencer aquele terrível [icon:djgrooves][name]DJ Grooves[/name]! Aposto que ele não vai conseguir fazer METADE do filme que acabamos de fazer!
+ending1 = Oh ho ho hooo... olha pra todo esse material de filmagem que conseguimos![br]Olha como cê tá correndo pela sua preciosa vida![br][wave]EH HE HE[/wave]!
+ending2 = Que foi? A gente fez isso em nome da cinematografia! E pra vencer aquele terrível [icon:djgrooves][name]DJ Grooves[/name]! Aposto que ele não vai conseguir fazer METADE do filme que acabamos de fazer!
 ending3 = Olha aqui, toma um desses [icon:timepiece][timepiece]trambolhos[/timepiece] que você gosta. Você merece!
 
 [big_parade]
@@ -67,7 +67,7 @@ outro6 = É isso aí, cê vai ter que ser a estrela dos meus filmes também!
 outro7 = Aqui, segure nosso [icon:timepiece][timepiece]novo apetrecho[/timepiece], pratique como apresentá-lo, e o traga pro meu set de filmagens amanhã! Cê me entendeu? Não se atrase!
 
 [murder]
-intro0=Bem vinda de volta, guriazinha! Eu ainda não escrevi o roteiro do meu próximo filme, então não estamos gravando!
+intro0=Bem-vinda de volta, guriazinha! Ainda não escrevi o roteiro do meu próximo filme, então não estamos gravando!
 intro1=Vou te chamar quando o roteiro estiver pronto.
 
 victim_reveal0 = [scream]U-um ASSASSINATO? No MEU Expresso Coruja!?[/scream]
@@ -153,7 +153,7 @@ SupportNotice2 = Meu desarmador[br]está pronto, vem aqui!
 hth_intro0 = Vamos ter uma pequena conversa de coração a coração. Pode se sentar aqui, guriazinha.
 hth_intro1 = Desde que cê chegou nesse planeta, essas [icon:timepiece][timepiece]Peças Temporais[/timepiece] têm caído dos céus.
 hth_intro2 = Agora, eu entendo se você sente que elas pertencem a você. Eu saquei. Mas cê sabia que elas podem voltar o tempo?
-hth_intro3 = Com uma [timepiece][icon:timepiece]Peça Temporal[/timepiece], Eu poderia retomar o troféu que pertence a mim! É isso aí, a perda do prêmio 42!
+hth_intro3 = Com uma [timepiece][icon:timepiece]Peça Temporal[/timepiece], eu poderia retomar o troféu que pertence a mim! É isso aí, a perda do prêmio 42!
 hth_intro4 = Eu peguei 2º lugar no [icon:trophy][trophy]42º troféu anual de pássaros[/trophy]! Eu! Dá pra imaginar? [icon:djgrooves][name]DJ Grooves[/name] conseguiu pegar o troféu de 1º lugar!
 hth_intro5 = Eu só preciso de uma [timepiece][icon:timepiece]Peça Temporal[/timepiece] pra consertar esse erro. Cê num pode me poupar só uma [icon:timepiece][timepiece]Peça Temporal[/timepiece]?
 hth_intro5_yes = Talvez?
@@ -166,7 +166,7 @@ hth_intro7b = Bem, se cê quer tanto essa [timepiece][icon:timepiece]Peça Tempo
 hth_intro9 = Se lembra dessa mini bomba? Dessa vez ela tá acoplada a você, ao invés do meu amável trem... [wave]eh he he he![/wave]
 
 Intro0 = Oh ho hoooo, olha quem temos aqui! Então parece que você achou meu pequeno porão, em?
-Intro1 = Essa última [icon:timepiece][timepiece]Peça Temporal[/timepiece] é toda minha. Se cê quer ela, cê vai ter que tirar das minhas frias, e mortas mãos!
+Intro1 = Essa última [icon:timepiece][timepiece]Peça Temporal[/timepiece] é toda minha. Se cê quer ela, cê vai ter que tirar das minhas frias e mortas mãos!
 
 [award]
 intro0 = Brigado, brigado! Cês são gentis demais! Não, por favor, continue!
