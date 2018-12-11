@@ -451,13 +451,13 @@ Label_Weapon = ARMA
 Label_Contract = CONTRATO
 
 Options_RestartLevel_Q = Recomeçar o ato?
-Options_RestartDeathWish_Q = Recomeçar o Desejo de Morte?
+Options_RestartDeathWish_Q = Recomeçar o Desejo Mortal?
 
 Coop_NoControllerPluggedIn = Por favor, conecte um controle
 Coop_CantDisableRightNow = Você não pode desativar o modo cooperativo agora
 Coop_CantEnableRightNow = Você não pode ativar o modo cooperativo agora
 Coop_CantEnableDeathWish = Indisponível para o modo cooperativo
-Coop_CantEnableDWActive = Você não pode desativar o modo cooperativo enquanto um Desejo de Morte estiver ativo
+Coop_CantEnableDWActive = Você não pode desativar o modo cooperativo enquanto um Desejo Mortal estiver ativo
 Coop_Disable_Question = Desabilitar Modo Cooperativo?
 Coop_Disable_Confirm = Desabilitar
 Coop_Disable_Deny = Voltar
@@ -478,7 +478,7 @@ Action_SwitchUser = Trocar de Usuário
 YarnBall = Novelo
 YarnBall_multiple = Novelos
 TimePiece = Peça Temporal
-DeathWishes = Carimbos do Desejo de Morte
+DeathWishes = Carimbos do Desejo Mortal
 ModTimePiece = Ficha da Fenda de Mods
 ModTimePiece_multiple = Fichas da Fenda de Mods
 
@@ -555,7 +555,7 @@ MenuDecline = Não!
 
 [LevelChange]
 RetryLevelQuestion = Tentar esse Ato denovo?
-RetryDeathWishQuestion = Tentar esse Desejo de Morte de novo?
+RetryDeathWishQuestion = Tentar esse Desejo Mortal de novo?
 RetryLevel_Yes = Yes
 RetryLevel_HUB = Voltar para a Nave
 
@@ -664,7 +664,7 @@ QuitGame = Sair do Jogo
 Coop = Cooperativo
 Mods = Mods
 RestartToLastCheckpoint = Recomeçar
-DeathWish = Death Wish
+DeathWish = Desejo Mortal
 DLC1Title = Seal the Deal
 DLC2Title = DLC 2
 BingoMode = Modo Bingo
@@ -691,7 +691,7 @@ PrizeBadgeFlair = Estilo de Insígnia
 
 [DLC1Splash]
 cruise = Um capítulo completamente novo: O Cruzeiro Ártico
-deathwish = Novo modo desafiador: Desejo de Morte!
+deathwish = Novo modo desafiador: Desejo Mortal!
 coop = Modo cooperativo local de tela dividida!
 cruise_acts = 3 novos atos situados em um cruzeiro!
 rifts = Seis novas fendas temporais!
@@ -724,17 +724,17 @@ EasyMode0 = Ninguém está por perto para me ajudar
 EasyMode1 = A vida é difícil, a vida é cheia de estresse
 EasyMode2 = Eu preciso de paz e tranquilidade
 EasyMode3 = Eu não tenho que provar nada pra ninguém
-EasyMode4 = Quer que eu deixe este Desejo de Morte\num pouco mais fácil pra você?
+EasyMode4 = Quer que eu deixe este Desejo Mortal\num pouco mais fácil pra você?
 EasyShort = Bem vindo de volta para a zona sem julgamentos
 EasyExit = Não se preocupe, lembre-se de mim\nquando as coisas ficarem agitadas
 EasyAccept0 = Um... dois... presto!
-EasyAccept1 = Este Desejo de Morte ficou mais fácil!
+EasyAccept1 = Este Desejo Mortal ficou mais fácil!
 EasyAccept2 = Tenha um dia tranquilo!
 ButtonYes = Paz e Tranquilidade
 ButtonNo = Não!
 
 EasyNamePre = Você quer
-EasyNamePost = agora disponível para este Desejo de Morte
+EasyNamePost = agora disponível para este Desejo Mortal
 EasyName0 = Paz e Tranquilidade
 EasyName1 = Ousadia e Alegria
 EasyName2 = Bica e Tranquilidade
