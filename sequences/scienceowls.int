@@ -2,7 +2,7 @@
 CrowAskForDetails0 = Você percebou todos esses corvos andando por aqui?
 CrowAskForDetails1 = Eles ficam perguntando por informações pessoais, e eu nunca sei o que responder!
 
-CrowsGotOn0 = Você percebeu que do nada tem um monte de corvos nesse trem? Todos eles entraram na última parada.
+CrowsGotOn0 = Você percebeu que, do nada, tem um monte de corvos nesse trem? Todos eles entraram na última parada.
 CrowsGotOn1 = Falando nisso, em que parada você entrou no trem?
 CrowsGotOn2 = ...
 CrowsGotOn3 = ... como assim você caiu do céu?
@@ -10,11 +10,11 @@ CrowsGotOn3 = ... como assim você caiu do céu?
 CrowsAnnoy0 = É muito difícil se acomodar nesse trem com todos esses corvos enchendo o lugar.
 CrowsAnnoy1 = Eles ficam me entrevistando sobre tudo que eu faço!
 
-ScientificEquation0 = Eu não to entendendo, como que isso pode ser algum tipo de equação científica?[br]É só um monte de letras e números embaralhados, como os que você vê em um formulário da internet.
+ScientificEquation0 = Eu não tô entendendo. Como que isso pode ser algum tipo de equação científica?[br]É só um monte de letras e números embaralhados, como os que você vê em um formulário da internet.
 
-StayOut0 = Espera, não entre aqui. Eu perdi minhas lentes de contato em algum lugar... por favor não pise nelas![br]Eu não posso sair daqui, se não eu mesmo posso acabar pisando nelas!
+StayOut0 = Espera, não entre aqui. Perdi minhas lentes de contato em algum lugar... por favor não pise nelas![br]Não posso sair daqui, se não eu mesmo vou acabar pisando nelas!
 StayOut1 = Espero que ninguém entre na área VIP e acabe pisando nas minhas lentes de contato...
-PostMurder0 = Cara, Eu só queria sair do trabalho e chegar em casa. Eu não me inscrevi pra entrar no meio de um mistério de assassinato.
+PostMurder0 = Cara, eu só queria sair do trabalho e chegar em casa. Não me inscrevi pra entrar no meio de um mistério de assassinato.
 PostMurder1 = Minha mulher vai me matar.
 
 OwlHiddenRoom0 = Cara, isso que é vida.[br]Nada é melhor que uma[br]sauna quente.
@@ -76,9 +76,9 @@ listentomusic_electroswing0 = Saca só, essa é uma favorita das [name]Expressor
 listentomusic_newadventure0 = Ok, você já deve ter ouvido essa antes.[br]É o tipo de som perfeito pra começar uma nova aventura![br]Não acha?
 
 [trainrush]
-calm0 = O que estamos filmando[br]hoje? Não há paradas[br]no cronograma...
+calm0 = O que estamos filmando hoje? Não há paradas no cronograma...
 calm1 = A gente não abasteceu[br]o trem com explosivos[br]demais hoje?
-calm2 = Espero que a[br]filmagem de hoje não[br]acabe muito tarde...
+calm2 = Espero que a filmagem de hoje não acabe muito tarde...
 rush0 = [scream]Estamos perdidos![/scream]
 rush1 = [scream]Corre, garota![/scream]
 rush2= [scream]Tem uma b-bomba[br]nesse trem?![/scream]
