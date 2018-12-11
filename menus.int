@@ -485,7 +485,7 @@ ModTimePiece_multiple = Fichas da Fenda de Mods
 Offer_AvailableNow = Disponível Agora
 
 [ItemUnlock]
-ItemUnlock_Badge = Novo chapéu costurado, pronto para uso!
+ItemUnlock_Badge = Novo chapéu costurado!
 ItemUnlock_Rare = Esse estilo é raro!
 ItemUnlock_VeryRare = Esse estilo é muito raro!
 ItemUnlock_Flair = Você agora pode trocar a aparência desse item!
@@ -530,15 +530,15 @@ Help_UnSeeDreamWorld = Fechar Foto
 Help_Exit = Sair
 
 Action_EnterCompletedAct = Você já completou esse ato. Deseja entrar mesmo assim?
-Action_MissingItem = Você não tem o item [br] necessário e não irá conseguir completar esse ato. Deseja entrar mesmo assim?
+Action_MissingItem = Você não tem um item necessário e não irá conseguir completar esse ato. Deseja entrar mesmo assim?
 
-StandOff_Confirm_Conductor0 = O Condutor tem a pontuação mais alta! Confirmar ele como o vencedor?
+StandOff_Confirm_Conductor0 = O Condutor tem a pontuação mais alta! Deseja confirmar ele como o vencedor?
 StandOff_Confirm_Conductor1 = Ele é um pouco metido a besta em relação a isso. Tem certeza que quer que ele vença?
 
-StandOff_Confirm_DJGrooves0 = DJ Grooves tem a pontuação mais alta! Confirmar ele como o vencedor?
-StandOff_Confirm_DJGrooves1 = A dança dele as vezes enche o saco. Confirmar ele como o vencedor?
+StandOff_Confirm_DJGrooves0 = DJ Grooves tem a pontuação mais alta! Deseja confirmar ele como o vencedor?
+StandOff_Confirm_DJGrooves1 = A dança dele as vezes enche o saco. Tem certeza que quer que ele vença?
 
-StandOff_Confirm_Draw0 = É um empate! Deixar a sorte decidir o vencedor?
+StandOff_Confirm_Draw0 = É um empate! Deseja deixar a sorte decidir o vencedor?
 StandOff_Confirm_Draw1 = Você tem certeza? Isso será completamente aleatório!
 
 [Shops]
@@ -596,7 +596,7 @@ Bill_DestroyProp = Destruição de Propriedade
 Bill_EnterStudio = Invasão de Propriedade
 Bill_Spotted_Owl = Assédio de Corujas
 Bill_Spotted_Penguin = Assédio de Penguins
-Bill_Power_Outage = Manipulação de Electrônicos
+Bill_Power_Outage = Manipulação de Eletrônicos
 Bill_Started_Fire = Incêndio Agravado
 Bill_Cactus = Ataque Contra Cacto
 Bill_TeePee = T-KO em Barraca
@@ -679,8 +679,8 @@ ZoomOutContract = Afastar
 ZoomInContract = Ampliar
 
 [TimeRiftRoulette]
-ClickToRoll = Para Rodar
-ClickToReRoll = Rodar Denovo
+ClickToRoll = Rodar
+ClickToReRoll = Rodar de Novo
 ClickToClaimPrize = Pegar o Prêmio
 PrizeHat = Novo Chapéu
 PrizeFlair = Estilo de Chapéu
