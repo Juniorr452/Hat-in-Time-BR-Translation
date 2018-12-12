@@ -169,7 +169,7 @@ boat_ticket_island2 = Máfia já dizer para criança que tickets estarem esgotad
 
 [muchase]
 MuTower0 = Ei! Garotinha! Você ser babaca!
-MuTower1 = Vem aqui! Podemos jogar você no rio denovo! [wave]Ha ha ha[/wave]!
+MuTower1 = Vem aqui! Podemos jogar você no rio de novo! [wave]Ha ha ha[/wave]!
 run_by0 = Ei! Olhe por onde anda.
 
 [blackmarket]
@@ -236,8 +236,8 @@ accept0 = Obrigado! Máfia gastar dinheiro cuidadosamente na sala de apostas sec
 [cave_dreams]
 rules_explained0 = Olá, criancinha. Isso ser Fenda Temporal da Máfia. [timepiece][icon:timepiece]Peça Temporal[/timepiece] atingiu Máfia na cabeça e agora fenda temporal estar cheia com pensamentos e sonhos da Máfia.
 rules_explained1 = Essa fenda temporal ser simples. Simples como Máfia, do jeito que Máfia gosta.
-rules_explained2 = Regras da fenda temporal: Se você morrer, você começar denovo. Você precisar de [treasure][icon:treasure]Gemas da Fenda[/treasure] para ir mais fundo.
-rules_explained3 = Essas são todas as regras. Por favor, ande com cuidado na fenda temporal da Máfia. Máfia gosta de viver o passado.
+rules_explained2 = Regras da fenda temporal: Se você morrer, você começar de novo. Você precisar de [treasure][icon:treasure]Gemas da Fenda[/treasure] para ir mais fundo.
+rules_explained3 = Essas são todas as regras. Por favor, ande com cuidado na fenda temporal da Máfia. Máfia gostar de viver o passado.
 
 orbs_preserved0 = Criancinha percebeu que [treasure][icon:treasure]Gemas da Fenda[/treasure] não gastas continuam a cada andar? Não ter necessidade de pegar cada gema.
 orbs_preserved1 = Boa sorte! Máfia ter [hint]aberto entrada do próximo andar[/hint] para você!
