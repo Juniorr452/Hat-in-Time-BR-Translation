@@ -13,7 +13,7 @@ finale3 = Obrigado por nos ajudar!
 guide_lavacake0 = Venha por aqui para[br]o [name]Bolo de Lava[/name]!
 guide_lavacake1 = Esse calor é demais! [br]É ainda mais quente para [br]a [hint]direita[/hint]!
 guide_lavacake2 = Esse é o [br][name]Bolo de Lava[/name]!
-guide_lavacake3 = Como é que um lugar[br]acaba ficando desse[br]jeito?
+guide_lavacake3 = Como é que um lugar acaba ficando desse jeito?
 guide_windmill0 = O [name]Moinho Velho[/name][br]é por aqui!
 guide_windmill1 = Esse lugar é enorme![br]Parece ser uma subida[br]bem grande até o [hint]topo[/hint].
 guide_twilight0 = O [name]Sino da Penumbra[/name][br]é por aqui!
@@ -34,8 +34,8 @@ guide_bridge0 = Cuidado! Algumas dessas [hint]pontes[/hint] são velhas.
 guide_cats0 = Tenha cuidado, criança.[br]Fui ali na frente e acabei[br]sendo arranhado!
 guide_cats1 = Eu seguraria bem esse [br][icon:hat] teu ai!
 guide_eggs0 = Tem algo [br]estranho sobre alguns [br]daqueles ovos!
-guide_danger0 = Oi! Esse claramente é[br]um lugar seguro para[br]uma criança estar.
-
+guide_danger0 = Oi! Esse certamente é um lugar seguro para uma criança estar.
+ 
 [PeakSize]
 size0 = Existem várias estruturas enormes nesses picos.
 size1 = Quem será que as construiu? 
@@ -43,7 +43,7 @@ size2 = ... pássaros não constroem gaiolas, né?
 
 [Flowers]
 flowers0 = Já viu as flores roxas crescendo por aqui?
-flowers1 = Eu manteria distância. Pra mim tem alguma coisa estranha sobre elas.
+flowers1 = Eu manteria distância. Para mim, tem alguma coisa estranha sobre elas.
 
 [Horns]
 explanation0 = Por que nós mesmos não sopramos os chifres?
