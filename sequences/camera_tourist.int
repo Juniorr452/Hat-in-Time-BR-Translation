@@ -12,13 +12,13 @@ TownIsSoBig0 = Esta cidade é tão grande! As atrações são muito legais,[br]m
 inside0 = Eu acho que esse salto é [br]muito grande para mim e[br]minha câmera... 
 cameras0 = Você está certo! Vou usar minha câmera! Vamos!
 touristexterior0 = Olha, criança, tenho que ser franco. De todos os lugares que visitei, esse é, sem dúvidas, o pior.
-touristexterior1 = Você deve entrar lá e mostrar para aquela garota quem é que manda [br]para que eu possa voltar para a lua! [br]A lua foi muito mais divertida do que isso!
+touristexterior1 = Você tem que entrar lá e mostrar para aquela garota quem é que manda [br]para que eu possa voltar para a lua! [br]A lua é muito mais divertida do que isso!
 touristexterior2 = Eu acredito em você, criança.
 
 [moon]
 moon0 = A lua está muito bem, criança. É ótimo finalmente estar aqui depois de todos esses anos!
-moon1 = Mas aquele maldito Steve do trabalho me enviou um cartão postal do sol! Ele diz que é ótimo! [br]Eu não consigo acreditar nesse cara, sempre tentando ser melhor que eu em tudo!
+moon1 = Mas aquele maldito Steve do trabalho me enviou um cartão postal do sol! Ele diz que é ótimo! [br]Não consigo acreditar nesse cara, sempre tentando ser melhor que eu em tudo!
 
 [subcon]
-touristsubcon0 = Está tudo bem. Eu posso me ver fazendo um piquenique aqui. [br]Ainda assim, aqui não é a lua. [brPreciso chegar lá para que eu possa enviar um cartão postal para o Steve do trabalho.
+touristsubcon0 = Está tudo bem. Posso me ver fazendo um piquenique aqui. [br]Ainda assim, aqui não é a lua. [brPreciso chegar lá para que eu possa enviar um cartão postal para o Steve do trabalho.
 touristsubcon1 = Steve foi para a lua na primavera passada. Ele disse que foi ótimo. [br]Maldito Steve. Ele sempre na minha frente em tudo. [br]Vou mostrar a ele um cartão postal da lua!
