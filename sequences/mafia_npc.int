@@ -243,21 +243,21 @@ orbs_preserved0 = Criancinha percebeu que [treasure][icon:treasure]Gemas da Fend
 orbs_preserved1 = Boa sorte! Máfia ter [hint]aberto entrada do próximo andar[/hint] para você!
 
 [finale]
-outside0 = Isso ser como ilha do[br]tempo coberta em lava.[br]Só que diferente.
-outside1 = Máfia não fazer nada para merecer isso! Máfia relaxar e viver na ilha do tempo. Ser sempre 5 horas em ponto lá.
-outside2 = Máfia não gostar de ser[br]julgado. Ficar ansioso. [br]Transpirar pela roupa.
-outside3 = Não tenho[br]certeza de estar sendo[br]julgado por crime ou[br]cozinhar. Não sei qual é[br]pior.
-plea0 = Não soquei homem velho por, mais ou menos, dois dias seguidos desde aquela vez!
+outside0 = Isso ser como ilha do tempo coberta em lava. Só que diferente.
+outside1 = Máfia não fazer nada para merecer isso! Máfia relaxar e viver na ilha do tempo. Estar sempre 5 horas em ponto lá.
+outside2 = Máfia não gostar de ser julgado. Ficar ansioso. Transpirar pela roupa.
+outside3 = Não sei se estou sendo julgado por crime ou cozinhar. Não sei qual é pior.
+plea0 = Não soquei velhote por, mais ou menos, dois dias seguidos desde aquela vez!
 group_counter0 = [scream]ELA PODE DAR O FORA![/scream]
 group_counter1 = Garota do bigode não ser bem-vinda aqui. Máfia dizer, dá o fora!
 mafiaball0 = Garotinha do chapéu não poder nem acertar garota do bigode! Nós temos que ajudar!
 
 suicide0 = Oh... quando Máfia explode, Máfia solta [icon:health][name]gemas[/name]... isso dar Máfia uma ideia!
-suicide1 = Garotinha do chapéu precisar de ajuda para voltar o tempo. Se Máfia explodir, garotinha do chapéu ter [icon:health][name]Gemas[/name] úteis. Máfia ter que explodir para salvar mundo!
+suicide1 = Garotinha do chapéu precisar de ajuda para voltar o tempo. Se Máfia explodir, garotinha do chapéu ter muitas [icon:health][name]Gemas[/name]. Máfia ter que explodir para salvar mundo!
 suicide2 = Quê?! Plano ser maluco!
-suicide3 = Não se preocupe, camarada Máfia. Se garotinha conseguir, Máfia voltar quando tempo voltar! Agora... me soque com toda sua força, companheiro Máfia! Sem hesitação!
+suicide3 = Não se preocupe, camarada Máfia. Se garotinha conseguir, Máfia voltar quando tempo voltar! Agora... me soque com toda sua força, companheiro Máfia! Sem hesitar!
 suicide4 = Garota do[br][scream]capuz vermelho...[br]DÊ O FORA![/scream]
-suicide5 = Garota do Chapéu, aqui! Tome esses!
+suicide5 = Garota do Chapéu, aqui! Tome isso!
 
 [ending]
 hang0 = Não nos deixe!
