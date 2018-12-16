@@ -86,8 +86,8 @@ rush2= [scream]Tem uma b-bomba[br]nesse trem?![/scream]
 [finale]
 outside0 = Pelo que nós estamos sendo julgados? 
 outside01 = Todos nossos filmes eram filmes de ação feitos pra família inteira!
-outside1 = Eu nunca cometi[br]nenhum crime em[br]toda minha vida!
-outside2 = Eu nunca vou chegar[br]no meu trabalho[br] a tempo...
-inside0 = Eu não consigo[br]passar por ali![br]Eu não sou uma coruja[br]dublê!
+outside1 = Nunca cometi um crime em toda minha vida!
+outside2 = Nunca vou chegar no meu trabalho a tempo...
+inside0 = Não consigo passar por ali! Não sou uma coruja[br]dublê!
 inside1 = [scream]Aaaaghhh![/scream]
-attack0 = Me dê seu [br]ticket [br]da fila!
+attack0 = Me dê seu ticket da fila!
