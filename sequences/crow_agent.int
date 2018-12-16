@@ -61,11 +61,11 @@ CafeteriaChatter5 = mesmo que tivesse um[br]incêndio gigante
 CafeteriaChatter6 = justo quando ele tava[br]prestes a espirrar
 CafeteriaChatter7 = mas alguém notou[br]que todos nós[br]usamos o mesmo casaco?
 
-BodyPartChatter0 = [BodyPartName]...[br]ela se evergonha!
-BodyPartChatter1 = você devia ter[br]visto, era horrível
-BodyPartChatter2 = era o mais feio[br]que eu já vi
-BodyPartChatter3 = chegava a ser[br]horripilante
-BodyPartChatter4 = eu perguntei sobre[br]a parte do[br]corpo que ela se[br]envergonhava
+BodyPartChatter0 = [BodyPartName]...[br]ela se envergonha!
+BodyPartChatter1 = você devia ter visto, era horrível
+BodyPartChatter2 = era o mais feio que eu já vi
+BodyPartChatter3 = chegava a ser horripilante
+BodyPartChatter4 = eu perguntei sobre a parte do corpo que ela se envergonhava
 
 [spaceship]
 visit0 = Olá, pequena viajante do espaço. Eu também sou uma criança viajante do espaço. Eu viajo muito pelo espaço.
@@ -79,11 +79,11 @@ Idle_vault0 = Olá, criança viajante do espaço. Como uma criança viajante do 
 Idle_vault1 = Eu sei, eu sou realmente desastrado. Você pode me lembrar qual o código? Não?
 
 [finale]
-outside0 = Saudações, caro [br]suposto criminoso. Há [br]muitos de nós.
-outside1 = Estamos todos aqui por crimes. Supostamente. Que crime você supostamente cometeu, cara criminosa?
+outside0 = Saudações, cara suposta criminosa. Certamente, há muitos de nós.
+outside1 = Estamos todos aqui pelos nossos crimes. Supostamente. Que crime você supostamente cometeu, cara criminosa?
 outside1a = Que termo legal você usaria para descrever seu crime?
 outside1b = Entendo. Então essa é a face do [Crimes].
 outside2 = Isso é desconcertante. Por que nós, pássaros, nos juntamos todos aqui? Você sabe, cara criminosa?
-inside0 = Meus amigos criminosos [br]não reapareceram da [br]lava. Muito esquisito.
-inside1 = Nós, criminosos,[br]nos sentimos aliviados[br]por não termos cometido[br][Crimes].
+inside0 = Meus amigos crimino-[br]sos não voltaram da lava. Muito estranho.
+inside1 = Nós, criminosos, nos sentimos aliviados por não termos cometido [Crimes].
 suicide0 = Dá o FORA!
