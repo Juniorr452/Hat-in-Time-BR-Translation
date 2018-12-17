@@ -1,9 +1,9 @@
 [basement]
 mail_0 = Muitas dessas cartas parecem ser contas não pagas.
 mail_1 = Faz sentido - você não se lembra de ver muitos cinemas neste planeta, e destruir trens provavelmente fica caro depois de algumas tomadas.
-mail_2 = Isso parece ser uma mistura de correio de fã (principalmente de pinguins) e correio de ódio (inteiramente do [icon:Conductor][name]Condutor[/name]).
-blocked_0 =  Parece que você não é permitida passar depois deste ponto. Muito sutil.
-reels_0 = Estas prateleiras estão cheias de filmes que você nunca ouviu falar.
+mail_2 = Isso parece ser uma mistura de cartas de fãs (principalmente de pinguins) e cartas de ódio (inteiramente do [icon:Conductor][name]Condutor[/name]).
+blocked_0 = Parece não é permitido você passar daqui. Muito sutil.
+reels_0 = Essas prateleiras estão cheias de filmes que você nunca ouviu falar.
 reels_1 = A quantidade de trocadilhos de pássaros nos títulos é surpreendente.
 box_0 = O rótulo diz 'MacGuffins'.
 box_1 = O rótulo diz "Armas de Chekhov".
@@ -11,17 +11,17 @@ box_2 = O rótulo diz "Red Herrings". Esta caixa fede.
 box_3 = O rótulo diz "Molduras de Narrativa".
 box_4 = O rótulo diz 'Relógios Mecânicos'. Você pensa que um deles pode estar adiantado e se arrepia.
 box_5 = O rótulo diz 'Dobradiças de Jonbar'. Tudo que você pode ver através das rachaduras é um ímã e um seixo.
-gold_0 = Parece que esta pode ser a coisa mais lúcida e excessiva que você já viu.
-gold_1 = Não parece que há uma maneira fácil de levar isso com você também. Que pena.
-whiteboard_0 = Nada neste quadro faz algum sentido para você.
-whiteboard_1 = Na verdade, a maioria simplesmente se parece com divagações de alguém muito perto de ficar sem ideias de filmes.
-whiteboard_2 = Não há menos de sete instâncias da palavra 'reboot'.
+gold_0 = Parece que essa pode ser a coisa mais lúcida e excessiva que você já viu.
+gold_1 = Não parece que há uma maneira fácil de levar isso com você. Que pena.
+whiteboard_0 = Nada nesse quadro faz algum sentido para você.
+whiteboard_1 = Na verdade, parecem mais divagações de alguém muito perto de ficar sem ideias de filmes.
+whiteboard_2 = Não há menos de sete ocorrências da palavra 'reboot'.
 posters_0 = Esses cartazes ficaram muito bons!
 posters_1 = No entanto, você percebe que nunca deu permissão para usar sua imagem no marketing.
-posters_2 = Na verdade, você não se lembra de assinar um contrato para nada aqui. Ou mesmo dar a eles qualquer informação sua.
+posters_2 = Na verdade, você não se lembra de assinar um contrato para nada aqui, ou mesmo dar a eles qualquer informação sua.
 posters_3 = ... é possível que você não esteja sendo paga por esses filmes.
 
 [rift]
-manifest_0 = Tem um pedaço de papel preso à essa caixa. É um recibo de um monte de peças de cenário!
+manifest_0 = Tem um pedaço de papel nessa caixa. É um recibo de um monte de acessórios e peças de cenário!
 manifest_1 = Estranho - parece que alguém colocou uma cópia de 'Corgi Quest 7' aqui, mas não parece ter sido entregue direito.
-manifest_2 = Parece que eles ganharam uma caixa de peixe ao invés disso. Huh. 
+manifest_2 = Parece que eles ganharam uma caixa de peixe ao invés disso. 
