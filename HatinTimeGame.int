@@ -1,7 +1,7 @@
 [levels]
 Chapter1_MafiaTown = Cidade Mafiosa
 Act_1_1 = Bem-vindo à Cidade Mafiosa
-Act_1_2 = Batalha de Barrís
+Act_1_2 = Batalha de Barris
 Act_1_3 = Ela veio do Espaço
 Act_1_4 = Abaixo à Máfia!
 Act_1_5 = Trapaceando na Corrida
@@ -72,8 +72,8 @@ Location_Bookstore = O Fim do Tempo
 
 FreeRoam = Livre Circulação
 TimeRift = Fenda Temporal
-DeathWish = Death Wish
-NiceWish = Nice Wish
+DeathWish = Desejo Mortal
+NiceWish = Desejo Legal
 Community = Mapa da Comunidade
 
 TimeRift_Cave_RhythmJumpStudio = Estúdio Rhythm Jump
@@ -85,7 +85,7 @@ secretlevel_beta_space = Desafio do Herói Beta
 [ActInfoBoxDetails]
 Population_MafiaTown = População: 379
 Population_MafiaTown_Less = População: Menos do que antes, já que fiz eles explodirem
-Population_MafiaTown_Fried = População: Vários Mafiosos fritos
+Population_MafiaTown_Fried = População: Vários mafiosos fritos
 Population_MafiaTown_Boss = População: Menos um em breve
 Mission_RecoverTP = Missão: Recupere Peça Temporal que caiu
 Mission_Race = Missão: Vença legitima- pfffft hahaha
@@ -108,7 +108,7 @@ MovieStars_Starring = Estrelando...
 MovieStars_Conductor = CONDUTOR como O SAGAZ CONDUTOR DO TREM
 MovieStars_DJ = DJ GROOVES como O MENTOR ESTILOSO
 MovieStars_DetectiveHatKid = UMA GAROTA como DETETIVE INÚTIL
-MovieStars_BombHatKid = UMA GAROTA como DETONATORA IRRESPONSÁVEL
+MovieStars_BombHatKid = UMA GAROTA como DETONADORA IRRESPONSÁVEL
 MovieStars_ParadeHatKid = GAROTINHA como MARECHAL DO DESFILE
 MovieStars_CameraHatKid = GAROTINHA como DIVA MISTERIOSA
 MovieStars_Crows = CORVOS como AGENTES C.U.A.
@@ -123,11 +123,11 @@ Mission_Manor = Obrigação: Ver a velha casa do Snatcher!
 Mission_Well = Obrigação: Limpar o poço velho!
 Mission_Toilet = Obrigação: Se livrar dessa... privada estranha?
 Mission_Snatcher = Obrigação: Ter o que você merece!
-Atmosphere_Tense = Atmosfera: Tensa
-Atmosphere_Energetic = Atmosfera: Energética
-Atmosphere_Menacing = Atmosfera: Ameaçadora
-Atmosphere_Palpable = Atmosfera: Palpável
-Atmosphere_Unpleasant = Atmosfera: Desagradável
+Atmosphere_Tense = Clima: Tenso
+Atmosphere_Energetic = Clima: Energético
+Atmosphere_Menacing = Clima: Ameaçador
+Atmosphere_Palpable = Clima: Palpável
+Atmosphere_Unpleasant = Clima: Desagradável
 TOTD_Requiem = Termo do Dia: Réquiem
 TOTD_Choir = Termo do Dia: Coro
 TOTD_Encore = Termo do Dia: Bis

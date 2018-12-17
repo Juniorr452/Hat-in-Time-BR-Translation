@@ -4,9 +4,9 @@ TimePieceDirection1 = Elas começaram a aparecer depois que umas [icon:timepiece
 TimePieceDirection2 = De qualquer jeito, eu queria muito que elas não fossem tão brilhantes. Estão me cegando!
 
 [finale]
-finale0 = ...acabou? O ar está limpo denovo!
-finale1 = E os bodes parece que caíram em si novamente. Não entendi o que aconteceu muito bem, mas acho que temos que te agradecer!
-finale2 = Nós encontramos isso num conjunto daquelas flores depois que elas murcharam de novo. Você foi bem insistente em ir atrás das outras, então acho que elas pertencem a você?
+finale0 = ...acabou? O ar está limpo de novo!
+finale1 = E parece que os bodes voltaram ao normal. Não entendi o que aconteceu muito bem, mas acho que temos que te agradecer!
+finale2 = Encontramos isso num monte daquelas flores depois que elas murcharam de novo. Você foi bem insistente em ir atrás das outras, então acho que elas pertencem a você?
 finale3 = Obrigado por nos ajudar!
 
 [Guides]
@@ -24,22 +24,22 @@ guide_birdhouse1 = A [name]Gaiola de Pássaros[/name][br]é por aqui!
 guide_birdhouse2 = Você está quase na [br][name]Gaiola de Pássaros[/name]!
 guide_horn0 = Sopre aqueles chifres[br]para abrir[br]novos caminhos!
 guide_horn1 = Tem um[br][hint]chifre[/hint] no[br]no topo!
-guide_binocs0 = Esses telescópios [br]te deixam olhar [br]picos bem distantes!
-guide_deadend0 = Ei! Esses caminho não te [br]leva a nenhum [hint]pico[/hint].
+guide_binocs0 = Esses binóculos te deixam olhar bem longe!
+guide_deadend0 = Ei! Esse caminho não te [br]leva a nenhum [hint]pico[/hint].
 guide_deadend1 = Acho que esse caminho[br]aqui leva até um [hint]chifre[/hint].[br]Dá quase pra ver ali!
 guide_deadend2 = Eu acho que vejo [br]algum [hint]tesouro[/hint]!
 guide_deadend3 = Eu não acho que nenhuma [br][hint]ampulheta[/hint] [br]caiu por aqui.
 guide_zipline0 = Não se esqueça de[br]virar [hint]para[/hint] o caminho[br]que quiser seguir!
 guide_bridge0 = Cuidado! Algumas dessas [hint]pontes[/hint] são velhas.
 guide_cats0 = Tenha cuidado, criança.[br]Fui ali na frente e acabei[br]sendo arranhado!
-guide_cats1 = Eu seguraria bem esse [br][icon:hat] teu ai!
+guide_cats1 = Eu seguraria bem esse teu [br][icon:hat] ai!
 guide_eggs0 = Tem algo [br]estranho sobre alguns [br]daqueles ovos!
 guide_danger0 = Oi! Esse certamente é um lugar seguro para uma criança estar.
  
 [PeakSize]
 size0 = Existem várias estruturas enormes nesses picos.
 size1 = Quem será que as construiu? 
-size2 = ... pássaros não constroem gaiolas, né?
+size2 = ... pássaros não fazem gaiolas, né?
 
 [Flowers]
 flowers0 = Já viu as flores roxas crescendo por aqui?
@@ -47,9 +47,9 @@ flowers1 = Eu manteria distância. Para mim, tem alguma coisa estranha sobre ela
 
 [Horns]
 explanation0 = Por que nós mesmos não sopramos os chifres?
-explanation1 = Nessa altitude, o ar é muito fino! É dificil para nós respirar assim tão fundo.
+explanation1 = Nessa altitude, o ar é rarefeito! É difícil para nós respirarmos assim tão fundo.
 explanation2 = Embora isso não pareca te afetar.
 
 [Goats]
-goats0 = Eu não sei muito sobre os bodes aqui, mas nós tentamos manter nossa distância.
+goats0 = Não sei muito sobre os bodes aqui, mas tento manter distância.
 goats1 = Se ficar na frente deles, eles tendem a ficar um pouco agressivos.
