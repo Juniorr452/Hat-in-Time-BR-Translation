@@ -25,7 +25,7 @@ UnknownDescLocked0 = Sem descrição.
 UnknownDescTech0 = Este chapéu não parece ser útil.
 
 SprintName = Chapéu de Corrida
-SprintDescLocked0 = Esta lã parece pronta para correr!
+SprintDescLocked0 = Esta lã parece prontinha para correr!
 SprintDescLockedHat = Este chapéu parece pronto para correr!
 SprintDesc0 = Segure [button:badge] para correr!
 
@@ -141,7 +141,7 @@ MaterialSkin_Desc0 = Mergulhe em tinta!
 WhiteRedSkinName = O Chefão
 RedWhiteSkinName = A Lua Sangrenta
 GreenOrangeSkinName = O Quebra-nozes
-BlueYellowSkinName = Torta de Blueberry
+BlueYellowSkinName = Torta de Mirtilo
 BlackSkinName = A Viúva
 CaptainName = Capitão do Mar
 WahooName = O Grande Apetite
@@ -203,7 +203,7 @@ SilhouetteName = Silhueta
 HazeName = Névoa
 ColdName = Frio
 MangaName = Nani!?
-PosterName = Poster de Filme
+PosterName = Pôster de Filme
 
 [decorations]
 DecorationMatch = Combinou! Você identificou uma relíquia desse planeta estranho!
@@ -222,19 +222,19 @@ UFODesc0 = Mas o quê! Naves espaciais não são assim!
 UFODesc1 = Cadê a madeira? Por que está sugando vacas?
 UFODesc2 = Isso é humilhante! Vou processar!
 
-CrayonCompleteName = Kit de Graffiti Tricolor
-CrayonCompleteDesc0 = Isso foi feito para vandalismo. Definitivamente. Até eu me sinto forçada a pegá-los e desenhar em TUDO.
-CrayonCompleteDesc1 = Posso somente concluir que essa ferramenta de vandalismo deve ser ilegal.
-CrayonCompleteDesc2 = Isso faz com que essa relíquia seja extra rara. Se apenas a embalagem não tivesse sido aberta. Somente um monstro abriria a embalagem de um item raro.
+CrayonCompleteName = Kit de Giz Tricolor
+CrayonCompleteDesc0 = Isso com certeza foi feito para vandalismo. Até eu me sinto forçada a pegá-los e desenhar em TUDO.
+CrayonCompleteDesc1 = Posso apenas concluir que essa ferramenta de vandalismo deve ser ilegal.
+CrayonCompleteDesc2 = Isso faz com que essa relíquia seja super rara. Se apenas a embalagem não tivesse sido aberta. Somente um monstro abriria a embalagem de um item raro.
 
 BurgerCushionName = Dispositivo Terráqueo de Sentar
-BurgerCushionDesc0 = Pesquisas concluem que essa coisa é bastante macia para sentar em cima.
-BurgerCushionDesc1 = Tão macia, que a única conclusão lógica é que essas são as cadeiras desse planeta.
-BurgerCushionDesc2 = Não é um lanche. Eu tentei. Tem gosto de tecido.
+BurgerCushionDesc0 = Pesquisas concluem que essa coisa é bastante macia para sentar.
+BurgerCushionDesc1 = É tão macia que a única conclusão lógica é que essas são as cadeiras desse planeta.
+BurgerCushionDesc2 = Não é um lanche. Eu tentei comer. Tem gosto de tecido.
 
 CakeTowerName = Museu de Bolos
 CakeTowerDesc0 = Uma plataforma de metal chique feita para exibir bolos.
-CakeTowerDesc1 = Mas que tipo de pessoa ia só mostrar eles? Eles foram feitos pra comer!
+CakeTowerDesc1 = Mas que tipo de pessoa ia só exibir eles? Eles foram feitos pra comer!
 CakeTowerDesc2 = ... Eu não consigo alcançar os da prateleira de cima.
 
 [ItemQuality]

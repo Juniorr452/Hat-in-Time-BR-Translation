@@ -13,7 +13,7 @@ Location_LandryRoom = Lavanderia
 DecorationPerfect = Combinar os [decorations] fez um [dreamworld] aparecer em [name][chaptername][/name]! Olhe pelo telescópio do capítulo para ver onde ele está se escondendo!
 
 [Ending]
-ThrowMu0 = Jogar uma [icon:timepiece][timepiece]Peça Temporal[/timepiece] lá embaixo e emprestar um pouco de poder da [icon:timepiece][timepiece]Peça Temporal[/timepiece] para a [icon:mugirl][name]garota de capuz vermelho[/name] poder derrotar a [name]Máfia[/name]?[br](Você pode não conseguir chegar até em casa.)
+ThrowMu0 = Quer jogar uma [icon:timepiece][timepiece]Peça Temporal[/timepiece] lá embaixo e emprestar um pouco de poder da [icon:timepiece][timepiece]Peça[/timepiece] para a [icon:mugirl][name]garota de capuz vermelho[/name] poder derrotar a [name]Máfia[/name]?[br](Você pode não conseguir chegar até em casa)
 ThrowMu0_Yes = Sim
 ThrowMu0_No = Não
 

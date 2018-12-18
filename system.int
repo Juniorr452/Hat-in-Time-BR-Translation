@@ -1,6 +1,6 @@
 [Input]
 NewAutoController = Novo Controle:
-ControllerDisconnect = O controle foi desconectado. Por favor, reconecte o controle para continuar.
+ControllerDisconnect = O controle foi desconectado. Por favor, reconecte-o para continuar.
 
 [levels]
 Chapter = Capítulo
@@ -17,6 +17,6 @@ disallowed_outside_editor = Fora do Editor
 
 [Console]
 OfflineMode = Você quer jogar desconectado da internet? As funções da Xbox Live não estarão disponíveis e os dados não serão salvos.
-FailedLogin = Incapaz de entrar no momento. Por favor, tente novamente mais tarde.
+FailedLogin = Não foi possível entrar no momento. Por favor, tente novamente mais tarde.
 Yes = Sim
 No = Não

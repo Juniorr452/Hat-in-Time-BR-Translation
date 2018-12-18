@@ -1,9 +1,9 @@
 [mafia_hq]
-intro0 = Os Mafiosos são péssimos na cozinha![br] Mas não tema, a [name]Gata Cozinheira[/name] está aqui!
+intro0 = Os mafiosos são péssimos na cozinha![br] Mas não tema, a [name]Gata Cozinheira[/name] está aqui!
 intro1 = Eu preparo o jantar de verdade aqui em cima e troco a comida antes que alguém coma o que a Máfia cozinhou.
-intro2 = Tenho plena certeza que alguém morreria se eles comessem comida feita pela Máfia.
+intro2 = Tenho plena certeza que alguém morreria se eles comessem a comida feita pela Máfia.
 
-new0 = Ahn? Você quer invadir o teatro para falar com o Chefe da Máfia?
+new0 = Ahn? Você quer invadir o teatro para falar com o chefe da Máfia?
 new1 = Desculpe, mas não dá! Você teria que entrar pela porta da frente, e ela está totalmente bloqueada. O único outro caminho seria pelos dutos de ventilação.
 new2 = Apesar que você precisaria de uma [icon:key][hint]chave[/hint] para isso. Eu acredito que alguém da Máfia deve tê-la. Vou te contar, aposto que se você os servir um [hint]copo de chocolate quente[/hint], eles vão te emprestar a chave com certeza.
 
@@ -21,18 +21,18 @@ firstdecoration5 = Você pode identificar essa[icon:relic][name] relíquia[/name
 firstdecoration7 = Se você for capaz de identificar uma[icon:relic][name] relíquia[/name],[br]algo ótimo deve acontecer! Nunca se sabe! Então fique atento para achar relíquias.
 firstdecoration8 = Eu te ensinei tudo o que eu sei sobre relíquias!
 
-cooking0 = Ah, ei! Espero que você não se importe comigo usando sua cozinha. Eu pensei em te fazer uma boa comida terrestre, já que você é um alien e tudo mais.
+cooking0 = Ah, ei! Espero que você não se importe com eu usando sua cozinha. Pensei em fazer uma boa comida terrestre, já que você é um alien e tudo mais.
 cooking1 = Diga, você é uma pessoa que prefere carnes ou vegetais?
 cooking_q_steak = Carne
 cooking_q_veggie = Vegetais
-cooking2_steak = É mesmo? Bom, espero que você não esteja procurando cozinhar alguns terráqueos!
+cooking2_steak = É mesmo? Bom, espero que você não esteja pensando em cozinhar alguns terráqueos!
 cooking2_veggie = É mesmo? Acho que vocês aliens tem mais em comum com, uhhh, formigas e tudo mais?
 cooking3 = De qualquer forma, espero que minha comida esteja pronta antes de você sair. Eu gostaria de ver quão bons meus pratos ficariam usando um forno alienígena!
 
-cooking4 = Sabe, eu pensei que a tecnologia de um forno alienígena seria um pouco mais avançada.
+cooking4 = Sabe, eu pensava que a tecnologia de um forno alienígena fosse um pouco mais avançada.
 
 [finale]
-outside0 = Eu já estive em cozinhas quentes antes, mas isso é outra coisa! Eu não sei como você não está nem suando, eu estou cozinhando. 
+outside0 = Já estive em cozinhas quentes antes, mas isso é outro nível! Não sei como você não está nem suando, eu estou cozinhando. 
 outside1 = Talvez você poderia furar a fila e descobrir quem é o chefe aqui?
 ninjacat0 = Miau.
 ninjacat1 = Mimiiaauu.

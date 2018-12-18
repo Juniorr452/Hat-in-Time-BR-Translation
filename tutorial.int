@@ -17,7 +17,7 @@ carry_too_much = Cuidado! Quanto mais você carregar, mais a pilha vai balançar
 vacuumside = Tente pular para o lado! 
 
 drop_carry = Largar
-throw_carry = Arremesar
+throw_carry = Arremessar
 
 DuplicateKey = Não é possível carregar duas [icon:key] ao mesmo tempo
 

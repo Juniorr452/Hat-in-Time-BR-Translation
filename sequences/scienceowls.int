@@ -1,5 +1,5 @@
 [murder]
-CrowAskForDetails0 = Você percebou todos esses corvos andando por aqui?
+CrowAskForDetails0 = Você percebeu todos esses corvos andando por aqui?
 CrowAskForDetails1 = Eles ficam perguntando por informações pessoais, e eu nunca sei o que responder!
 
 CrowsGotOn0 = Você percebeu que, do nada, tem um monte de corvos nesse trem? Todos eles entraram na última parada.
@@ -8,7 +8,7 @@ CrowsGotOn2 = ...
 CrowsGotOn3 = ... como assim você caiu do céu?
 
 CrowsAnnoy0 = É muito difícil se acomodar nesse trem com todos esses corvos enchendo o lugar.
-CrowsAnnoy1 = Eles ficam me entrevistando sobre tudo que eu faço!
+CrowsAnnoy1 = Eles ficam me entrevistando sobre tudo que faço!
 
 ScientificEquation0 = Eu não tô entendendo. Como que isso pode ser algum tipo de equação científica?[br]É só um monte de letras e números embaralhados, como os que você vê em um formulário da internet.
 
@@ -18,7 +18,7 @@ PostMurder0 = Cara, eu só queria sair do trabalho e chegar em casa. Não me ins
 PostMurder1 = Minha mulher vai me matar.
 
 OwlHiddenRoom0 = Cara, isso que é vida.[br]Nada é melhor que uma[br]sauna quente.
-OwlHiddenRoom1 = Você ouviu[br]um algum barulho lá fora?
+OwlHiddenRoom1 = Você ouviu[br]algum barulho?
 OwlHiddenRoom2 = Eh, que se bique.[br]Eu não quero ir[br]lá fora no frio.
 
 VictimRubberKnife0 = É, posso ir agora? Eu to um pouco dolorido de fingir de morto por tanto tempo.
@@ -26,15 +26,15 @@ VictimRubberKnife1 = Essa faca de borracha também é um pouco desconfortável.
 
 suspect_sciowls0 = ...
 suspect_sciowls1 = É verdade.
-suspect_sciowls2 = Nós estávamos sentando no salão jogando cartas, e a gente tava se divertindo tanto! Todo mundo tava aproveitando esse momento de paz e calma!
+suspect_sciowls2 = Estávamos sentando no salão jogando cartas, e a gente tava se divertindo tanto! Todo mundo tava aproveitando esse momento de paz e calma!
 suspect_sciowls3 = ... e o Robin não parava de mastigar com a boca aberta.
-suspect_sciowls4 = Sério, quem mastiga com a boca aberta? Então nós esfaqueamos ele com a faca de borracha, pra ter um pouco de paz e calma.
+suspect_sciowls4 = Sério, quem mastiga com a boca aberta? Então esfaqueamos ele com a faca de borracha, pra ter um pouco de paz e calma.
 
 suspect_victim0 = Parece que você desvendou minha charada.
 suspect_victim1 = Era minha vez de limpar o trem, então eu decidi... uhh... forjar minha própria morte, com essa faca de borracha.
 suspect_victim2 = Mas toda essa confusão não valeu a pena. Vou lá começar a limpar.
 
-suspect_hatkid0 = Na verdade eu tô bem.
+suspect_hatkid0 = Na verdade, eu tô bem.
 suspect_hatkid1 = Ela só prendeu essa faca de borracha em mim, e me disse pra eu fingir de morto.
 suspect_victim_idle0 = Cara, eu até gastei uma garrafa inteira de ketchup pra fazer esse assassinato parecer convincente...
 
@@ -44,12 +44,12 @@ prop1 = Você é do tipo de pessoa que vende objetos de filme no Tucano Livre?
 
 intro0 = Uhhh, oi. Eu sou uma [name]Expressoruja[/name]. O que quer dizer que eu ando no [name]Expresso das Corujas[/name] que é conduzido pelo [icon:conductor][name]Condutor[/name].
 intro1 = Eu preciso pegar o trem pra chegar no trabalho, mas o [icon:conductor][name]Condutor[/name] vive fazendo paradas inesperadas.
-intro2 = Eu não faço ideia do porquê a gente tá num estúdio de gravação. Eu preciso chegar no trabalho em 15 minutos!
+intro2 = Não faço ideia do porquê a gente tá num estúdio de gravação. Eu preciso chegar no trabalho em 15 minutos!
 
 guard0 = Ah é, desculpa, o [icon:conductor][name]Condutor[/name] disse que apenas pássaros são permitidos a partir daqui. E ele específicamente disse que nenhum tipo de pinguim pode passar por aqui.
 guard1 = Eu não sei o -porquê-, eu só sou um passageiro nesse trem. Tanto faz, desde que a gente volte pro trem logo.
 
-feud0 = Eu não entendo essa briga entre o [name]Condutor[/name] e o [icon:djgrooves][name]DJ Grooves[/name].
+feud0 = Não entendo essa briga entre o [name]Condutor[/name] e o [icon:djgrooves][name]DJ Grooves[/name].
 feud1 = Tipo, por que um operador de trens e um cara do disco querem competir? Todos nós somos pássaros, não é? A gente não deveria cooperar?
 feud2 = ... Eu sei lá, acho que cooperar é meio besta. Eu acho. É... só me ignore...
 
@@ -65,14 +65,14 @@ initial0 = Quer trocar a música que você ouve nos capítulos, ou quer ouvir a 
 initial0_a = Trocar Música
 initial0_b = Toca um som pra mim
 initial0_c = Tchau!
-listentomusic_generic0 = Tá certo, ouve essa daqui. É um som novo que a gente tá trabalhando!
+listentomusic_generic0 = Tá certo, ouve essa aqui. É um som novo que a gente tá trabalhando!
 listentomusic_bubblegum0 = Tá certo, limpe seus ouvidos. Nós ouvimos essa em um vilarejo num deserto distante![br]Ela parece muito com chiclete! 
-listentomusic_caverave0 = Tudo certo, ouve essa daqui. É uma nova melodia que nós estamos trabalhando.[br]Por algum motivo, essa vai fazer você querer tomar sopa de abóbora!
+listentomusic_caverave0 = Tudo certo, ouve essa aqui. É uma nova melodia que nós estamos trabalhando.[br]Por algum motivo, essa vai fazer você querer tomar sopa de abóbora!
 listentomusic_heatdusts0 = Tá certo, ouve só essa, acabou de sair do forno.[br]É um som perfeito pra viagem longas em estradas lisas!
 listentomusic_foxmask0 = Tá certo, sintoniza nessa, essa é uma que fica presa na cabeça.[br]Ela é uma música morna e agradável, mas é meio sorrateira, como uma raposa.[br]Também é pouquinho assustadora!
 listentomusic_heatgusts0 = Tudo certo, ouve bem, a gente acabou de trabalhar nessa.[br]Ela tem esse ar de uma dança em um deserto distante.
 listentomusic_moonswing0 = Tá certo, ouve só, essa acabou de sair da lua.[br]Os [name]Lazy Paw Gang[/name] realmente sabem escrever um jazz bem selvagem![/name]
-listentomusic_electroswing0 = Saca só, essa é uma favorita das [name]Expressorujas[/name].[br]Dessa vez nós botamos uma batida nova nela. O que você acha?
+listentomusic_electroswing0 = Saca só, essa é uma favorita das [name]Expressorujas[/name].[br]Dessa vez, nós botamos uma batida nova nela. O que você acha?
 listentomusic_newadventure0 = Ok, você já deve ter ouvido essa antes.[br]É o tipo de som perfeito pra começar uma nova aventura![br]Não acha?
 
 [trainrush]
@@ -84,7 +84,7 @@ rush1 = [scream]Corre, garota![/scream]
 rush2= [scream]Tem uma b-bomba[br]nesse trem?![/scream]
 
 [finale]
-outside0 = Pelo que nós estamos sendo julgados? 
+outside0 = Pelo que estamos sendo julgados? 
 outside01 = Todos nossos filmes eram filmes de ação feitos pra família inteira!
 outside1 = Nunca cometi um crime em toda minha vida!
 outside2 = Nunca vou chegar no meu trabalho a tempo...

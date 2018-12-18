@@ -12,7 +12,7 @@ chase1 = [shake2]O que vai fazer? Sabe, você não pode [hint]machucar uma sombr
 givekey0 = [shake2]Quer a chave? Toma, é sua![/shake2]
 givekey1 = [shake2]Não preciso dela mesmo... e nem você vai precisar dela quando ela te pegar! [wave]HA HA HA![/wave][/shake2]
 
-enter_manor_hascontract0 = [shake2]Eeeeeeei amiguinha! Lembre-se do nosso contrato, sem abilidades aqui dentro![/shake2]
+enter_manor_hascontract0 = [shake2]Eeeeeeei amiguinha! Lembre-se do nosso contrato, sem habilidades aqui dentro![/shake2]
 enter_manor_hascontract1 = [shake2]Tem algumas... coisas... aí dentro em que eu não quero que você mexa! Lembre-se das suas obrigações contratuais![/shake2]
 
 [subconforest]
@@ -99,7 +99,7 @@ home_businessconcluded = [shake2]Garota, nosso negócio está concluído. Não v
 
 wheretogo_subconwell0 = [shake2]Era pra você estar limpando o poço, criança. Fica bem no interior do pântano, mas é grande o bastante para uma baixinha como você conseguir achar. Só tenta não tropeçar e bater a cabeça no fundo... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
-postfinale0 = [shake2]Você denovo? Achei que tinha deixado bem claro da última vez, garotinha.[/shake2]
+postfinale0 = [shake2]Você de novo? Achei que tinha deixado bem claro da última vez, garotinha.[/shake2]
 postfinale1 = [shake2]Estamos terminados. Acabou. Nossa relação terminou. Não vou mais gastar meu tempo com você![/shake2]
 
 postfinale2 = [shake2][wave][scream][big]Agora caia fora da minha floresta![/big][/scream][/wave][/shake2]
@@ -109,7 +109,7 @@ intro0 = [shake2]Espera aí, criança. Lembra que a cabeça do outro contratante
 intro1 = [shake2]Aquilo não foi uma coincidência. Ela saiu fora no momento que ele parou de ser útil para mim.[/shake2]
 intro2 = [shake2]Adivinha quem mais se tornou obsoleta? Isso mesmo. Você.[/shake2]
 intro3 = [shake2]Agora que aquele banheiro possuído não está me incomodando, e todos aqueles seus contratos já foram concluídos... Eu não preciso mais de você.[/shake2]
-intro4 = [shake2]Além disso, você não achou que eu ia te deixar ficar com todas essas [icon:timepiece][timepiece]Peças Temporais[/timepiece], achou? Elas cairam na minha floresta, criança! Elas pertencem a [scream]MIM[/scream].[/shake2]
+intro4 = [shake2]Além disso, você não achou que eu ia te deixar ficar com todas essas [icon:timepiece][timepiece]Peças Temporais[/timepiece], achou? Elas caíram na minha floresta, criança! Elas pertencem a [scream]MIM[/scream].[/shake2]
 intro6 = [shake2]Hora de mostrar do que eu realmente sou capaz, garota. Diga adeus para essa sua cabecinha![/shake2]
 
 Derp0 = É assim que[br]você se parece![br]Você é uma idiota!
@@ -163,11 +163,11 @@ contract_soul_return = Você pegou sua alma de volta! Você se sente aliviada, e
 outside0 = [shake2]Ei criança! Como que está aquela sua alma? Ainda chacoalhando aí dentro?[/shake2]
 outside0b = [shake2]Espera. Até que você não conseguiu ela de volta, conseguiu?[/shake2]
 outside1 = [shake2]Eu adoraria saber quem é que pensa que é grande o suficiente para [wave]me[/wave] julgar! E daí que eu peguei algumas [small]centenas[/small] de almas - grande coisa![/shake2]
-outside2 = [shake2]Faça um favor para todos nós, criança! Vá ver quem é essa que acha que é melhor do que nós! E bata nela![/shake2]
+outside2 = [shake2]Faça um favor para todos nós, criança! Vá ver quem é essa que acha que é melhor que nós! E bata nela![/shake2]
 outside3 = [shake2]Eu não costumo defender esse tipo de coisa, mas isso é bem autoritário![/shake2]
 group_counter0 = [shake2]Essa realidade alternativa fede! Dá o fora![/shake2]
-cherrybombs0 = [shake2]Vamos assinar um contrato e fazer essa garota cair fora, de uma vez por todas![/shake2]
-cherrybombs1 = [shake2]Hahaha! Muito bem, vamos lá. Eu crio, você joga![/shake2]
+cherrybombs0 = [shake2]Vamos fazer um contrato e fazer essa garota cair fora, de uma vez por todas![/shake2]
+cherrybombs1 = [shake2]Hahaha! Muito bem, vamos lá. Eu faço, você joga![/shake2]
 
 suicide0 = [shake2]Nós não PRECISAMOS de um herói! Caia fora![/shake2]
 

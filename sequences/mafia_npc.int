@@ -8,7 +8,7 @@ doublejump5 = Nojo! Só pensar em combinação faz Máfia querer vomitar!
 
 punch0 = Hoje soquei barril vestido de velhinha. Faz pessoas terem medo da Máfia.
 punch1 = Vida da Máfia é boa.
-punch2 = As vezes Máfia esquece se deveria socar barril ou velhinha. Então ele faz os dois.
+punch2 = Às vezes Máfia esquece se deveria socar barril ou velhinha. Então ele faz os dois.
 
 seagull0 = Gaivota comer peixe, mas peixe pertence à Máfia. Socamos gaivota por não respeitar Máfia.
 seagull1 = Gaivota dizer, "Não soque, tenho filho!" Máfia soca gaivota com filho.
@@ -31,7 +31,7 @@ steal0 = Ontem vi uma família. Eu dizer para família, "Vou tomar tudo agora."
 steal1 = Família implorar para Máfia não levar tudo. Máfia dizer que é piada. Máfia engraçada.
 steal2 = Mas piada de verdade é Máfia tomar tudo mesmo assim.
 steal3 = Máfia não cruel. Máfia dar boa reposição para casa de família.
-steal4 = Pequena jangada no mar! É perto da água. Ter boa vista. Nem precisar ir no mercado quando ter peixe embaixo.
+steal4 = Pequena jangada no mar! É perto da água. Ter boa vista. Nem precisar ir ao mercado quando ter peixe embaixo.
 
 hardwork0 = Vida de Máfia é trabalho duro. Pessoas não apreciar dedicação ao trabalho.
 hardwork1 = Ontem, Máfia acordou sem vontade de socar. Viu? Até trabalho de Máfia é difícil.
@@ -43,7 +43,7 @@ sonstrong0 = Eu dizer para filho, "Você socar pessoas quando estiver grande e f
 sonstrong1 = Coração da Máfia partido.
 
 scienceowl0 = Máfia ver coruja com paletó de cientista. Máfia pergunta, "Você fazer ciência?" Coruja diz palavras que Máfia não entender.
-scienceowl1 = Máfia soca coruja confusante.
+scienceowl1 = Máfia soca coruja cientista.
 
 drunksleep0 = ZZZZZZZZZZZZZZZZZZZZ....
 drunksleep1 = N-não... vai chover... Máfia sem guarda-chuva...
@@ -116,7 +116,7 @@ boss_godown1 = Prepare para sentir o que Máfia faz com velhinhas!
 
 [chapter1bullying]
 scream0 = Coma poeira!
-scream1 = Curve à Máfia!
+scream1 = Curve-se à Máfia!
 scream2 = Ha ha!
 scream3 = Tome isso! E isso!
 scream4 = Tome isso! E aquilo!

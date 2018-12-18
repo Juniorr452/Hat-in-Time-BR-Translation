@@ -1,11 +1,11 @@
 [parade]
 welcome0 = Olá, fofa! Bem-vinda ao maior set de gravação que você vai ver na vida!
-welcome1 = Vamos começar a gravar agora [hint]O Grande Desfile[/hint], o filme que vai deixar as platéias ao redor do mundo sem fôlego! E você será a estrela, como sempre!
+welcome1 = Vamos começar a gravar agora [hint]O Grande Desfile[/hint], o filme que vai deixar as plateias ao redor do mundo sem fôlego! E você será a estrela, como sempre!
 welcome2 = Para esse filme, vamos precisar da nossa [icon:timepiece][timepiece]peça especial[/timepiece]! Ela vai aparecer bem no final!
 welcome3 = Mas calma aí, fofa! Sua roupa não combina muito com um desfile. Você poderia ir ali e se trocar?
 welcome3b = Sua roupa não combina muito com um desfile. Você poderia ir ali e se trocar?
 welcome4 = Fofa, você ficou linda! Não se preocupe, esse filme é bem simples. Fique andando por aí e a banda vai te seguir! Só não esbarre neles!
-welcome5 = Ah, e preste atenção nos presentes! A platéia ama um bom desfile e podem te dar uns presentes se você chegar perto deles!
+welcome5 = Ah, e preste atenção nos presentes! A plateia ama um bom desfile e podem te dar uns presentes se você chegar perto deles!
 welcome5b = Ah, e preste atenção nos refrescos! A nossa equipe secundária vai jogar eles perto de você pra garantir que você se mantenha hidratada!
 welcome5c = Ah, e preste atenção nas câmeras! A nossa equipe vai tentar gravar o máximo que conseguir, então apareça pra eles quando puder!
 welcome6 = O desfile dura um tempinho; não tem o que fazer pra acelerar. Vamos avisar quando tivermos gravado o suficiente. Não perca o foco!
@@ -20,20 +20,20 @@ third_intermission0 = Chegou a hora de soltar o [icon:timepiece][timepiece]eleme
 
 [deadbird]
 intro0 = Loucura, fofo, loucura!
-intro1 = Suas [name]aves do Expresso das Corujas[/name] só vão gravar outro filme de faroeste entediante nesse seu trem! É o que você tem feito pelos últimos dez anos, fofo!
-intro2 = [icon:conductor][name]Condutor[/name], fofo, esse ano nós vamos ganhar o [icon:trophy][trophy]prêmio aviário anual de filmes[/trophy], já que nossa nova peça de filme vai chamar a atenção das platéias! 
+intro1 = Suas [name]Expressorujas[/name] só vão gravar outro filme de faroeste entediante nesse seu trem! É o que você tem feito pelos últimos dez anos, fofo!
+intro2 = [icon:conductor][name]Condutor[/name], fofo, esse ano nós vamos ganhar o [icon:trophy][trophy]prêmio aviário anual de filmes[/trophy], já que nossa nova peça de filme vai chamar a atenção das massas! 
 intro3 = Essas [icon:timepiece][timepiece]coisas brilhantes[/timepiece] caíram do céu! Elas vão iluminar nossos sets de gravação e deixá-los reluzentes!
 intro4 = Jamais, fofo! Claramente foi você que se inspirou em minhas novas peças fabulosas.
 intro5 = Por mim tudo bem, fofo! Mas seremos nós os vencedores do [icon:trophy][trophy]prêmio aviário anual de filmes[/timepiece], pode ter certeza!
 
 passport0 = Incrível! Fabuloso! Este troféu é tudo que eu quero... na prateleira da minha sala!
 passport1 = É claro, esse grandão aqui é só uma réplica de plástico! O troféu de verdade é bem pequeno!
-passport2 = Minha nossa! Minha nossa! O que meus olhos vêem? Seria... a verdadeira beleza interior? Uma alma inocente com um coração de ouro?
+passport2 = Minha nossa! Minha nossa! O que meus olhos veem? Seria... a verdadeira beleza interior? Uma alma inocente com um coração de ouro?
 passport3 = Ah, não. É só uma garotinha. Olá! 
 passport3b = Ah, não. É só um garotinho. Olá!
-passport4 = Espere, você não é um pinguim. Ótimo! Eu estava precisando de compania não-pinguim por aqui, já que, sinceramente, todos meus pinguins são péssimos atores!
+passport4 = Espere, você não é um pinguim. Ótimo! Eu estava precisando de companhia não-pinguim por aqui, já que, sinceramente, todos meus pinguins são péssimos atores!
 passport5 = É o seguinte: preciso de sua ajuda. Estou numa sequência terrível de derrotas, e eu simplesmente PRECISO ganhar esse próximo [icon:trophy][trophy]prêmio aviário anual de filme[/trophy].
-passport6 = Não há duvidas; eu indiscutivelmente PRECISO ter você como a estrela! Deixa que eu tomo conta disso.
+passport6 = Não há dúvidas; eu indiscutivelmente PRECISO ter você como a estrela! Deixa que eu tomo conta disso.
 passport7 = Você precisa de um passaporte aviário, fofa! Venha aqui.
 passport8 = A parte mais importante de um passaporte é a foto, fofa! Você precisa ficar linda e estonteante! Fique bem aqui. Vamos tirar a foto.
 passport9 = Ok, sorria e fique parada, por favor! Não se mexa!
@@ -43,7 +43,7 @@ passport12a = Fofa, você não é muito fotogênica, não é mesmo?
 passport12b = Fofa, você se mexeu! A foto já era! Como pôde?
 passport13 = Precisamos consertar esse seu retrato com manipulação de fotos à moda antiga! Aqui, pegue essas canetinhas e transforme-se na garotinha mais estilosa que alguém já viu!
 passport13b = Precisamos consertar esse seu retrato com manipulação de fotos à moda antiga! Aqui, pegue essas canetinhas e transforme-se no garotinho mais estiloso que alguém já viu!
-passport14 = Perfeito! Vamos colocar essa foto bem aqui no seu passaporte e... aqui está! Um passaporte pra você!
+passport14 = Perfeito! Vamos colocar essa foto bem aqui no seu passaporte e... aqui está! Um passaporte para você!
 passport15 = Maravilhoso, fofa! Simplesmente maravilhoso! Encontre-me no set de gravação amanhã e vamos fazer de você uma estrela!
 
 [award]
@@ -61,18 +61,18 @@ hth_intro0 = Vamos ter uma conversinha. Sente-se, fofa.
 hth_intro1 = Desde que você chegou nesse planeta, essas [icon:timepiece][timepiece]Peças Temporais[/timepiece] têm caído do céu.
 hth_intro2 = Mas então, eu entendo se você achar que elas pertencem a você, fofa. Eu entendo. Mas você sabia que elas permitem voltar no tempo?
 hth_intro3 = Com uma [icon:timepiece][timepiece]Peça Temporal[/timepiece], eu poderia pegar todos os troféus que pertencem a mim, fofa. Cada um dos troféus que eu perdi pro [icon:conductor][name]Condutor[/name], que ele conseguiu por meio de trapaças.
-hth_intro4 = Eu não posso provar, fofa, mas eu tenho certeza que o [icon:conductor][name]Condutor[/name] têm manipulado tudo e todos pra garantir que eu nunca ganhe.
+hth_intro4 = Eu não posso provar, fofa, mas tenho certeza que o [icon:conductor][name]Condutor[/name] têm manipulado tudo e todos pra garantir que eu nunca ganhe.
 hth_intro5 = Eu preciso só de uma [icon:timepiece][timepiece]peça temporal[/timepiece] pra consertar anos de trapaças e fraudes. Não tem como me dar só uma [hint]Pecinha[/hint], fofa?
 hth_intro5_yes = Talvez?
 hth_intro5_no = Nem!
-hth_intro6a = Obrigado, fofa! Você não vai se arrepender! Vamos consertar anos de fraude e trapaças, e voltar pro [icon:trophy][trophy]prêmio aviário anual de filme[/trophy] justa e honestamente!
+hth_intro6a = Obrigado, fofa! Você não vai se arrepender! Vamos consertar anos de fraude e trapaças, e voltar pro [icon:trophy][trophy]prêmio aviário anual de filme[/trophy] de forma justa e honesta!
 hth_intro7a = Infelizmente... Não posso deixar que você saia dessa sala, fofa. Não posso arriscar que alguém descubra. O [icon:conductor][name]Condutor[/name] iria dar a louca de um jeito sem igual.
 hth_intro8a = Foi bom te conhecer, fofa. Adeus!
 hth_intro6b = Fofa, fofa, fofa... Você é tão persistentemente egoísta. Eu te levei à fama, e tudo que eu peço em troca é uma única [icon:timepiece][timepiece]Peça Temporal[/timepiece]... mas você se recusa a compartilhar?
 hth_intro7b = Bom, fofa, se você quer tanto essa [icon:timepiece][timepiece]Peça Temporal[/timepiece], vai ter que tirar de mim!
 hth_intro9 = Se lembra dessa bomba, fofa? Eu peguei ela do set de gravação do [icon:conductor][name]Condutor[/name], e agora ela vai ser seu fim!
 
-Intro0 = Ora ora, veja só quem temos aqui, fofa! Parece que você descobriu meu segredinho, não?
+Intro0 = Ora ora, veja só quem temos aqui, fofa! Parece que você descobriu meu segredinho, não é?
 Intro1 = Essa última [icon:timepiece][timepiece]Peça Temporal[/timepiece] é toda minha, fofa. Se você quer ela de volta, bem, vai ter que tirar ela de mim.
 
 
@@ -90,7 +90,7 @@ Endorsement_Statue1 = Olha só! Ela ajudou o filhotinho a descer, são e salvo! 
 Endorsement_Statue2 = Essa é realmente uma diva que eu apoio. Que fique dito, essa garota se importa com os animais!
 
 Endorsement_Poker0 = Veja só ela ganhar desses jogadores assíduos em seu próprio jogo... na sua primeira tentativa!
-Endorsement_Poker1 = Esse jogo é bem fácil de entender, fofa. Só precisa advinhar o número da carta que o outro jogador tá segurando, de [hint]1 a 10[/hint]. Que carta você acha que ele tá segurando, fofa?
+Endorsement_Poker1 = Esse jogo é bem fácil de entender, fofa. Só precisa adivinhar o número da carta que o outro jogador tá segurando, de [hint]1 a 10[/hint]. Que carta você acha que ele tá segurando, fofa?
 Endorsement_Poker2 = Uau! Fantástico! Incrível! A resposta é, de fato, [hint]3[/hint]! Pessoal de casa, vocês acabam de testemunhar a incrível intuição de uma verdadeira estrela.
 Endorsement_Poker3 = Ah, que pena, fofa! A resposta era [hint]3[/hint]! Pessoal de casa, isso só mostra que nessa nossa estrela é humilde. Ela erra assim como todos nós!
 

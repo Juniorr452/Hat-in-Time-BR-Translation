@@ -1,5 +1,5 @@
 [umbrella]
-umbrella_back0 = Você pegou seu [name]guarda-chuva[/name] de volta![br]Use o para espancar qualquer um que der uma de metido a besta!
+umbrella_back0 = Você pegou seu [name]guarda-chuva[/name] de volta![br]Use-o para espancar qualquer um que der uma de metido a besta!
 umbrella_back1 = Aperte [button:attack] para atacar!
 
 [act1postbattle]
@@ -11,17 +11,17 @@ MaybeWait1 = Não precisa ter vergonha de voltar para um ato mais tarde!
 
 [hq]
 window0 = Ainda está chovendo lá fora.
-window1 = É muito mais confortável assitir de dentro.
+window1 = É muito mais confortável assistir de dentro.
 slotmachine0 = Parece que essa máquina aceita apenas a moeda local, e você esqueceu de passar na casa de câmbio.
 cans0 = Isso parece ser o que a Mafia chama de comida. Porém, isso com certeza não tem cheiro de comida.
 cans1 = Você poderia provar um pouco, mas você não tem certeza se isso é uma coisa que você quer que vá parar no seu obituário. 
-bigfish0 = Você resistiu a vontade de fazer trocadilhos com peixe. Foi difícil, já que você t[small]a[/small]inha tantas idéias boas.
+bigfish0 = Você resistiu a vontade de fazer trocadilhos com peixe. Foi difícil, já que você t[small]a[/small]inha tantas ideias boas.
 pilehidden0 = Tem uma alavanca enterrada nessa pilha de dinheiro estrangeiro não identificado! 
 pilehidden1 = Puxar?
 pile_q_yes = Sim!
 pile_q_no = Nem ferrando!
 pilehiddenpull0 = Você puxa a alavanca pra fora da pilha e guarda ela no seu bolso. Sua coleção de objetos cômicos cresce cada vez mais.
-pilehiddennopull0 = Você aprendeu na escola que não se deve ativar mecanismos estranhos encontrados em pilhas de ouro num planeta alienigena, e decide deixar a alavanca em paz.
+pilehiddennopull0 = Você aprendeu na escola que não se deve ativar mecanismos estranhos encontrados em pilhas de ouro num planeta alienígena, e decide deixar a alavanca em paz.
 
 [fluff]
 door0 = Sai fora! Mafia assistindo programas. Ter grande interesse na história.
