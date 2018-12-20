@@ -167,8 +167,8 @@ Title = Rush! - Máfia de Cozinheiros
 Objective = Escape da fenda Máfia de Cozinheiros
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos restantes
-Faster_Easy = Escape com 15 segundos restantes
+Faster = Escape com mais de 30 segundos restantes
+Faster_Easy = Escape com mais de 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse pegar eles mais facilmente...
 
@@ -177,8 +177,8 @@ Title = Rush! - Estúdio Dead Bird
 Objective = Escape da fenda Estúdio Dead Bird
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos restantes
-Faster_Easy = Escape com 15 segundos restantes
+Faster = Escape com mais de 30 segundos restantes
+Faster_Easy = Escape com mais de 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
@@ -187,8 +187,8 @@ Title = Rush! - Subcon Sonolenta
 Objective = Escape da fenda Subcon Sonolenta
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos restantes
-Faster_Easy = Escape com 15 segundos restantes
+Faster = Escape com mais de 30 segundos restantes
+Faster_Easy = Escape com mais de 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse você pegar eles mais facilmente...
 
@@ -197,8 +197,8 @@ Title = Rush! - Alpine Skyline
 Objective = Escape da fenda Alpine Skyline
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos restantes
-Faster_Easy = Escape com 15 segundos restantes
+Faster = Escape com mais de 30 segundos restantes
+Faster_Easy = Escape com mais de 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
@@ -225,8 +225,8 @@ Tip0 = Com um toque, sua [icon:icehat] pode ser usada para subir nas bordas sem 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
 Title = Bons Momentos com Snatcher
 Objective = Sobreviva ao Snatcher por 2 minutos
-Medium = Sobreviva ao Snatcher 4 minutos
-Long = Sobreviva ao Snatcher 6 minutos
+Medium = Sobreviva ao Snatcher por 4 minutos
+Long = Sobreviva ao Snatcher por 6 minutos
 Objective_Easy = Sobreviva ao Snatcher por 1 minutos
 Medium_Easy = Sobreviva ao Snatcher por 2 minutos
 Long_Easy = Sobreviva ao Snatcher por 3 minutos
