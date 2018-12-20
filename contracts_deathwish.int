@@ -40,12 +40,12 @@ Tip0 = Quando eu falo 10 segundos, é porque é 10 segundos mesmo! Melhor correr
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
 Title = Brecha de Segurança
-Objective = Infiltre o Estúdio Dead Bird
+Objective = Infiltre no Estúdio Dead Bird
 NoCaught = Termine sem ser pego
 NoFees = Termine com menos de 200.000 em multas
 NoFees_Easy = Termine com menos de 600.000 em multas
 Condition = A segurança foi reforçada significativamente
-Tip0 = Essa vai ser sua tarefas mais difícil de todas: [name]Não ser um incômodo![/name]
+Tip0 = Esta vai ser sua tarefa mais difícil de todas: [name]Não ser um incômodo![/name]
 
 [Hat_SnatcherContract_DeathWish_HeatingUpHarder]
 Title = Vença o Calor
@@ -97,12 +97,12 @@ Tip0 = Não esqueça de fazer intervalos! Não se mover por longos períodos de 
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = Collect-a-thon
-Objective = Simplesmente pegue 100 Gemas
+Objective = Apenas pegue 100 Gemas
 NoBoxes = Não quebre nenhuma caixa ou barril
 FewPons = Não pegue mais que 200 Gemas no total
 Condition = Gemas coletadas drenam com o tempo
-Tip0 = Não pare de coletar Gemas, garotinha! Fique de olho em caixas, barrís, inimigos e outras coisas que você pode [name]quebrar[/name] para pegar muitas Gemas de uma vez!
-EasyTip = Quebre caixas e barrís!
+Tip0 = Não pare de coletar Gemas, garotinha! Fique de olho em caixas, barris, inimigos e outras coisas que você pode [name]quebrar[/name] para pegar muitas Gemas de uma vez!
+EasyTip = Quebre caixas e barris!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
 Title = Moedas do Snatcher em Cidade Mafiosa
@@ -167,8 +167,8 @@ Title = Rush! - Máfia de Cozinheiros
 Objective = Escape da fenda Máfia de Cozinheiros
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos faltando
-Faster_Easy = Escape com 15 segundos faltando
+Faster = Escape com 30 segundos restantes
+Faster_Easy = Escape com 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse pegar eles mais facilmente...
 
@@ -177,8 +177,8 @@ Title = Rush! - Estúdio Dead Bird
 Objective = Escape da fenda Estúdio Dead Bird
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos faltando
-Faster_Easy = Escape com 15 segundos faltando
+Faster = Escape com 30 segundos restantes
+Faster_Easy = Escape com 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
@@ -187,8 +187,8 @@ Title = Rush! - Subcon Sonolenta
 Objective = Escape da fenda Subcon Sonolenta
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos faltando
-Faster_Easy = Escape com 15 segundos faltando
+Faster = Escape com 30 segundos restantes
+Faster_Easy = Escape com 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse você pegar eles mais facilmente...
 
@@ -197,8 +197,8 @@ Title = Rush! - Alpine Skyline
 Objective = Escape da fenda Alpine Skyline
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos faltando
-Faster_Easy = Escape com 15 segundos faltando
+Faster = Escape com 30 segundos restantes
+Faster_Easy = Escape com 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
@@ -207,8 +207,8 @@ Title = Rush! - Fundo do Mar
 Objective = Escape da fenda Fundo do Mar
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
-Faster = Escape com 30 segundos faltando
-Faster_Easy = Escape com 15 segundos faltando
+Faster = Escape com 30 segundos restantes
+Faster_Easy = Escape com 15 segundos restantes
 Condition = A Fenda Temporal ficou instável!
 Tip0 = Se sentindo perdida? Se apenas você tivesse [icon:camerabadge] [name]algo[/name] que deixasse você parar e dar uma olhada em volta...
 
@@ -231,7 +231,7 @@ Objective_Easy = Sobreviva ao Snatcher por 1 minutos
 Medium_Easy = Sobreviva ao Snatcher por 2 minutos
 Long_Easy = Sobreviva ao Snatcher por 3 minutos
 Condition = Dessa vez, sem poções azuladas!
-Tip0 = Qual é, garota! Vamos ser amiguinhos! Que tal eu não jogar nenhuma poção azul em você e você não me atingir com seu guarda-chuva. Fechado?
+Tip0 = Qual é, garota! Vamos ser amiguinhos! Que tal eu não jogar nenhuma poção azul em você e você não me atingir com seu guarda-chuva? Fechado?
 
 [Hat_SnatcherContract_DeathWish_HardCastle]
 Title = O Bigode do Infinito
@@ -276,8 +276,8 @@ Tip0 = Parece que esse trouxa está sendo um pouco mais cuidadoso com o corpo no
 
 [Hat_SnatcherContract_DeathWish_BirdBossEX]
 Title = Matando dois Pássaros
-Objective = Derrote os dois Diretores
-Fast = Vença com mais de 100 segundos faltando no cronômetro
+Objective = Derrote os dois diretores
+Fast = Vença com mais de 100 segundos restantes no cronômetro
 BestBird = Ataque apenas um diretor até o finalzinho
 Condition = Esse projeto é uma colaboração...
 Tip0 = Tem muita coisa acontecendo aqui, mas não se distraia![br]Lembre-se, garota: um pássaro na mão é melhor que dois voando!
@@ -295,7 +295,7 @@ Title = Sem Mais Caras Maus
 Objective = Derrote a Garota do Bigode
 NoHat = Não use nenhuma das suas habilidades de chapéu estúpidas!
 Time = Não fique mais do que 3 minutos na Zona Hyper
-Condition = Ela roubou um monte dessa peças temporais estranhas!
+Condition = Ela roubou um monte dessas peças temporais estranhas!
 Tip0 = Não vá que nem uma doida em cima dela como você faz. Tente ficar viva e aprender a [name]desviar dos ataques dela[/name] primeiro.
 
 [Hat_SnatcherContract_DeathWish_KillEverybody]
@@ -304,7 +304,7 @@ Objective = Mate 5 mafiosos sem levar um soco
 NoBully = Mate 10 corvos empurrões sem levar um empurrão
 KillEmAll = Mate um inimigo de cada tipo
 Condition = Eles já sabem de tudo!
-Tip0 = Certifique-se de matar [name]todo mundo[/name] dessa lista, certo? Alguns desses são difíceis de encontrar. Você deve ter que olhar em [name]diferentes capítulos[/name].
+Tip0 = Certifique-se de matar [name]todo mundo[/name] dessa lista, certo? Alguns são difíceis de encontrar. Você deve ter que olhar em [name]diferentes capítulos[/name].
 
 [Hat_SnatcherContract_DeathWish_EndlessTasks]
 Title = Andar a Ver Navios
@@ -341,7 +341,7 @@ Condition = Contribuído por Eric 'Jak' Ridge
 Objective = Termine a Fenda Temporal
 AllPons = Pegue todas as Gemas da Fenda
 AllPages = Pegue todas as páginas do livro.
-Tip0 = Pare de soar esses sinos, criança. Está me dando dor de cabeça.
+Tip0 = Pare de tocar esses sinos, criança. Está me dando dor de cabeça.
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_MountainRift]
 Title = Fenda da Comunidade: A Fenda da Montanha
