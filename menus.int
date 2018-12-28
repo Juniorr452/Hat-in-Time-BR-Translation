@@ -494,7 +494,7 @@ ItemUnlock_Equip = EQUIPAR
 [InventoryCamera]
 Help_TakePicture = Tirar Foto
 Help_ChangeFilter = Trocar Filtro
-Help_ChangeDoF = Trocar Profundidade de Campo
+Help_ChangeDoF = Ajustar Profundidade de Campo
 Help_EnableDoF = Ativer Profundidade de Campo
 Help_DisableDoF = Desativar Profundidade de Campo
 Help_Exit = Sair
