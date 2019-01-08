@@ -2,4 +2,4 @@
 SplashScreen_CopyrightInfo=Copyright © 2013-2017   Gears for Breakfast, Aps.   Todos os direitos reservados.
 
 [Errors]
-NoDownload=Você não pode se juntar à partida porque o anfitrião possui conteúdo adicional que você não possui, ou o seu conteúdo está desatualizado ('`~').
+NoDownload=Você não pode se juntar à partida porque o host ou tem DLCs que você não possui, ou o seu conteúdo está desatualizado ('`~').

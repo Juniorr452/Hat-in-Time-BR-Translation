@@ -12,26 +12,26 @@ chase1 = [shake2]O que vai fazer? Sabe, você não pode [hint]machucar uma sombr
 givekey0 = [shake2]Quer a chave? Toma, é sua![/shake2]
 givekey1 = [shake2]Não preciso dela mesmo... e nem você vai precisar dela quando ela te pegar! [wave]HA HA HA![/wave][/shake2]
 
-enter_manor_hascontract0 = [shake2]Eeeeeeei amiguinha! Lembre-se do nosso contrato, sem abilidades aqui dentro![/shake2]
+enter_manor_hascontract0 = [shake2]Eeeeeeei amiguinha! Lembre-se do nosso contrato, sem habilidades aqui dentro![/shake2]
 enter_manor_hascontract1 = [shake2]Tem algumas... coisas... aí dentro em que eu não quero que você mexa! Lembre-se das suas obrigações contratuais![/shake2]
 
 [subconforest]
-scooter_intro0 = [shake2]BOOOOOOOM DIA! Preparada pra completar suas obrigações contratuais?[/shake2]
-scooter_intro1 = [shake2]Não sou sem coração! De vez em quando eu vou escondido nas caixas de correio e roubo as cartas, para então entregar elas pros meus minions. Desse jeito, é como se alguém se importasse com eles![/shake2]
+scooter_intro0 = [shake2]BOM DIAAAAAAA! Preparada pra completar suas obrigações contratuais?[/shake2]
+scooter_intro1 = [shake2]Não sou um sem coração! De vez em quando, vou escondido nas caixas de correio e roubo as cartas para então entregar elas pros meus minions. Desse jeito, é como se alguém se importasse com eles![/shake2]
 scooter_intro2 = [shake2]Mas nosso último carteiro foi embora [wave]*poof*[/wave]. Você vai ter que fazer o trabalho dele![/shake2]
 scooter_intro3 = [shake2]Tenho um 'presente' para a ocasião. Mas ele requer um chapéu especial para ser usado - Espero que você tenha ele! [wave]Ha ha ha![/wave][/shake2]
 
 scooter_onenter0 = [shake2]Essa [icon:badge][name]insígnia[/name] é de aluguel. Preciso dela antes de você ir embora! Lembre-se de colocar seu [icon:sprinthat][name]Chapéu de Corrida[/name], ou ela não vai fazer absolutamente nada! [wave][scream]HA HA HA HA HA!![/scream][/wave][/shake2]
-scooter_onenter1 = [shake2]Todos os minions que estiverem esperando suas cartas vão ter [hint]um ícone em cima deles[/hint]. Volte aqui quando tiver terminado.[/shake2]
+scooter_onenter1 = [shake2]Todos os minions que estiverem esperando suas encomendas vão ter [hint]um ícone em cima deles[/hint]. Volte aqui quando tiver terminado.[/shake2]
 
 [contract_initial]
 intro0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake]
 intro1 = [shake][big][scream][wave]TROOOOOOOOOOOOOOOOOOOOOUXA!![/wave][/scream][/big][/shake]
 intro2 = [shake2]Você caiu nessa! Se ferrou todinha! Ninguém entra na minha casa e sai para contar história![/shake2]
-intro3 = [shake2]Mas vou te contar! Espera só! Você vai viver! Isso mesmo! Que sorte, não?![/shake2]
-intro4 = [shake2]Normalmente eu comeria sua alma e jogaria seu corpo fora, mas você foi sortuda! Ganhou na loteria, porque aconteceu de eu estar precisando de outro servo![/shake2]
-intro5 = [shake2]Isso mesmo! O outro acabou morrendo, a cabeça dele caiu do lugar, e agora preciso de outro ajudante![/shake2]
-contract_appear0 = [shake2]Então vou te contar, tenho um papel aqui! Não se preocupe com os detalhes! Só preciso que assine bem aqui embaixo![/shake2]
+intro3 = [shake2]Mas vou te falar! Espera só! Você vai viver! Isso mesmo! Que sorte, não?![/shake2]
+intro4 = [shake2]Normalmente, eu comeria sua alma e jogaria seu corpo fora, mas você foi sortuda! Ganhou na loteria, porque aconteceu de eu estar precisando de outro servo![/shake2]
+intro5 = [shake2]Isso mesmo! O outro acabou morrendo, a cabeça dele saiu do lugar e agora preciso de outro ajudante![/shake2]
+contract_appear0 = [shake2]Então olhe só, tenho um papel aqui! Não se preocupe com os detalhes! Só preciso que assine bem aqui embaixo![/shake2]
 
 contract_disagree_retry = Deixe-me reconsiderar...
 contract_disagree_decline = Não vou assinar!
@@ -75,7 +75,7 @@ breakice8 = [shake2]Pode ficar com ela, mas essa é a primeira e última vez que
 [contract_generic_trap]
 trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]TROOOOOOOOOooo... não, pera, é você?[/shake2]
 trapA1 = [shake2]Eu meio que tava esperando uma nova vítima cair na armadilha. Já peguei sua alma e tudo mais. Você ao menos terminou suas obrigações contratuais?[/shake2]
-trapA2 = [shake2]Não leve pro lado pessoal, criança, mas fique longe das minhas armadilhas. Minha voz não aguenta ficar gritando desse jeito várias vezes. Você está tirando a experiência de outras pessoas.[/shake2]
+trapA2 = [shake2]Não leve pro lado pessoal, criança, mas fique longe das minhas armadilhas. Minha voz não aguenta ficar gritando tantas vezes desse jeito. Você está tirando a experiência de outras pessoas.[/shake2]
 trapA3 = [shake2]Ah, mas já que você caiu na minha armadilha, eu posso também extender nosso negócio![/shake2]
 trapA4 = [shake2][small]*cof*[/small][/shake2][br] [br][shake][big][scream][wave]TROOOOOOOOOOOOOOOOOOOOOUXA!![/wave][/scream][/big][/shake]
 trapA5 = [shake2]Você entrou na minha floresta, e agora deve pagar o preço![/shake2]
@@ -99,7 +99,7 @@ home_businessconcluded = [shake2]Garota, nosso negócio está concluído. Não v
 
 wheretogo_subconwell0 = [shake2]Era pra você estar limpando o poço, criança. Fica bem no interior do pântano, mas é grande o bastante para uma baixinha como você conseguir achar. Só tenta não tropeçar e bater a cabeça no fundo... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
-postfinale0 = [shake2]Você denovo? Achei que tinha deixado bem claro da última vez, garotinha.[/shake2]
+postfinale0 = [shake2]Você de novo? Achei que tinha deixado bem claro da última vez, garotinha.[/shake2]
 postfinale1 = [shake2]Estamos terminados. Acabou. Nossa relação terminou. Não vou mais gastar meu tempo com você![/shake2]
 
 postfinale2 = [shake2][wave][scream][big]Agora caia fora da minha floresta![/big][/scream][/wave][/shake2]
@@ -109,16 +109,16 @@ intro0 = [shake2]Espera aí, criança. Lembra que a cabeça do outro contratante
 intro1 = [shake2]Aquilo não foi uma coincidência. Ela saiu fora no momento que ele parou de ser útil para mim.[/shake2]
 intro2 = [shake2]Adivinha quem mais se tornou obsoleta? Isso mesmo. Você.[/shake2]
 intro3 = [shake2]Agora que aquele banheiro possuído não está me incomodando, e todos aqueles seus contratos já foram concluídos... Eu não preciso mais de você.[/shake2]
-intro4 = [shake2]Além disso, você não achou que eu ia te deixar ficar com todas essas [icon:timepiece][timepiece]Peças Temporais[/timepiece], achou? Elas cairam na minha floresta, criança! Elas pertencem a [scream]MIM[/scream].[/shake2]
+intro4 = [shake2]Além disso, você não achou que eu ia te deixar ficar com todas essas [icon:timepiece][timepiece]Peças Temporais[/timepiece], achou? Elas caíram na minha floresta, criança! Elas pertencem a [scream]MIM[/scream].[/shake2]
 intro6 = [shake2]Hora de mostrar do que eu realmente sou capaz, garota. Diga adeus para essa sua cabecinha![/shake2]
 
 Derp0 = É assim que[br]você se parece![br]Você é uma idiota!
 Derp1 = E você fede!
 
 blue0 = [shake2]Você provavelmente está esperando eu ficar azul, não é?[/shake2]
-blue1 = [shake2]Desculpa garotinha, azul não combina comigo.[br]E acho que isso me faz invencível, hã?[br]É uma pena! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+blue1 = [shake2]Desculpa garotinha, azul não combina comigo.[br]E acho que isso me faz invencível, né?[br]É uma pena! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
-Chemicals0 = [shake2]Vamos ver[br]alguns desses![/shake2]
+Chemicals0 = [shake2]Vamos ver[br]se desvia desses![/shake2]
 Chemicals1 = [shake2]Não é o bastante?[br]Vamos ver 1,000![/shake2]
 Chemicals2 = [shake2]Muitos, é?[br]Vamos tentar só um![/shake2]
 Chemicals3 = [shake2]Não, espera aí.[/shake2]
@@ -128,8 +128,8 @@ Chemicals6 = [shake2]Estou feliz que[br]tenha reconsiderado![/shake2]
 Chemicals7 = [shake2]Você é meio rude,[br]não é?[/shake2]
 
 turned_blue0 = [shake2]...[/shake2]
-turned_blue1 = [shake2]Você acabou de me colorir de azul com meu próprio ataque?[/shake2]
-turned_blue2 = [shake2]Isso não pode contar, certo? Com certeza não conta?[/shake2]
+turned_blue1 = [shake2]Você acabou de me pintar de azul com meu próprio ataque?[/shake2]
+turned_blue2 = [shake2]Isso não vale, certo? Com certeza não vale?[/shake2]
 turned_blue3 = [shake2]Já chega, hora de você [scream][wave]MORRER[wait][/wave][/scream].[/shake2]
 
 Cherry0 = [shake2]Oh não![/shake2]
@@ -163,11 +163,11 @@ contract_soul_return = Você pegou sua alma de volta! Você se sente aliviada, e
 outside0 = [shake2]Ei criança! Como que está aquela sua alma? Ainda chacoalhando aí dentro?[/shake2]
 outside0b = [shake2]Espera. Até que você não conseguiu ela de volta, conseguiu?[/shake2]
 outside1 = [shake2]Eu adoraria saber quem é que pensa que é grande o suficiente para [wave]me[/wave] julgar! E daí que eu peguei algumas [small]centenas[/small] de almas - grande coisa![/shake2]
-outside2 = [shake2]Faça um favor para todos nós, criança! Vá ver quem é essa que acha que é melhor do que nós! E bata nela![/shake2]
+outside2 = [shake2]Faça um favor para todos nós, criança! Vá ver quem é essa que acha que é melhor que nós! E bata nela![/shake2]
 outside3 = [shake2]Eu não costumo defender esse tipo de coisa, mas isso é bem autoritário![/shake2]
 group_counter0 = [shake2]Essa realidade alternativa fede! Dá o fora![/shake2]
-cherrybombs0 = [shake2]Vamos assinar um contrato e fazer essa garota cair fora, de uma vez por todas![/shake2]
-cherrybombs1 = [shake2]Hahaha! Muito bem, vamos lá. Eu crio, você joga![/shake2]
+cherrybombs0 = [shake2]Vamos fazer um contrato e fazer essa garota cair fora, de uma vez por todas![/shake2]
+cherrybombs1 = [shake2]Hahaha! Muito bem, vamos lá. Eu faço, você joga![/shake2]
 
 suicide0 = [shake2]Nós não PRECISAMOS de um herói! Caia fora![/shake2]
 

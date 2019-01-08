@@ -1,12 +1,12 @@
 [murder]
-FirstTip0 = [shake2]Alô? É a garotinha do chapéu? Espero que goste do meu presente... [wave]he he he.[/wave][/shake2]
+FirstTip0 = [shake2]Alô? É a garota do chapéu? Espero que goste do meu presente... [wave]he he he.[/wave][/shake2]
 FirstTip1 = [shake2][hint]Vá para o fim do trem[/hint]. A irmã do seu tio, [MotherMaidenName], veio te visitar.[/shake2]
 FirstTip2 = [shake2]Acho melhor você mostrar que ama sua família, ou na próxima eu irei estar falando com um cadáver.[/shake2]
 FirstTip3 = [scream]*CLICK*[/scream]
 
 SecondTip0 = [shake2]Então você acha mesmo que pode ficar simplesmente andando pelo trem?[/shake2]
 SecondTip1 = [shake2]Pare de bancar a detetive. Você nunca vai encontrar o verdadeiro assassino...[br][wave]he he he.[/wave][/shake2]
-SecondTip2 = [shake2]Você não tem como acusar alguém sem pistas.[br]O tempo tá passando. Será que você consegue achar pistas o suficiente pra encontrar o assassino?[/shake2]
+SecondTip2 = [shake2]Você não tem como acusar alguém sem pistas.[br]O tempo está passando. Será que você consegue achar pistas o suficiente pra encontrar o assassino?[/shake2]
 
 PetTrap0 = [shake2]Você não desiste, não é mesmo?[/shake2]
 PetTrap1 = [shake2]Parece que o único jeito de me livrar de você... é fazer você ficar sem tempo.[/shake2]
@@ -32,6 +32,6 @@ hub_alert_generic0 = ...
 hub_alert_generic1 = A premiação do [icon:trophy][trophy]prêmio aviário de filmes[/trophy] foi uma fraude. Foi tudo manipulado.
 hub_alert_dj2 = Quem ganhou sabe do poder das [icon:timepiece][timepiece]Peças Temporais[/timepiece]. Ele tem uma guardada, e vai quebrá-la.
 hub_alert_conductor2 =  Quem ganhou sabe do poder das [icon:timepiece][timepiece]Peças Temporais[/timepiece]. Ele tem uma guardada, e vai quebrar ela.
-hub_alert_generic3 = A verdade está escondida nos confins do [hint]Dead Bird Studios[/hint].[br]O que acontece no Dead Bird Studios quando não há ninguém por perto?
+hub_alert_generic3 = A verdade está escondida nos confins do [hint]Estúdio Dead Bird[/hint].[br]O que acontece no Estúdio Dead Bird quando não há ninguém por perto?
 hub_alert_dj4 = Exponha a verdade por trás disso tudo, fofa.
 hub_alert_conductor4 = Exponha a verdade por trás disso tudo, guria.

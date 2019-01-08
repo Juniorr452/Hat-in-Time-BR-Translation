@@ -14,9 +14,9 @@ GenericYarnSuffix = Lã
 GenericHatSuffix = Chapéu
 
 [trigger_abilities]
-BadgeCollect0 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado; apenas [yarn][badgepoints_left][/yarn] para completar!
-BadgeCollect1 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado, e você possui [yarn][badgepoints_player][/yarn]! Pressione [button:start] para abrir o menu, onde você pode costurá-lo!
-BadgeCollect2 = É necessário [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para costurar!
+BadgeCollect0 = É(São) necessária(s) [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado; apenas [yarn][badgepoints_left][/yarn] para completar!
+BadgeCollect1 = É(São) necessária(s) [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para ser costurado, e você possui [yarn][badgepoints_player][/yarn]! Pressione [button:start] para abrir o menu, onde você pode costurá-lo!
+BadgeCollect2 = É(São) necessária(s) [yarn][badgepoints_required] [icon:yarn]lã(s)[/yarn] para costurar!
 BadgeCollect3 = Você possui [yarn][icon:yarn]lãs[/yarn] o suficiente para costurá-lo!
 BadgeCollect4 = Você já possui este chapéu, mas você ganhou [yarn]+1 [icon:yarn]lã[/yarn] mesmo assim!
 
@@ -25,8 +25,8 @@ UnknownDescLocked0 = Sem descrição.
 UnknownDescTech0 = Este chapéu não parece ser útil.
 
 SprintName = Chapéu de Corrida
-SprintDescLocked0 = Esta lã está parecendo pronta para correr!
-SprintDescLockedHat = Este chapéu está parecendo pronto para correr!
+SprintDescLocked0 = Esta lã parece prontinha para correr!
+SprintDescLockedHat = Este chapéu parece pronto para correr!
 SprintDesc0 = Segure [button:badge] para correr!
 
 StatueFallName = Chapéu de Gelo
@@ -54,7 +54,7 @@ FoxMaskDescFun0 = Esta é uma lã assustadora!
 FoxMaskDescHat0 = Esta é uma máscara assustadora!
 FoxMaskDescTech0 = Pressione [button:badge] para ver o mundo pelos olhos de um[br]habitante!
 
-DetectiveHatName = Roupa de Solucionar Crimes
+DetectiveHatName = Roupa de Detetive
 DetectiveHatDesc0 = Hora de solucionar o crime! Cuidado com esta pequena detetive!
 
 ParadeHatName = Roupa de Desfile
@@ -68,9 +68,9 @@ UnknownDescTech0 = Esta habilidade não parece ser útil.
 OneHitDeathName = Insígnia Hit Kill
 OneHitDeathDesc0 = Você morre em um golpe. Apenas para os corajosos!
 
-SuckInOrbsName = Insígnia de Ímã de Itens
+SuckInOrbsName = Insígnia Ímã de Itens
 SuckInOrbsFun0 = Item fora de alcance? Não é mais um problema!
-SuckInOrbsTech0 = Automaticamente atraia [br]colecionáveis próximos!
+SuckInOrbsTech0 = Atraia itens próximos [br]automaticamente!
 
 AttackProjectileName = Insígnia de Projétil
 AttackProjectileDescFun0 = Insígnia de Projétil
@@ -93,7 +93,7 @@ MumbleBadgeName = Insígnia de Resmungo
 MumbleBadgeDesc0 = Tampa seus ouvidos, agora você só pode ouvir vagos resmungos!
 
 HookshotBadgeName = Insígnia de Arpéu
-HookshotBadgeDesc0 = Pressione e segure [button:attack] para se balançar de ganchos!
+HookshotBadgeDesc0 = Pressione e segure [button:attack] para se balançar com o gancho!
 
 FindRelicsBadgeName = Insígnia de Encontrar Relíquias
 FindRelicsBadgeDesc0 = Mostra um mapa para [icon:relic] próximas!
@@ -102,13 +102,13 @@ CompassBadgeName = Insígnia de Compasso
 CompassBadgeDesc0 = Aponta para [icon:relic] [icon:token] próximos quando você estiver parada!
 
 NoFallDamageBadgeName = Insígnia Flutuante
-NoFallDamageBadgeDesc0 = Abra seu guarda-chuva automa-[br]ticamente antes de cair no chão!
+NoFallDamageBadgeDesc0 = Abre seu guarda-chuva[br]antes de você cair[br]no chão!
 
 NoBonkBadgeName = Insígnia Anti-Pancada
-NoBonkBadgeDesc0 = Sem mais pancadas na parede durante investidas!
+NoBonkBadgeDesc0 = Sem mais pancadas na parede durante mergulhos!
 
 HatCooldownBonusBadgeName = Insígnia do Chapeleiro Veloz
-HatCooldownBonusBadgeDesc0 = Significativamente reduz o tempo de recarga quando usar chapéus!
+HatCooldownBonusBadgeDesc0 = Reduz significativamente o tempo de recarga para usar chapéus!
 
 MirrorBadgeName = Insígnia de Espelho
 MirrorBadgeDesc0 = Odut ariv!
@@ -141,7 +141,7 @@ MaterialSkin_Desc0 = Mergulhe em tinta!
 WhiteRedSkinName = O Chefão
 RedWhiteSkinName = A Lua Sangrenta
 GreenOrangeSkinName = O Quebra-nozes
-BlueYellowSkinName = Torta de Blueberry
+BlueYellowSkinName = Torta de Mirtilo
 BlackSkinName = A Viúva
 CaptainName = Capitão do Mar
 WahooName = O Grande Apetite
@@ -203,7 +203,7 @@ SilhouetteName = Silhueta
 HazeName = Névoa
 ColdName = Frio
 MangaName = Nani!?
-PosterName = Poster de Filme
+PosterName = Pôster de Filme
 
 [decorations]
 DecorationMatch = Combinou! Você identificou uma relíquia desse planeta estranho!
@@ -222,19 +222,19 @@ UFODesc0 = Mas o quê! Naves espaciais não são assim!
 UFODesc1 = Cadê a madeira? Por que está sugando vacas?
 UFODesc2 = Isso é humilhante! Vou processar!
 
-CrayonCompleteName = Kit de Graffiti Tricolor
-CrayonCompleteDesc0 = Isso foi feito para vandalismo. Definitivamente. Até eu me sinto forçada a pegá-los e desenhar em TUDO.
-CrayonCompleteDesc1 = Posso somente concluir que essa ferramenta de vandalismo deve ser ilegal.
-CrayonCompleteDesc2 = Isso faz com que essa relíquia seja extra rara. Se apenas a embalagem não tivesse sido aberta. Somente um monstro abriria a embalagem de um item raro.
+CrayonCompleteName = Kit de Giz Tricolor
+CrayonCompleteDesc0 = Isso com certeza foi feito para vandalismo. Até eu me sinto forçada a pegá-los e desenhar em TUDO.
+CrayonCompleteDesc1 = Posso apenas concluir que essa ferramenta de vandalismo deve ser ilegal.
+CrayonCompleteDesc2 = Isso faz com que essa relíquia seja super rara. Se apenas a embalagem não tivesse sido aberta. Somente um monstro abriria a embalagem de um item raro.
 
 BurgerCushionName = Dispositivo Terráqueo de Sentar
-BurgerCushionDesc0 = Pesquisas concluem que essa coisa é bastante macia para sentar em cima.
-BurgerCushionDesc1 = Tão macia, que a única conclusão lógica é que essas são as cadeiras desse planeta.
-BurgerCushionDesc2 = Não é um lanche. Eu tentei. Tem gosto de tecido.
+BurgerCushionDesc0 = Pesquisas concluem que essa coisa é bastante macia para sentar.
+BurgerCushionDesc1 = É tão macia que a única conclusão lógica é que essas são as cadeiras desse planeta.
+BurgerCushionDesc2 = Não é um lanche. Eu tentei comer. Tem gosto de tecido.
 
 CakeTowerName = Museu de Bolos
 CakeTowerDesc0 = Uma plataforma de metal chique feita para exibir bolos.
-CakeTowerDesc1 = Mas que tipo de pessoa ia só mostrar eles? Eles foram feitos pra comer!
+CakeTowerDesc1 = Mas que tipo de pessoa ia só exibi-los? Foram feitos pra comer!
 CakeTowerDesc2 = ... Eu não consigo alcançar os da prateleira de cima.
 
 [ItemQuality]

@@ -2,7 +2,7 @@
 yes = Com certeza!
 no = Nãoo!
 
-deckshard1 = Ei - isso não é gelo! Tem um fragmento nesse drink!
+deckshard1 = Ei - isso não é gelo! Tem um fragmento nessa bebida!
 
 smash0 = Hmm... o dano é sério. Ficou em mais pedaços do que um, o que é terrível.
 smash1 = Talvez você possa arrumar ela se encontrar todas os [hint]fragmentos que estão faltando[/hint].
@@ -27,7 +27,7 @@ no = Nãoo!
 [docks]
 binocs0 = Uau! Esse navio parece incrível! E seguro! Incrivelmente seguro, você diria.
 
-crates0 = A etiqueta na caixa lê 'PBR'. Quem quer que sejam, eles são bons em fazer coisas brilhantes.
+crates0 = A etiqueta na caixa diz 'PBR'. Quem quer que sejam, eles são bons em fazer coisas brilhantes.
 
 seals0 = Parece que eles estão se divertindo! [br]Mas eles provavelmente não deveriam ficar sem supervisão.
 

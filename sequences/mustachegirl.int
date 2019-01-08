@@ -1,22 +1,22 @@
 [chapter1muchase]
 tower0 = Ei você,[waitlong] aí embaixo! [waitlong][waitlong]Não pense que não vi você me perseguindo!
-tower1 = Nós crianças deveríamos andar juntas, não perseguir umas às outras. Quer dizer, a [name]Cidade Mafiosa[/name] pode ser um lugar bem perigoso! Então o quê que cê acha, quer se juntar à minha pequena rebelião?
-tower2 = Oh, a propósito, você tem alguma coisa a ver com o [timepiece][icon:timepiece]lixo[/timepiece] que caiu do céu? É? Caramba, parece que você tem um monte de limpeza pra fazer, hã?
-tower3 = Vou te contar, venha aqui e eu posso te mostrar onde um de seus [timepiece][icon:timepiece]lixos[/timepiece] caiu!
+tower1 = Nós, crianças, deveríamos andar juntas, não perseguir umas às outras. Quer dizer, a [name]Cidade Mafiosa[/name] pode ser um lugar bem perigoso! Então o quê que cê acha, quer se juntar à minha pequena rebelião?
+tower2 = Ah, a propósito, você tem alguma coisa a ver com o [timepiece][icon:timepiece]lixo[/timepiece] que caiu do céu? É? Caramba, parece que você muita limpeza pra fazer, né?
+tower3 = Vou te contar, venha aqui e eu posso te mostrar onde um dos seus [timepiece][icon:timepiece]lixos[/timepiece] caiu!
 
 tower_wrong_jump = Um pulo só não vai dar. Você vai precisar dobrar esse pulo!
 
 mu_follow0 = Siga-me,[br]esquadrão rebelde!
 
-umbrella_there0 = Ei! Acho que uma de suas [timepiece][icon:timepiece]peças lixosas[/timepiece] caiu e quebrou aquela fonte do mercado. Ficou bem destroçada.
+umbrella_there0 = Ei! Acho que uma das suas [timepiece][icon:timepiece]peças lixosas[/timepiece] caiu e quebrou aquela fonte do mercado. Ficou toda destroçada!
 umbrella_there1 = Quando for lá, só tente não fazer contato visual com os Mafiosos e você vai ficar bem. Boa sorte, camarada rebelde!
 umbrella_there2 = Até mais!
 
 [chapter1combat]
 grabbed0 = Cara, sai[br]de mim!!
 grabbed1 = Tô falando sério! Me põe no chão, seu idiota!
-grabbed2 = Que tipo de pessoa[br]fica segurando uma[br]garotinha inocente?!
-grabbed3 = Sua comida é ruim[br]e você é uma[br]pessoa má![br]Agora me deixa ir!!
+grabbed2 = Que tipo de pessoa[br]fica segurando uma garotinha[br]inocente?!
+grabbed3 = Sua comida é[br]ruim e você é uma pessoa[br]má! Agora me larga!!
 grabbed4 = Não vou a[br]lugar algum com você![br]Me deixa!!
 grabbed5 = Se você não me[br]soltar agora,[br]vou te morder!
 grabbed6 = Sai!
@@ -25,10 +25,10 @@ thrown0 = Argh!
 thrown1 = Não, não me jogueeeeeeeeeeee.....!
 
 battleend0 = Pfft. Dá pra acreditar? Que bando de perdedores.
-battleend1 = Ei. você está bem, criança nova. Você tem um nome?
+battleend1 = Ei, você está bem, garotinha. Tem um nome?
 battleend2 = Não? Você é tímida? Isso é legal. Você é uma criança do tipo 'menos conversa, mais porradaria', entendi.
-battleend3 = Essa [timepiece][icon:timepiece]coisa[/timepiece] que você pegou aí... você tá coletando elas? Porque eu sei onde tem mais delas.
-battleend4 = Elas estiveram caindo do céu desde quando você chegou. Eu vi os capangas levando elas pro quartel deles láaaa em cima.
+battleend3 = Essa [timepiece][icon:timepiece]coisa[/timepiece] que você pegou aí... você tá procurando por elas? Porque eu sei onde tem mais.
+battleend4 = Elas estiveram caindo do céu desde quando você chegou. Eu vi os capangas levando elas pro quartel deles láááá em cima.
 battleend5 = A gente devia ir lá em cima e pegar seu lixo! Vai ser divertido! Vou pegar qualquer oportunidade que envolve mexer com a Máfia.
 battleend6 = Tá comigo, companheira?
 
@@ -43,7 +43,7 @@ PreAwakening4 = Nós vamos esmagar eles juntos até virar mingau, e colocar os r
 PreAwakening5 = Então a gente vende o frasco por uns trocados! Essa vai ser a melhor cereja no bolo de todas!
 PreAwakening6 = ... [scream]*ahem*[/scream] Mas antes, temos que passar pelo [name]QG da Máfia[/name].
 PreAwakening7 = Assim que a gente encontrar e destronar o [name]Chefão da Máfia[/name], o resto vai vir em seguida. Então nosso mingau e frasco não serão problema!
-PreAwakening8 = Mas temos que te deixar preparada! Seu chapéu é básico, e nós não fazemos básico nessa gangue!
+PreAwakening8 = Mas temos que te deixar preparada! Seu chapéu é básico, e não aceitamos coisas básicas nessa gangue!
 PreAwakening9 = [hint][icon:yarn]Lãs[/hint] podem ser encontradas na Cidade Mafiosa e ser usadas para bordar novos chapéus se você for esperta. Eu peguei uma para você!
 PreAwakening10 = Você vai precisar de mais lãs para alguns chapéus do que outros. Acho que ser criativa não é de graça, hã? Então fique de olho em lãs!
 PreAwakening11 = Agora você é uma máquina de matar! Vamos pegar eles!!
@@ -52,7 +52,7 @@ PreAwakening11 = Agora você é uma máquina de matar! Vamos pegar eles!!
 outside0 = Você demorou para chegar! Me ajude aqui!
 outside1 = Tire esses brutos do meu pé e nós podemos ir lá dentro!
 outside2 = Bom trabalho, criança!
-outside3 = Bora![br]Hora do show[br]doida!
+outside3 = Bora![br]Hora do show,[br]doida!
 freezer0 = Vá em frente, criança! Abra essa coisa e eu vou ficar de guarda aqui.
 captured0 = Me solta,[br]seu psicopata!!
 mafia_ball_hint0 = Criança do chapéu![br]Acerta ele logo!
@@ -60,13 +60,13 @@ mafia_ball_hint1 = Qual é! Suba[br] e acerta ele!
 
 timepiecebreak0 = Então o que essas coisas fazem, afinal? Elas são algum tipo de item raro de colecionador para nerds?
 timepiecebreak1 = Elas são algum tipo de i... espera, hã?
-timepiecebreak2 = [big][scream]Wow, QUÊ?![/scream][/big]
+timepiecebreak2 = [big][scream]Uau, QUÊ?![/scream][/big]
 timepiecebreak3 = O... que, uhm... você sabia disso?
 proposal0 = [scream]Isso é loucura![/scream] Você tem ideia do que poderia ser feito com isso?
-proposal1 = Nós poderíamos fazer com que você nunca levasse um soco na cara do Máfia daquela vez!
-proposal2 = Nós poderíamos detonar a Máfia, voltar no tempo, e detonar eles denovo!
+proposal1 = Poderíamos fazer com que você nunca tivesse levado um soco na cara por aquele Mafioso daquela vez!
+proposal2 = Nós poderíamos detonar a Máfia, voltar no tempo, e acabar com eles de novo!
 proposal3 = Não, pera, nós poderíamos fazer com que a Máfia nunca tivesse chegado na ilha!
-proposal4 = Pera, pera, pera, melhor ainda! Nós poderíamos ser combatentes do crime viajantes do tempo!
+proposal4 = Pera, pera, pera, melhor ainda! Nós poderíamos ser viajantes do tempo que lutam contra o crime!
 tantrum0 = Espera, quê?! Isso não faz sentido nenhum!
 tantrum1 = Você tem todo esse poder, e não vai usar ele para lutar contra o mal?
 tantrum2 = Se você não vai usar eles para lutar contra o mal... então eu vou!
@@ -80,8 +80,8 @@ intro2 = Chega dela, vamos falar sobre mim!
 intro3 = Minha vez de brilhar!
 
 [MuMission_Finale]
-intro0 = Tudo bem, estou dentro! Consegui! Eu infiltrei na espaçonave daquela criança sem disparar o alarme.
-intro1 = Eu aposto que ela coletou muito mais [timepiece][icon:timepiece]Peças Temporais[/timepiece] do que eu tenho... agora, onde ela guarda eles?
+intro0 = Tudo bem, tô dentro! Consegui! Eu infiltrei na espaçonave daquela criança sem disparar o alarme.
+intro1 = Aposto que ela coletou muito mais [timepiece][icon:timepiece]Peças Temporais[/timepiece] do que eu... agora, onde ela as guarda?
 vault0 = Bingo! Deve ser aqui que ela guarda todas elas!
 vault1 = Ughn....!
 vault2 = Hora de mexer um pouquinho com o tempo!
@@ -136,9 +136,9 @@ snatcher20_mu = Wha?! Hey!
 snatcher21_sn = Children these days.
 
 [finale]
-plead0 = Oh wow, que história tocante. Brincadeira! Cara mau! PRÓXIMO!
+plead0 = Uau, que história tocante. Brincadeira! Cara mau! PRÓXIMO!
 plead1 = Eu disse, PRÓXIMO!
-plead2 = Oh, é você!
+plead2 = Ah, é você!
 plead3 = Você foi uma pestinha bem egoísta. Mas né! Você não ficou bem no meu caminho. Você pode ir, você é uma boa pessoa, eu acho.
 plead4 = Vá. Você pode viver.
 plead5 = Próximo!
@@ -146,15 +146,15 @@ plead5 = Próximo!
 slap0 = [scream]COM LICENÇA?[/scream]
 slap1 = Não se atreva a chegar perto de mim. Acho que você não entendeu bem quem está no comando, mocinha.
 slap0_alt = [scream]PATÉTICO![/scream]
-slap2 = Sabe, eu estava disposta a perdoar você. Eu pensei uma vez que iríamos ser melhores amigas.
+slap2 = Sabe, eu estava disposta a perdoar você. Pensava que iríamos ser melhores amigas.
 slap3 = Mas NÃO, você ficou podre e egoísta. Salvar o planeta de caras maus? Pfft, quem precisa disso, estou certa?
 slap4 = Olhe tudo o que fiz sem você. Eu restaurei a justiça. Eu SOU a justiça. Sem mais caras maus, nunca.
-slap5 = Eu não preciso de você. Esse planeta não precisa de você. Ninguém vai sentir saudades de você, e ninguém vai ligar.
+slap5 = Não preciso de você. Esse planeta não precisa de você. Ninguém vai sentir saudades de você, e ninguém vai ligar.
 slap6 = VOCÊ é a cara má, e eu vou mostrar como esse sistema de justiça lida com caras maus.
 
 leaving0 = Sério? Você está saindo? Nem mesmo vai tentar uma luta? Patético.
 
-group_counter0 = O, quê? Mas eu estou concertando tudo! Sem mais caras maus! Por que você não consegue ver que estou fazendo isso por todos nós!?
+group_counter0 = O, quê? Mas eu estou consertando tudo! Sem mais caras maus! Por que você não consegue ver que estou fazendo isso por todos nós!?
 group_counter1 = Como você pode defender essas pessoas? Eles são bandidos! Criminosos! E você está... ajudando eles?
 group_counter2 = Isso termina agora!
 

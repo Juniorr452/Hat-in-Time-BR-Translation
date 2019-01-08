@@ -7,9 +7,9 @@ Hostage1 = ... mas pode ficar com tudo que encontrar no caminho!
 
 [Hat_SnatcherContract_IceWall]
 Title = Limpe o Poço de Subcon
-SubconVillage = Encontre a Vila de Subcon
+SubconVillage = Encontre a Vila Subcon
 KillFireSpirits = Mate os Espíritos
-SubconWell = Limpe o Poço de Subcon
+SubconWell = Limpe o Poço Subcon
 BreakIce = Quebre o Gelo
 FlowBloom = Faça as Flores Florescerem
 
@@ -21,13 +21,13 @@ BonfireBlue = Acenda a Fogueira Azul
 BonfirePurple = Acenda a Fogueira Roxa
 
 [Hat_SnatcherContract_Vanessa]
-Title = Me traga algo da mansão
+Title = Traga-me algo da mansão
 EnterManor = Entre na Mansão
 CompleteManor = Descubra o que há no sótão
 
 [Hat_SnatcherContract_MailDelivery]
-Title = Entregue a Correspondência de Subcon
-Deliver = Entregue pacotes para 10 de meus criados
+Title = Entregue as Correspondências de Subcon
+Deliver = Entregue encomendas para 10 de meus criados
 
 [Hat_SnatcherContract_Toilet]
 Title = Privada da Perdição
