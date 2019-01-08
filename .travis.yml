@@ -1,0 +1,22 @@
+language: generic
+
+before_deploy:
+- echo 'Installing gulp...'
+- npm install -g gulp-cli
+- npm install --save-dev gulp
+- npm install --save-dev gulp-convert-encoding
+- npm install --save-dev gulp-zip
+- npm install --save-dev gulp-rename
+- gulp build
+- ls
+
+deploy:
+  provider: releases
+  skip_cleanup: true
+  api_key:
+    secure: SEuasA5/0pkHTSxPoxtNfgnz4jwVTbJehoxYjW+HIff7fS1Pq7tVX15d6I0n0IOWR+b/WymImRFzXB9Z+qKUABbNEbOLF9LCVGtHPcqcRRExuV32dEQhFva9k8quJWckcosOoDmDH8fmtLrfLZrXqnR1ZZ/GerIOxciNZTj2Xq/cQsaAFcui8iwBsAiWSztFmmTRH27Zxxl6zlXuWT4Lt4O5xHm+8gr6/rmyDzDYtzJOhP8eFOpXV6I8RYoiCkefxXxgt1EEYAyFFxh6w/x1AlDk19Aq4KZnma4sWXPOIpKWsoZ9UJs3GGnl/hoGZsUb2IRWlbYEnv4DUSBR1t/sdQ45+lBi3oq5OCAMLRYk8WEPtWcflnUf8HeLjTCaa57f9vAS6mNIGBNXdDu1u77yBOPFOU3EExp3qY/heGHZ6rqFO5dDqL9OvU3ZnOkgYwQXryjD1YrRe/qJkPZFowSsyeG2E0XZ7jikNPeePHJTbxlQdGAXmPazxwpuuKZRRsZ92T2/dsarkcgnxMoIu2+c1jP+ELesUTM0rdyrKLqzS0D0WWj+Ut6FCbc3YhspRokhde83rN7AcSgAQAB9lT1EqVOCj87r2U0KommdojQySl57jxsKi0DfvXO/PHd3Pwit3y3IKae8oTYLecDXIOBS8F1mI72767A6oXaX5gqaJk0=
+  file_glob: true
+  file: build/**
+  on:
+    repo: Juniorr452/Hat-in-Time-BR-Translation
+    tags: true
