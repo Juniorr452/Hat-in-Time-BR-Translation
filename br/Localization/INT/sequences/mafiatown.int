@@ -1,0 +1,39 @@
+[umbrella]
+umbrella_back0 = Você pegou seu [name]guarda-chuva[/name] de volta![br]Use-o para espancar qualquer um que der uma de metido a besta!
+umbrella_back1 = Aperte [button:attack] para atacar!
+
+[act1postbattle]
+dotdotdot = . . .
+
+[impossible_race]
+MaybeWait0 = Nem todos os atos podem ser completados assim que forem desbloqueados.[br]Em alguns casos você poderá precisar de um item especial.
+MaybeWait1 = Não precisa ter vergonha de voltar para um ato mais tarde!
+
+[hq]
+window0 = Ainda está chovendo lá fora.
+window1 = É muito mais confortável assistir de dentro.
+slotmachine0 = Parece que essa máquina aceita apenas a moeda local, e você esqueceu de passar na casa de câmbio.
+cans0 = Isso parece ser o que a Mafia chama de comida. Porém, isso com certeza não tem cheiro de comida.
+cans1 = Você poderia provar um pouco, mas você não tem certeza se isso é uma coisa que você quer que vá parar no seu obituário. 
+bigfish0 = Você resistiu a vontade de fazer trocadilhos com peixe. Foi difícil, já que você t[small]a[/small]inha tantas ideias boas.
+pilehidden0 = Tem uma alavanca enterrada nessa pilha de dinheiro estrangeiro não identificado! 
+pilehidden1 = Puxar?
+pile_q_yes = Sim!
+pile_q_no = Nem ferrando!
+pilehiddenpull0 = Você puxa a alavanca pra fora da pilha e guarda ela no seu bolso. Sua coleção de objetos cômicos cresce cada vez mais.
+pilehiddennopull0 = Você aprendeu na escola que não se deve ativar mecanismos estranhos encontrados em pilhas de ouro num planeta alienígena, e decide deixar a alavanca em paz.
+
+[fluff]
+door0 = Sai fora! Mafia assistindo programas. Ter grande interesse na história.
+meat0 = É um pedaço de carne, assim como nos desenhos animados! Só que bem maior.
+meat1 = Estranho, considerando que você não viu nenhum leviatã por aqui.
+tailor0 = Do jeito que o modo de vestir daqui é limitado, não é surpreendente que esse lugar esteja todo trancado.
+vista0 = Tão pitoresco! Porém, você não consegue decidir com que videogame isso se parece.
+
+[lava]
+finish0 = Criança pequena salvou a gente! Vem aqui em cima!
+finish1 = Nós temos [timepiece][icon:timepiece]presente[/timepiece] para você!
+
+goofy0 = Você conseguiu! Criança pequena salvou Cidade Mafiosa!
+goofy1 = Agora Mafia não precisa mais comer lava no café da manhã... incrível!
+goofy2 = Por favor, tome isso como troféu. Você realmente é a heroína de Cidade Mafiosa!

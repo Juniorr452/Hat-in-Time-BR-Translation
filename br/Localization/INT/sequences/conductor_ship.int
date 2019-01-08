@@ -1,0 +1,30 @@
+[internal]
+conductor0 = Eiii... me vê um Sinking Ship no gelo. E coloca o dobro do trem bom.
+conductor1 = Oh, eu não percebi que cê tava aqui, guria. Tamo' só vagueando por aí, né?
+conductor2 = Se cê tá procurando uma bebida, eles deve tê um pouco de suco. 
+conductor3 = Cê dá conta, com certeza, mas o que eu tô tomando num é pra guriazinhas.
+
+[act2]
+conductor0 = [wave].....hic.... Ooh, olá, guria![/wave]
+conductor1 = [wave]Como, como tu tá, hein? Tá curtino as féria, guria?[/wave]
+conductor2 = [wave]Ah, eu tô. Sem Grooves, sem filmes. Só eu e meu bão amigo aqui. Isso que é vida, né?[/wave]
+conductor3 = [wave]... Como será que deve ser o resto do navio...[wave]
+
+[docks]
+conductor0 = Ora ora, se não é a guriazinha. Como que tá a vida de estrela?
+conductor1a = Pra te falar a verdade, tô dando um tempo depois que aquele [br][icon:djgrooves] [name]DJ[/name] cabeça de bica tentou, bem, cê sabe.
+conductor1b = Oh, e desculpa por todo aquele... trem da faca. [br]O que não acontece em uma discussãozinha entre colegas, guria?
+conductor1c = Tô dando um tempo pra relaxar. Sair de perto daquele [br][icon:djgrooves][name]DJ Grooves[/name] barulheiro por um tempo.
+conductor2 = Enfim, acho melhor perguntar sobre a creche a bordo. Eu amo esses pestinhas, mas não dá pra levar eles pro bar comigo, né?
+
+[act3]
+finale0 = Espera, guria, pronde cê tá indo? Cê quer salvar ELE?
+finale1 = Não vou ficar perto dum navio afundando! Se cê não voltar rápido, vamo sair sem você!
+conductor0 = Onde tá a guria? O navio tá afundando, temo que sair daqui!
+conductor1 = [scream]Chega aqui, guriazinha! Nós vamo sair AGORA!![/scream]
+
+conductor2 = Ah, brigado guria. Esses pequeninos não aprenderam a nadar ainda!
+
+carried0 = Ah! Toma cuidado, guria! Me preocupo com minhas penas!
+
+[fluff]

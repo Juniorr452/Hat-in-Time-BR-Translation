@@ -1,0 +1,55 @@
+[AlpsHUB]
+TimePieceDirection0 = Já reparou naquelas luzes brilhando no céu?
+TimePieceDirection1 = Elas começaram a aparecer depois que umas [icon:timepiece][timepiece]ampulhetas estranhas[/timepiece] caíram do céu. O que é que elas podem ser?
+TimePieceDirection2 = De qualquer jeito, eu queria muito que elas não fossem tão brilhantes. Estão me cegando!
+
+[finale]
+finale0 = ...acabou? O ar está limpo de novo!
+finale1 = E parece que os bodes voltaram ao normal. Não entendi o que aconteceu muito bem, mas acho que temos que te agradecer!
+finale2 = Encontramos isso num monte daquelas flores depois que elas murcharam de novo. Você foi bem insistente em ir atrás das outras, então acho que elas pertencem a você?
+finale3 = Obrigado por nos ajudar!
+
+[Guides]
+guide_lavacake0 = Venha por aqui para[br]o [name]Bolo de Lava[/name]!
+guide_lavacake1 = Esse calor é demais! [br]É ainda mais quente para [br]a [hint]direita[/hint]!
+guide_lavacake2 = Esse é o [name]Bolo de Lava[/name]!
+guide_lavacake3 = Como é que um lugar acaba ficando desse jeito?
+guide_windmill0 = O [name]Moinho Velho[/name][br]é por aqui!
+guide_windmill1 = Esse lugar é enorme! Parece ser uma longa subida até o [hint]topo[/hint].
+guide_twilight0 = O [name]Sino da Penumbra[/name] é por aqui!
+guide_twilight1 = O [name]Sino da Penumbra[/name] é logo em frente!
+guide_twilight2 = Olha aquela coisa! Se ao menos eu conseguisse alcançar.
+guide_birdhouse0 = Os pássaros da [name]Gaiola de Pássaros[/name] roubam coisas brilhantes!
+guide_birdhouse1 = A [name]Gaiola de Pássaros[/name] é por aqui!
+guide_birdhouse2 = Você está quase na [name]Gaiola de Pássaros[/name]!
+guide_horn0 = Sopre aqueles chifres para abrir novos caminhos!
+guide_horn1 = Tem um [hint]chifre[/hint] lá no topo!
+guide_binocs0 = Esses binóculos te permitem olhar bem longe!
+guide_deadend0 = Ei! Esse caminho não te leva a nenhum [hint]pico[/hint].
+guide_deadend1 = Acho que esse caminho aqui leva até um [hint]chifre[/hint]. Dá quase pra ver ali!
+guide_deadend2 = Acho que estou vendo um [hint]tesouro[/hint]!
+guide_deadend3 = Acho que não caiu nenhuma [hint]ampulheta[/hint] por aqui.
+guide_zipline0 = Lembre-se de virar [hint]para[/hint] o caminho que quiser ir!
+guide_bridge0 = Cuidado! Algumas dessas [hint]pontes[/hint] são velhas.
+guide_cats0 = Tenha cuidado, criança. Fui ali na frente e acabei sendo arranhado!
+guide_cats1 = Eu seguraria bem esse teu [icon:hat] ai!
+guide_eggs0 = Tem algo estranho sobre alguns daqueles ovos!
+guide_danger0 = Oi! Com certeza é um lugar seguro para uma criança estar.
+ 
+[PeakSize]
+size0 = Existem várias estruturas enormes nesses picos.
+size1 = Quem será que as construiu? 
+size2 = ... pássaros não fazem gaiolas, né?
+
+[Flowers]
+flowers0 = Já viu as flores roxas crescendo por aqui?
+flowers1 = Eu manteria distância. Para mim, tem alguma coisa estranha sobre elas.
+
+[Horns]
+explanation0 = Por que nós mesmos não sopramos os chifres?
+explanation1 = Nessa altitude, o ar é rarefeito! É difícil para nós respirarmos assim tão fundo.
+explanation2 = Embora isso não pareca te afetar.
+
+[Goats]
+goats0 = Não sei muito sobre os bodes aqui, mas tento manter distância.
+goats1 = Se ficar na frente deles, eles tendem a ficar um pouco agressivos.

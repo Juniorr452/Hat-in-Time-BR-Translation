@@ -1,0 +1,37 @@
+[internal]
+yes = Com certeza!
+no = Nãoo!
+
+deckshard1 = Ei - isso não é gelo! Tem um fragmento nessa bebida!
+
+smash0 = Hmm... o dano é sério. Ficou em mais pedaços do que um, o que é terrível.
+smash1 = Talvez você possa arrumar ela se encontrar todas os [hint]fragmentos que estão faltando[/hint].
+smash2 = Parece que tem um em cada sala...
+
+checkin0 = Você fez o check-in!
+checkin1 = Agora para achar aquela peça temporal...
+
+washingmachine0 = Alguém começou a lavar as roupas sem nenhum detergente! É melhor você colocar um pouco aqui.
+washingmachine1 = Tinha um fragmento de peça temporal com as roupas!
+
+restarauntshard1 = Debaixo do alface - isso é um fragmento daquela peça temporal!
+
+slotmachine0 = Você está bem confiante nessa máquina! Mas precisa de fichas para jogar...
+slotmachine1 = Você está com sorte...
+slotmachine2 = Tinha um fragmento preso na máquina!
+
+[act2]
+yes = Com certeza!
+no = Nãoo!
+
+[docks]
+binocs0 = Uau! Esse navio parece incrível! E seguro! Incrivelmente seguro, você diria.
+
+crates0 = A etiqueta na caixa diz 'PBR'. Quem quer que sejam, eles são bons em fazer coisas brilhantes.
+
+seals0 = Parece que eles estão se divertindo! [br]Mas eles provavelmente não deveriam ficar sem supervisão.
+
+[fluff]
+leaflets0 = Um monte de folhetos para tratamentos de SPA luxuosos! Pena que não está no seu pacote de viagem.
+
+clipboard0 = Você não tem a menor ideia do que isso significa, mas a letra é[br]surpreendentemente boa para uma foca.

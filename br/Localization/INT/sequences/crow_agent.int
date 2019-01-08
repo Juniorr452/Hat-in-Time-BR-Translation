@@ -1,0 +1,89 @@
+[murder]
+IntroMaidenName0 = Olá, companheira coruja. Acredito que não tivemos o prazer de nos conhecermos.
+IntroMaidenName1 = Como você pode ver, também sou uma Expressoruja. Eu pio bastante.
+IntroMaidenName2 = De coruja para coruja, podemos compartilhar informações, sim? Qual é o nome de solteira da irmã do seu tio?
+IntroMaidenName3 = Ah, é [MotherMaidenName]? Sim, sim. Esse é o tipo de nome de solteira da irmã do tio que eu esperaria de uma Expressoruja companheira.
+IntroMaidenName4 = Eu espero que possa encontrar [MotherMaidenName] algum dia, pois nós, Expressorujas, gostamos de nos encontrar com a família de nossos colegas corujas.
+
+BlackboardHelp0 = Olá, cara Expressoruja. Estou preso em uma questão difícil de matemática e ciência.
+BlackboardHelp1 = Você vê essa fórmula maluca no quadro? Não consigo decifrá-la.
+BlackboardHelp2 = Pode decifrar a fórmula científica pra mim? O que ela diz?
+BlackboardHelp3 = Entendi! A solução é [BlackboardSolution]! Era óbvio! Obrigado, Expressoruja.
+BlackboardHelp4 = E obrigado por concordar com os termos e condições na parte de trás do quadro.
+
+Pet0 = Você sabia que ter um animal de estimação ajuda a melhorar a autoestima e aliviar o estresse?
+Pet1 = Você sabia que animais de estimação também podem ter animais de estimação? É verdade!
+Pet2 = Infelizmente, nós, Expressorujas, não podemos ter bichos de estimação. É um sacrifício que devemos fazer em nome do piado.
+Pet3 = Mas, se você tivesse um animalzinho, como você acha que seria o nome do animal de estimação do seu animal de estimação de infância?
+Pet4 = [PetName] certamente é um nome interessante para um animal. Até mesmo para o animal de estimação de um animal.
+
+Password0 = Olá, Expressoruja. Você liga para segurança? Eu ligo bastante para segurança.
+Password1 = Você não deveria sair por aí dando informações a estranhos. Isso coloca sua segurança em risco!
+Password2 = Posso ajudar a tornar seu dia-a-dia mais seguro. Qual é a sua combinação favorita de letras e números?
+Password3 = Ah, sim, sim. [FavoritePassword] também é minha combinação favorita de letras e números.
+
+Username0 = Amiga Expressoruja, você já se perguntou como seria ser um super-heroína?
+
+Username1 = A coisa mais importante de um super-herói é o nome. Todo super-herói precisa de um nome complicado para sua fama.
+Username2 = Se você fosse uma super-heroína, como seria seu nome, se fosse usado em um formulário on-line com requisitos de identificação de conta padronizados?
+Username3 = Esse nome é ótimo! Já posso até imaginar: a grande [SuperheroName], salvadora da justiça!
+Username4 = Deixe-me só escrever sua resposta aqui, rapidinho...
+
+PrivatePart0 = Todas nós, Expressorujas, temos uma parte do corpo que nos envergonhamos. É por isso que algumas corujas optam por tirar suas penas.
+PrivatePart1 = De qual parte do corpo você mais se envergonha, [br]Expressoruja?
+PrivatePart2 = Ah, pobre Expressoruja. [BodyPartName]? Não devia se envergonhar disso!
+PrivatePart3 = Mas é melhor você checar isso com um médico. Eu li na internet que pode ser um sintoma da gripe aviária.
+PrivatePart3b = Mas é melhor você checar isso com um médico. Eu li na internet que pode ser um sintoma da gripe aviária.
+
+Victim_Reveal0 = Deixe esse caso conosco.
+Victim_Reveal1 = Somos a C.U.A., [name]Corvos Unidos Agentes[/name].[br]Estivemos monitorando todos neste trem[br]desde a última estação.
+Victim_Reveal2 = Vamos estar [hint]vasculhando todo o trem por evidências[/hint]. Ninguém tem permissão de sair deste vagão.
+Victim_Reveal3 = Assim que [hint]relógio bater meia-noite[/hint], vamos parar na estação com o assassino algemado.
+Victim_Reveal4 = Permaneçam aqui enquanto investigamos mais a fundo.
+
+mission_end0 = Não sabemos.
+mission_end1 = Não conseguimos encontrar nenhuma evidência conclusiva. Não temos ideia de quem assassinou essa coruja.
+
+suspect_crows0 = ...
+suspect_crows1 = É verdade.
+suspect_crows2 = Olha, não tem muitos crimes envolvendo pássaros ultimamente. Nós, agentes da CUA, iríamos ficar sem trabalho em semanas!
+
+suspect_crows3 = Você não imagina o quão apertado é dúzias de pássaros viverem no mesmo apartamento de um só quarto!
+suspect_crows4 = Nós precisávamos de algum crime para solucionar para sermos pagos! Então o esfaqueamos com a faca de borracha e deixamos ele para morrer.
+
+CafeteriaChatter0 = então eu disse pra ela,[br]não entre na loja
+CafeteriaChatter1 = tinha[br]molho demais na pizza
+CafeteriaChatter2 = o que ele disse[br]não importava mesmo
+CafeteriaChatter3 = porque ele tinha perdido[br]uma das penas
+CafeteriaChatter4 = e as corujas não gostam[br]de dar seus esquemas 
+
+CafeteriaChatter5 = mesmo que tivesse um[br]incêndio gigante
+CafeteriaChatter6 = justo quando ele tava[br]prestes a espirrar
+CafeteriaChatter7 = mas alguém notou[br]que todos nós[br]usamos o mesmo casaco?
+
+BodyPartChatter0 = [BodyPartName]...[br]ela se envergonha!
+BodyPartChatter1 = você devia ter visto, era horrível
+BodyPartChatter2 = era o mais feio que eu já vi
+BodyPartChatter3 = chegava a ser horripilante
+BodyPartChatter4 = eu perguntei sobre a parte do corpo que ela se envergonhava
+
+[spaceship]
+visit0 = Olá, pequena viajante do espaço. Eu também sou uma criança viajante do espaço. Eu viajo muito pelo espaço.
+visit1 = De uma viajante do espaço pra outra, a gente pode compartilhar segredos, sim? Qual é o segredo por trás das [icon:timepiece][timepiece]Peças Temporais[/timepiece]?
+visit2 = Ah, sim, claro! Como uma criança viajante do espaço, é claro que eu sei o que isso significa.
+visit3 = Como um sinal de gratidão, por favor pegue este item, que obviamente é de valor para nós, crianças viajantes do espaço.
+visit4 = Preciso ir. Nós, crianças viajantes do espaço, estamos sempre viajando. Foi bom conhecer outra criança viajante do espaço.
+Idle_mafiaboss0 = Como uma criança viajante do espaço, eu não consigo entender como um homem em uma jarra pode viver sem órgãos e membros.
+Idle_mafiaboss1 = Isso me deixa perplexo e confuso, mas eu estou curioso para saber a resposta. Assim é a vida de uma criança viajante do espaço, como eu.
+Idle_vault0 = Olá, criança viajante do espaço. Como uma criança viajante do espaço, eu sou desajeitado e esquecido. Acho que esqueci o código para esse cofre gigante que você tem.
+Idle_vault1 = Eu sei, eu sou realmente desastrado. Você pode me lembrar qual o código? Não?
+
+[finale]
+outside0 = Saudações, cara suposta criminosa. Certamente, há muitos de nós.
+outside1 = Estamos todos aqui pelos nossos crimes. Supostamente. Que crime você supostamente cometeu, cara criminosa?
+outside1a = Que termo legal você usaria para descrever seu crime?
+outside1b = Entendo. Então essa é a face do [Crimes].
+outside2 = Isso é desconcertante. Por que nós, pássaros, nos juntamos todos aqui? Você sabe, cara criminosa?
+inside0 = Meus amigos crimino-[br]sos não voltaram da lava. Muito estranho.
+inside1 = Nós, criminosos, nos sentimos aliviados por não termos cometido [Crimes].
+suicide0 = Dá o FORA!

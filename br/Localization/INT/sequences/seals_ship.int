@@ -1,0 +1,84 @@
+[internal]
+desksealA10 = Olárrr! Como poxxo ajudar voxê?
+desksealA11 = Voxê extá procurando por algo assim [icon:timepiece]?
+desksealA12 = Hmmm... onde que eu já vi ixxo...
+desksealA13 = Penxando muito forte...
+desksealA14 = Au! Eu lembro! Nós quebramos um dexxes e excondemos do Capitão! [br]Ele não ia ficar muito feliz xe xoubexxe que fizemos uma bagunxa.
+desksealA15 = Nós tentamos limpar, mas... Um. Hm. Não fizemos um bom trabalho... e perdemos algumas das pexas...
+desksealA16 = Mil dexculpas, xenhorita! Pur favô, não fique nelvosa!
+
+deckshard0 = O-Olárrr! Prexiso pegar todos exxes copos vazios, mas fico deixando eles caírem. Pode me ajudar, xenhorita?
+
+leftshard0 = Eu me maxuquei... pode me levar para o Capitão, pur favô?
+leftshard3 = Obrigado por beijar minha barriguinha, xenhorita! Já me xinto melhor! [br]Eu axei exxe vidro brilhante, mas ele é todo xeu!
+
+seals0 = Olárrr, xenhorita! Expero que goxte do navio! Trabalhamos muito duro para deixar ele limpo e arrumado.
+seals1 = Com licenxa! Xem correr na pisxina, pufavor e obrigado!
+seals2 = Hi! Você goxtaria de comprar um brinquedo aquático?
+seals3 = Temus todos os tipos de tamanhos e folmas! E eles flutuam!
+seals4 = Bem-vinda, madame. Axo que não temus mesa dixponível no momento...
+seals5 = Oh oh! Exxe barco extá bloqueando a porta!
+seals6 = É tããão pesado...
+
+bathroom0 = Dexculpa! Eu bati um carrinho de comida e derramei os drinks, então o banheiro extá fexado agora!
+
+signs0 = A recepxão é por aqui, xenhorita!
+signs1 = Bem-vinda a bordo!
+
+seal_egg0 = Ovo.
+Egg0 =  [name]Sr. E:[/name] Ovo.
+Egg1 =  [name]Sr. N:[/name] Uou cara, porque fez isso?
+Egg2 = [name]Sr. E:[/name] Queijo é um meme velho. Agora é a hora do Sr. E brilhar... quer se juntar a mim, Sr. N?
+Egg3 = [name]Sr. N:[/name] tá
+
+[act2]
+thankyou0 = Brigadu xenhorita!
+thankyou1 = Brigadu pela ajuda!
+
+seals0 = Oi, xenhorita! Como poxxo te ajudar?
+seals1 = Oh? Tem algo que voxê quer nos axados e perdidos?
+seals2 = Hmm... o Capitão deixa a gente pegar algo xe trabalharmos muito, muito duro! Talvez você poxxa ajudar!
+seals3 = Maaas... você teria que perguntar a ele cum jeitinho. [hint]Apenas xiga a bagunxa até a xala dele![/hint]
+seals4 = O Capitão é bem desorganizado, mas ele trabalha muito duro conduzindo o navio!
+seals5 = Nós devemos muito a ele!
+
+seals4 = X-Xenhorita! Não é para voxê abrir aquilo a não xer que o capitão deixe!
+seals5 = Olárr! O capitão dixxe que voxê pode pegar alguma coisa. Tem algo bem brilhante alí dentro hoje! 
+
+[docks]
+seals1 = Bem-vinda ao cruzeiro, xenhorita!
+seals2 = Experamos que você xe divirta!
+
+[act3]
+loudspeaker0 = Olárrr! O capitão tem uma menxa-
+
+carried0 = Obrigadooo xenhorita!
+carried1 = Ooh! Onde extamos indo?
+
+seals0 = Obrigadooo xenhorita!
+
+[fluff]
+deskseals0 = Olárrr! Xe voxê quer um reembolxo, eu tenho que falar que não damus ele! 
+deskseals1 = Mas ixxo é cruel! Reembolxos para todo mundo, uhuuul!
+
+kitchenseals0 = P-pur favô, tenha cuidado, xenhorita! Temos um pequeno problema com os forninhos...
+kitchenseals1 = Aí! Fogo é muito quente...
+kitchenseals2 = Olárrr! Extou no intervalo!
+kitchenseals3 = É bem difíxil xegar até exxes balcões! Talvez devíamos ter pego uns menores...
+kitchenseals4 = Oh oh!! Tem pudim em todo lugar! Pur favô, cuidado aonde pisa!
+kitchenbubbleseal0 = Temos um pedido para o terraço! Pegue o elevador!
+kitchenbubbleseal1 = Exxes xão para a pisxina, madame!
+kitchenbubbleseal2 = Exxes xão para a xala de jantar!
+kitchenbubbleseal3 = Leva esse para a xala de jantar, pur favô!
+kitchenbubbleseal4 = Xerviço de quarto! Leve para o terraço!
+kitchenbubbleseal5 = Temos um pedido xerviço de quarto!
+kitchenbubbleseal6 = Extibordo! Uh, exxe é o lado direito, xenhorita!
+kitchenbubbleseal7 = Costado! Direto daquela porta!
+
+seals0 = Exxas toalhas xão muito confortáveis!
+seals1 = Era para eu extar trabalhando, mas é tão bom...
+seals2 = Pur favô, cuidado por onde anda, xenhorita! É uma queda bem grande depois desse parapeito!
+seals3 = Oops... nós exquecemos de fixar as mesas! Elas extão dexlizando por todo o canto.
+seals4 = Hmmm... você parece muito jovem para apoxtar! Dexculpa, xenhorita!
+seals5 = Ah, e pur favô, não fique em xima da mesa!
+seals6 = O jardim não é lindo, xenhorita?

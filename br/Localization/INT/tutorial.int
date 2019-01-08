@@ -1,0 +1,25 @@
+[buttonhelp]
+jumpdive = No ar para pular mais longe
+doublejump = No ar para pular novamente
+crawl = Quando estiver em pé para rastejar
+watersubmerge = Mergulhar
+caught_struggle = Debater-se
+first_person_goal = Use seu [icon:hat] para encontrar o seu objetivo!
+divecancel = Enquanto mergulha para cancelar
+trigger_ability = Para usar a habilidade de seu [icon:activehat]
+hat_swap = Para trocar de chapéu
+umbrella_attack = Atacar
+homingattack = No ar para fazer um ataque teleguiado
+helper_ability_no_target = Nada de interessante por perto...
+smooch = Para beijar
+timestophat = Use seu [icon:timestophat] para desacelerar o tempo
+carry_too_much = Cuidado! Quanto mais você carregar, mais a pilha vai balançar!
+vacuumside = Tente pular para o lado! 
+
+drop_carry = Largar
+throw_carry = Arremessar
+
+DuplicateKey = Não é possível carregar duas [icon:key] ao mesmo tempo
+
+[placeholder]
+BetaHatSwapNotice0 = Pressione [button:badgeswitch] para trocar seu [icon:hat]![br]Pressione [button:badge] para usar a habilidade de seu chapéu.

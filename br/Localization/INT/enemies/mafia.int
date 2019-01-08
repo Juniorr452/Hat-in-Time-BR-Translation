@@ -1,0 +1,15 @@
+[mafiacombat]
+jumpsurprise0 = [scream]MAS COMO...?![/scream]
+jumpsurprise1 = [scream]COMO VOCÊ...?![/scream]
+jumpsurprise2 = [scream]VOCÊ CONSEGUE PULAR?![/scream]
+jumpsurprise3 = [scream]ESTOU TÃO CONFUSO![/scream]
+jumpsurprise4 = [scream]AI! MINHA CABEÇA![/scream]
+
+movepredict0 = Ha ha!
+movepredict1 = Já sei de todos[br]os seus truques!
+movepredict2 = Criança ser previsível!
+movepredict3 = Isso é tudo que você tem?
+
+teleport0 = O quê? Onde estou?!
+teleport1 = Ei, é aquela garota!
+teleport2 = O que está acontecendo?!
