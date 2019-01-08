@@ -1,0 +1,1 @@
+class brlp_AutoGenGameModClass extends GameMod;
