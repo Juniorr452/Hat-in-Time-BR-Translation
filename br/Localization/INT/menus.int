@@ -464,7 +464,7 @@ Coop_Disable_Deny = Voltar
 
 [MainMenu]
 FileSelect_File = Jogo
-FileSelect_Progress_Completed = Completo
+FileSelect_Progress_Completed = Concluído
 FileSelect_New = Novo Jogo
 
 Action_Delete = Deletar Jogo
@@ -482,7 +482,7 @@ DeathWishes = Carimbos do Desejo Mortal
 ModTimePiece = Ficha da Fenda de Mods
 ModTimePiece_multiple = Fichas da Fenda de Mods
 
-Offer_AvailableNow = Disponível Agora
+Offer_AvailableNow = Já Disponível
 
 [ItemUnlock]
 ItemUnlock_Badge = Novo chapéu costurado!
