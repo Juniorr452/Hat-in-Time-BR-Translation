@@ -22,9 +22,9 @@ gulp.task('make_mod_zip', () => {
 gulp.task('create_br_files', () => {
     return gulp.src('br/Localization/INT/**/*.int')
         .pipe(rename((path) => {
-            path.extname = ".br"
+            path.extname = ".ptb"
         }))
-        .pipe(gulp.dest('gfb/BR'));
+        .pipe(gulp.dest('gfb/PTB'));
 });
 
 gulp.task('make_gfb_zip', () => {
