@@ -1,0 +1,117 @@
+[finale]
+empress_finale0 = Um milhão de reais para o gato que me trouxer nossa pequena furtadora.
+empress_finale1 = Corra se quiser. Você não vai muito longe.
+empress_finale2 = Capturem-na. E rápido.
+empress_finale3 = Tenho que substituir todos vocês? Não conseguem capturar uma criança?
+empress_finale4 = A recompensa é de DOIS milhões. Tragam-me a pirralha.
+empress_finale5 = Continue correndo, mocinha. Você ainda não está em casa.
+
+empress_finale6 = Ora ora ora. Olha só o que o gato trouxe.
+empress_finale7 = Que tal entrar?
+empress_finale8 = Pensou que poderia escapar? Pensou que era esperta, mocinha?
+empress_finale9 = Achei que podia confiar em você. É bem raro eu fazer um mau investimento.
+empress_finale10 = E pensar que você seria tão gananciosa a ponto de roubar de mim - tão corajosa, para alguém tão pequena.
+empress_finale11 = Foi tudo minha culpa, realmente. Eu devia ter um olho melhor para quem eu promovo.
+empress_finale12 = Você poderia ter sido alguém tão importante um dia. Mas me decepcionou - 
+empress_finale13 = - e é hora de colher os investimentos.
+empress_finale14 = Ah! Policiais! 
+empress_finale15 = Que... conveniente. Eu estava prestes a sair.
+empress_finale16 = [small]Eles são bem mais difíceis de se livrar do que você.[/small]
+empress_finale17 = Vamos nos encontrar novamente, pirralha.
+
+
+[timepiece1]
+empress_tp1_0 = Existem mais dessas, tenho certeza. Você parece... talentosa em encontrá-las.
+empress_tp1_1 = Eu lhe pago, e você me trás mais. Um arranjo simples.
+empress_tp1_2 = Comece olhando no Viaduto Amarelo. Tenho certeza que você pode se virar.
+empress_tp1_3 = Agora siga seu caminho... e não volte de mãos vazias.
+
+[timepiece2]
+empress_tp2_0 = Você voltou? E tem uma nova [timepiece][icon:timepiece]Peça Temporal[/timepiece] para mim - ótimo.
+empress_tp2_1 = Nosso pequeno arranjo está funcionando bem. Espero que continue assim.
+empress_tp2_2 = E já que está indo tão bem, você não deveria ter nenhum problema para comprar alguns [hint]passes de metrô[/hint].
+empress_tp2_3 = Afinal de contas, você não vai conseguir ir muito longe sem eles.
+
+[timepiece3]
+empress_tp3_0 = Interessante. Você é mais útil do que imaginei.
+empress_tp3_1 = Continue assim, mocinha, e a fazerei rica. Invisto bem... em lealdade.
+empress_tp3_2 = Agora, mostre que é um bom pequeno investimento e encontre-me outra. Mesmo que tenha que olhar nos [hint]túneis dos bueiros[/hint].
+empress_tp3_3 = Meus gatos e eu os usamos em nosso... trabalho. Tenha cuidado.
+
+[timepiece4]
+empress_tp4_0 = Muito bem. Minha organização sempre tem lugar para pessoas como você.
+empress_tp4_1 = Existe um lugar para você aqui, considerando que você não... me desaponte.
+empress_tp4_2 = Ainda assim, ouvi dizer que minha coleção ainda não está completa. Então, volte ao trabalho.
+empress_tp4_3 = E seja caprichosa. Olhe em todo canto, me ouviu?
+
+[timepiece5]
+empress_tp5_0 = Uma quinta? Você continua a me surpreender.
+empress_tp5_1 = Está aproveitando sua estadia no metrô? Existem pessoas de todos os lugares aqui.
+empress_tp5_2 = É o lugar perfeito para uma pequena mentira. Uma pequena enganação... um pequeno roubo.
+empress_tp5_3 = Você quase conseguiu um pouco da ação de verdade aqui. Quase.
+
+[timepiece6]
+empress_tp6_0 = Outra? Não devem ter muitas restantes.
+empress_tp6_1 = Em breve ocorrerá uma operação que eu pretendo fazer uma fortuna. Um negócio de transporte.
+empress_tp6_2 = Traga-me mais, e não haverá um gato nessa cidade com mais garras do que eu.
+
+[timepiece7]
+empress_tp7_0 = Sete. Um número da sorte para alguns, sabe.
+empress_tp7_1 = Você tem sonhos, mocinha? Coisas que quer fazer quando for mais velha?
+empress_tp7_2 = Continue sendo útil, e não vai ter muito fora do seu alcance. 
+
+[timepiece8]
+empress_tp8_0 = Uma oitava? Hm... quão apropriado.
+empress_tp8_1 = Para você, isso significa mais dinheiro. Eu disse que iria lhe fazer rica, e eu não minto para os meus.
+empress_tp8_2 = Agora, quanto a mim... bom, isso é da MINHA conta. Entrarei em contato caso precise de suas habilidades novamente, mocinha.
+empress_tp8_3 = Por agora, aproveite seus ganhos. Tenho lugares para ir, e preparações a fazer.
+
+[timepiece9]
+empress_tp9_0 = Nove. Bom trabalho.
+empress_tp9_1 = Cada uma dessas vale mais dinheiro do que muitos fazem na vida.
+empress_tp9_2 = Com relação a você... bem, você está acima da maioria. Aqui está seu corte.
+empress_tp9_3 = Ótimo? Então de volta ao trabalho. 
+
+[directions]
+empress_dir_yellowR = Bom... comece a procura pela Linha Amarela, mocinha. 
+
+empress_dir_greenR = Ouvi relatos de que tem algo brilhante no topo da Estação Verde Aspirante. Vá.
+
+empress_dir_blueR = Peixe Lazúli. O subsolo. Não volte de mãos vazias.
+
+empress_dir_pinkR = Espero que seus passes estejam em ordem, pequenina. Um dos meus pequenos tesouros foi avistado na Pata Rosada.
+
+empress_dir_yellowM = Hora de levar sua busca para baixo, garota. Procure pelos bueiros. Viaduto Olhar Amarelo.
+
+empress_dir_greenM = Volte para a Estação Verde Aspirante. Outro pequeno tesouro nos túneis.
+
+empress_dir_pinkM = Mais uma excursão debaixo do chão. Na Pata Rosada, desta vez.
+
+empress_dir_nothing = Hm? Está perdida, mocinha? Temo não ter nada para você.
+
+empress_dir_blueM = Espero que não seja claustrofóbica. Peixe Lazúli novamente, mas procure por um bueiro desta vez.
+
+empress_dir_pinkM2 = Existe um segundo túnel em Pata Rosada. Procure por ele.
+
+[postfinale]
+empress_post_finale_0 = Voltando diretamente para minhas garras. Corajoso.
+empress_post_finale_1 = Não se deixe enganar, mocinha. Se esses policiais não estivessem fazendo esse show investigando agora mesmo, você não escaparia novamente. 
+empress_post_finale_2 = Graças a sua pequena façanha, o Chefe quer... renegociar nosso acordo. Ele acredita que enviar alguns de seus filhotinhos para cá vai me pressionar.
+empress_post_finale_3 = Eles não acharão nada, claro. Eles não são tão estúpidos. Mas isso significa que terei que manter as coisas em ordem por enquanto. Sem ninguém sofrendo acidentes, sabe.
+empress_post_finale_4 = Isso vai acabar em breve. Se for esperta, vai correr daqui.
+
+[cutscenes]
+Intro0 = Obrigada por trazer isto para mim.
+Intro1 = Para quem você trabalha, ninguém?
+Intro2 = Bom...
+Intro3 = Eu não posso ter você correndo por aí,
+Intro4 = interferindo no meu negócio de jóias.
+Intro5 = Então, você trabalha para mim agora.
+Intro6 = Venha até a minha loja, temos negócios a discutir.
+
+Midpoint0 = Você está tentando me enganar?!
+Midpoint1 = Então por que achei seu pelo de gato aqui?
+Midpoint2 = Não deixe que a próxima... seja você.
+
+Finale0 = Capturem-na. E rápido.
+Finale1 = Recompensa... é de um milhão.

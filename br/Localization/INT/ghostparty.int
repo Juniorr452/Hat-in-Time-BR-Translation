@@ -1,0 +1,52 @@
+[ghostparty]
+PlayerJoin = [name][playername][/name] entrou na turma on-line!
+PlayerLeave = [name][playername][/name] saiu da turma on-line...
+EnterChapter = [name][playername][/name] entrou em [hint][actname][/hint]
+TimePieceGet = [name][playername][/name] pegou a [icon:TimePiece] de [hint][actname][/hint], parabéns!
+PlayerConnectionFailed = Não foi possível conectar com [name][playername][/name]. Verifique as configurações NAT do seu roteador.
+PlayerPaused = Pausado
+
+[lobby]
+OnlinePrompt = Funcionalidade On-line
+LobbyPrompt = Nome da Turma
+OnlineInfo = Permite você ver e interagir com outros jogadores, incluindo amigos e pessoas desconhecidas.
+PublicInfo = Caso preenchido, você só verá jogadores que estiverem nessa turma. Se estiver em branco, verá jogadores visitantes de vez em quando.
+
+Tutorial0 = Bem-vindo ao modo [wave][hint]Turma On-line[/hint][/wave]! Intercale as dimensões e veja seus amigos!
+Tutorial1 = Ligue a opção para encontrar jogadores de outros mundos na sua jornada!
+Tutorial2 = Ou digite o nome de uma turma para jogar apenas com seus amigos!
+
+OpenConv0 = Deseja trocar suas configurações da [wave][hint]Turma On-line[/hint][/wave]?
+
+[joinact]
+RequestPlay = [name][playername][/name] quer jogar [hint][actname][/hint]
+JoinPrompt = Segure para entrar
+WaitingToStart = Esperando outros jogadores...
+
+[scoreboard]
+NoConnect = Incapaz de conectar
+Connecting = Conectando...
+MapHub = Na Espaçonave
+MapTitle = Na tela de título
+MapGeneric = Em outro ato
+MapSpecific = Em [actname]
+MapJoin = Indo para [actname]
+HiddenPlayer1 = Você
+HiddenPlayer2 = Também Você
+
+[levelobjects]
+VaultCode = [name][playername][/name] pegou um código do cofre dourado!
+Faucet = [name][playername][/name] fechou uma torneira!
+MurderClue = [name][playername][/name] está perto de resolver o assassinato!
+
+[emotes]
+PingName = Alertar
+OverHereName = Aqui!
+HiName = Oi!
+ByeName = Tchau!
+WatchOutName = Cuidado!
+NopeName = Não!
+ThanksName = Obrigada!
+BoopName = Boop!
+PeckName = Bica!
+SorryName = Desculpe!

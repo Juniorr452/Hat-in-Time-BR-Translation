@@ -15,6 +15,7 @@ smooch = Para beijar
 timestophat = Use seu [icon:timestophat] para desacelerar o tempo
 carry_too_much = Cuidado! Quanto mais você carregar, mais a pilha vai balançar!
 vacuumside = Tente pular para o lado! 
+gp_emotewheel = para comunicar-se com outros jogadores online
 
 drop_carry = Largar
 throw_carry = Arremessar
@@ -22,4 +23,4 @@ throw_carry = Arremessar
 DuplicateKey = Não é possível carregar duas [icon:key] ao mesmo tempo
 
 [placeholder]
-BetaHatSwapNotice0 = Pressione [button:badgeswitch] para trocar seu [icon:hat]![br]Pressione [button:badge] para usar a habilidade de seu chapéu.
+BetaHatSwapNotice0 = Aperte [button:badgeswitch] para trocar seu [icon:hat]![br]Pressione [button:badge] para usar a habilidade do seu chapéu.

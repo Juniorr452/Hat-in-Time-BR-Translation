@@ -3,8 +3,8 @@ SystemSetting_DefaultValue = Padrão:
 SystemSetting_Value_Checked = Ligado
 SystemSetting_Value_Unchecked = Desligado
 SystemSetting_Requires_Restart = Essa opção requer que o jogo seja reiniciado para ter efeito.
-SystemSetting_ArtStyle_Warning = Aviso: O estilo artístico do jogo foi feito com essa função em mente. Desligá-la não traz uma melhora significativa no desempenho do jogo. Recomendamos que essa opção fique em seu valor padrão; apenas a desligue se tiver certeza que quer fazer isso.
-SystemSetting_Gameplay_Warning = Aviso: É altamente recomendado deixar essa opção em seu valor padrão!
+SystemSetting_ArtStyle_Warning = Aviso: O estilo artístico do jogo foi feito com essa função em mente. Desligá-la não traz uma melhora significativa no desempenho do jogo. Recomendamos que essa opção fique no valor padrão; apenas a desligue se tiver certeza que quer fazer isso.
+SystemSetting_Gameplay_Warning = Aviso: É recomendado deixar essa opção no valor padrão!
 SystemSetting_Confirm = CONFIRMAR
 SystemSetting_Back = VOLTAR
 
@@ -13,7 +13,7 @@ GameSettings_Title = Opções do Jogo
 GameSettings_Desc = Ajuste opções relacionadas a jogabilidade.
 
 GameSettings_Icon_Singleplayer = Um Jogador
-GameSettings_Icon_SplitScreen = Tela Dividida
+GameSettings_Icon_SplitScreen = Cooperativo
 GameSettings_Icon_SystemSettings = Configurações do Sistema
 GameSettings_Icon_SystemSettings_Console = Preferências
 GameSettings_Icon_Camera = Câmera
@@ -32,24 +32,24 @@ GraphicsSettings_Icon_ColorBlindness = Daltonismo
 AudioSettings_Title = Opções de Áudio
 AudioSettings_Desc = Ajuste o volume de cada tipo de áudio.
 
-AudioSettings_Icon_VoiceActing = Diálogos
+AudioSettings_Icon_VoiceActing = Diálogo
 AudioSettings_Icon_Volume = Volume
 AudioSettings_Icon_Music = Música
 
 InputSettings_Title = Opções de Controle
-InputSettings_Desc = Troque seus controles, adicione novos joysticks ou troque as funções de suas teclas.
+InputSettings_Desc = Troque seus controles, adicione novos, ou mude as funções de suas teclas.
 InputSettings_Desc_Console = Ajuste opções relacionadas a controles.
 
 InputSettings_Icon_KeyBinds = Auxílio
 InputSettings_Icon_Controllers = Controles
 InputSettings_Icon_Controllers_PS4 = Controle sem fio
 InputSettings_Icon_Controllers_XBOX = Controle
-InputSettings_Icon_InvertAxis = Eixos
+InputSettings_Icon_InvertAxis = Inverter Eixos
 
 [systemsettings.game]
 Header_Singleplayer = Um Jogador
 
-Item_SpeedrunTimer_Title = Marcador de Tempo para Speedruns
+Item_SpeedrunTimer_Title = Cronômetro para Speedrun
 Item_SpeedrunTimer_Desc = Marca o tempo que você leva para completar cada fase.
 Item_SpeedrunTimer_Item_Off = Desligado
 Item_SpeedrunTimer_Item_On = Ligado
@@ -59,12 +59,17 @@ Item_SpeedrunTimer_Item_ActOnly = Só o Tempo dos Atos
 Item_Language_Title = Idioma
 Item_Language_Desc = Idioma dos textos do jogo. Não afeta as vozes (você pode ajustar as vozes nas Opções de Áudio).
 
-Item_SkipCinematics_Title = Pular Cutscenes Automaticamente*
-Item_SkipCinematics_Desc = Se estiver com pressa, você pode pular automaticamente cutscenes com essa opção. Lembre-se que você pode pular elas a qualquer tempo mesmo com essa opção desativada.[newline]*Algumas cutscenes podem não ser puláveis.
+Item_SkipCinematics_Title = Pular Cinemáticas Automaticamente
+Item_SkipCinematics_Desc = Se estiver com pressa, você pode pular automaticamente cinemáticas com essa opção. Lembre-se que você pode pular elas a qualquer tempo mesmo com essa opção desativada.[newline]*Algumas cinemáticas não podem ser puladas.
 
-Header_SplitScreen = Tela Dividida
+Header_SplitScreen = Cooperativo
 Item_AllowSharedScreen_Title = Permite o compartilhamento de tela (separa a tela em duas)
 Item_AllowSharedScreen_Desc = Tela dividida pode ser desativada automaticamente em certas partes do jogo.
+
+Header_Accessibility = Acessibilidade
+
+Item_AssistMode_Title = Modo Assistido
+Item_AssistMode_Desc = Com o modo assistido ligado, alguns elementos do jogo são adaptados para acessibilidade, e você recuperará vida após um curto período de tempo. Não há penalidades por ligar esse modo.
 
 Item_SplitScreenMethod_Title = Alinhamento da Tela Dividida
 Item_SplitScreenMethod_Item_Horizontal = Horizontal
@@ -74,8 +79,18 @@ Item_SplitScreenMethod_Desc = Troca o jeito de como a tela é dividida para dois
 Item_VersusModeAlways_Title = Ativar Modo Versus
 Item_VersusModeAlways_Desc = Ativa o Modo Versus quando o modo Cooperativo de Tela Dividida estiver ativado.
 
-Item_CoopIsSplitScreen_Title = Cooperativo em tela cheia
+Item_CoopIsSplitScreen_Title = Cooperativo em Tela Cheia
 Item_CoopIsSplitScreen_Desc = Deixa os dois jogadores em uma tela só ao invés de a dividir em duas.
+
+Header_GhostParty = Turma On-line
+
+Item_GhostPartyDisplay_Title = Mostrar Nomes e Avatares
+Item_GhostPartyDisplay_Desc = Esconde os nomes e fotos de perfil de outros jogadores on-line para reduzir o risco de aparecer conteúdo potencialmente ofensivo. Recomendado para streamers.
+
+Item_GhostPartyDisplay_None = Desabilitado
+Item_GhostPartyDisplay_Name = Só Nomes
+Item_GhostPartyDisplay_Avatar = Só Avatares
+Item_GhostPartyDisplay_Both = Mostrar os Dois
 
 Header_Camera = Câmera
 Header_Camera_Adv = Câmera Avançada
@@ -134,7 +149,7 @@ Item_NoSaving_Title = Não Salvar o Jogo
 Item_NoSaving_Desc = O jogo não irá salvar seu progresso. Isso não é recomendado a não ser que você esteja fazendo uma speedrun e não liga se seu jogo não for salvo.
 
 Item_DevConsole_Title = Console de Desenvolvedor
-Item_DevConsole_Desc = Permite acesso ao console de desenvolvedor. O jogo precisa ser reiniciado para essa opção fazer efeito. Aperte TAB / til para abrir.
+Item_DevConsole_Desc = Permite acesso ao console de desenvolvedor. Aperte TAB / til (~) para abrir.
 
 Item_DisableMods_Title = Desabilitar Mods
 Item_DisableMods_Desc = Desliga a Steam Workshop e suporte de mods para a ter a experiência original.
@@ -204,7 +219,7 @@ Item_FrameRate_Desc = Decide a taxa de quadros máxima ou quadros por segundo (F
 Item_FrameRate_Item_Unlocked = Desbloqueado
 
 Item_VSync_Title = V-sync
-Item_VSync_Desc = Força o jogo a renderizar na mesma frequência que a taxa de atualização de seu monitor. Isso elimina o screen tearing, mas aumenta o delay dos controles. Essa opção quase nunca é recomendada.
+Item_VSync_Desc = Força o jogo a renderizar na mesma frequência que a taxa de atualização de seu monitor. Isso elimina o screen tearing, mas aumenta o delay dos controles. Essa opção é raramente recomendada.
 
 Item_Gamme_Title = Brilho Gamma
 Item_Gamme_Desc = Configura o quão claro o jogo é. Se você acha que algumas partes do jogo estão muito escuras, considere aumentar essa opção.
@@ -268,7 +283,7 @@ Item_Adv_AnisotropicFiltering_Title = Filtragem Anisotrópica
 Item_Adv_AnisotropicFiltering_Desc = Quando algumas texturas são vistas de um certo ângulo (como pisos), elas ficam mais embaçadas dependendo do quão longe estiverem da câmera. Filtragem Anisotrópica melhora isso a cada grau de anisotropia; anisotropia 16 irá ser duas vezes melhor que uma anisotropia 8, por exemplo.
 
 Item_Adv_WorldTextureQuality_Title = Qualidade de Texturas do Cenário
-Item_Adv_WorldTextureQuality_Desc = Determina a resolução de texturas do cenário. A opção mínima irar forçar uma resolução máxima de 256x256, enquanto a máxima pode ser até 4096x4096.
+Item_Adv_WorldTextureQuality_Desc = Determina a resolução de texturas do cenário. A opção mínima irá forçar uma resolução máxima de 256x256, enquanto a máxima pode ser até 4096x4096.
 
 Item_Adv_Fog_Title = Névoa
 Item_Adv_Fog_Desc = Renderiza névoa no cenário. Isso pode afetar o desempenho de computadores mais fracos.
@@ -294,7 +309,7 @@ Item_Adv_ParticleShadows_Item_Player = Só Jogador
 Item_Adv_ParticleShadows_Item_Full = Tudo
 
 Item_Adv_AllowDetailShadows_Title = Sombras dos Detalhes
-Item_Adv_AllowDetailShadows_Desc = Permite objetos menores (como itens coletáveis) terem sombras. Qualidade e visibilidade dependem da Resolução das Sombras.
+Item_Adv_AllowDetailShadows_Desc = Permite objetos menores (como itens coletáveis) a terem sombras. Qualidade e visibilidade dependem da Resolução das Sombras.
 
 Header_Adv_Effects = Efeitos de Pós-Processamento
 Item_Adv_DoF_Title = Profundidade de Campo
@@ -396,7 +411,7 @@ Item_Rumble_Controller_Desc = Ativa ou desativa a vibração do controle
 Item_InputAssist_Title = Auxílio de Controle
 Item_InputAssist_Desc = Essa opção irá melhorar a experiência do jogo, guardando movimentos ou ações do controle que ocorreram um pouco cedo demais, assim como tentar desconsiderar apertos de botões rápidos.
 
-Item_HoldBackToCancelDive_Title = Segurar para Trás para Cancelar o Mergulho
+Item_HoldBackToCancelDive_Title = Segurar para trás cancela o Mergulho
 Item_HoldBackToCancelDive_Desc = Enquanto estiver mergulhando, segure na direção oposta para cancelar.
 
 [systemsettings.controller]
@@ -408,9 +423,9 @@ Item_NewController_Item_New = Novo
 Item_ConfigureController_Item_Configure = Configurar
 
 [alpha_warnings]
-alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
-alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases [hint]October 5th[/hint]!
-alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]
+alpha0 = Muito obrigado por participar do primeiro [name]EVENTO DE SPEEDRUN A HAT IN TIME 2017[/name]! Lembre-se que ir rápido é tudo o que importa, sem tempo para parar e cheirar flores!
+alpha1 = Então se você gostaria que sua primeira experiencia em [name]A Hat in Time[/name] fosse uma experiência no seu próprio ritmo, fique a vontade para deixar essa passar! Está tudo bem, o jogo completo sairá [hint]5 de Outubro[/hint]!
+alpha2 = Certifique-se de gravar, e realizar o upload da sua corrida em [name]speedrun.com[/name]. Boa sorte!![br]- [name]Gears for Breakfast[/name]
 
 [System_Warnings]
 SteamVerifyIntegrityGameCache = [name]ATENÇÃO[/name][br]Parece que a [hint]Steam[/hint] não baixou todos os arquivos do jogo direito.[br]Por favor,[hint] verifique a integridade dos arquivos [/hint] do jogo se os problemas persistirem.
@@ -427,6 +442,8 @@ Loadout_Swap_Mask = Escolha uma Máscara!
 Loadout_Swap_Skin = Escolha uma Cor!
 Loadout_Swap_Ability = Escolha uma Habilidade!
 Loadout_Swap_Badge = Escolha uma Insígnia!
+Loadout_Swap_Weapon = Escolha uma Arma!
+Loadout_Swap_Sticker = Escolha uma Figurinha!
 Loadout_BadgeLocked = Você precisa de [yarn][num] [icon:yarn]lãs[/yarn] para costurar isso!
 Loadout_BadgeLocked_Affordable = Aperte [button:menuconfirm] para usar [yarn][num] [icon:yarn]lãs[/yarn] para costurar!
 
@@ -462,6 +479,8 @@ Coop_Disable_Question = Desabilitar Modo Cooperativo?
 Coop_Disable_Confirm = Desabilitar
 Coop_Disable_Deny = Voltar
 
+Backpack_Level_Collectables = Colecionáveis de Fases
+
 [MainMenu]
 FileSelect_File = Jogo
 FileSelect_Progress_Completed = Concluído
@@ -484,6 +503,8 @@ ModTimePiece_multiple = Fichas da Fenda de Mods
 
 Offer_AvailableNow = Já Disponível
 
+CreateFileBowKid = Sim, com a Garotinha do Laço!
+
 [ItemUnlock]
 ItemUnlock_Badge = Novo chapéu costurado!
 ItemUnlock_Rare = Esse estilo é raro!
@@ -505,6 +526,13 @@ Msg_EnabledDoF = Profundidade de Campo ativada
 Msg_DisabledDoF = Profundidade de Campo desativada
 Filter_None = Sem Filtro
 
+Category_Filters = Estilo
+Category_Poses = Poses
+Category_Lens = Lente
+Category_Camera = Câmera
+Category_Stickers = Figurinhas
+DoF_FocusDistance = Foco
+
 Filter0 = Azul Ação
 Filter1 = Sonho
 Filter2 = Anos 80s
@@ -517,6 +545,45 @@ Filter8 = Preto e Branco
 Filter9 = Noite
 Filter10 = Pôr do Sol
 Filter11 = Sem Filtro
+
+Item_HatKidPose = Pose
+Pose_None = Nenhuma
+Pose_1 = Dona da Rua
+Pose_2 = Blééé Sentado
+Pose_3 = Paz e Tranquilidade
+Pose_4 = Chocada
+Pose_5 = Entrando
+Pose_6 = Equilibrada
+Pose_7 = Passeio Casual
+Pose_8 = Zuuuuum
+Pose_9 = Arminha com o dedo
+Pose_10 = Hmmm
+Pose_11 = Sinsenhô
+Item_HatKidExpression = Cara
+Expression_None = Nenhuma
+Expression_1 = Com Raiva
+Expression_2 = Feliz
+Expression_3 = Surpresa
+Expression_4 = Doendo
+Expression_5 = Nervosa
+Expression_6 = Blééé
+Expression_7 = Nostálgica
+Expression_8 = Hewwo
+Expression_9 = Sem Paciência
+
+Item_CameraType = Tipo de Câmera
+Item_CameraType_Free = Livre
+Item_CameraType_Orbit = Órbita
+
+Item_OutputType = Formato
+Item_OutputType_Screenshot = Foto
+Item_OutputType_Gif = Gif Animado
+
+Item_ScreenshotFolder = Pasta de Fotos
+Item_ScreenshotFolder_View = Abrir...
+
+[MetroFood]
+UndiscoveredCombo = Uma combinação não descoberta está disponível, consegue desvendá-la?
 
 [ActSelect]
 Help_GoToAct = Iniciar Ato
@@ -542,12 +609,16 @@ StandOff_Confirm_Draw0 = É um empate! Deseja deixar a sorte decidir o vencedor?
 StandOff_Confirm_Draw1 = Você tem certeza? Isso será completamente aleatório!
 
 [Shops]
+Total_Cost = Total:
 Item_Cost = Custo
 My_Currency = Eu Tenho
+Action_SelectItem = Selecionar Item
+Action_RemoveItem = Remover Item
 Action_BuyItem = Comprar Item
 Action_LeaveShop = Sair da Loja
 Action_ViewItem = Ver Item
 Action_Back = Voltar
+Action_Checkout = Comprar
 
 [Common]
 MenuConfirm = Sim!
@@ -608,7 +679,7 @@ Starring = ESTRELANDO
 Highscore = AS ANÁLISES SAÍRAM...
 
 [PlayTesting]
-PlayTestRate_0 = Por favor avalie o que você acabou de jogar!
+PlayTestRate_0 = Avalie o que você acabou de jogar!
 PlayTestRate_1 = Muito bom!
 PlayTestRate_2 = Foi decente.
 PlayTestRate_3 = Meh...
@@ -665,9 +736,12 @@ Coop = Cooperativo
 Mods = Mods
 RestartToLastCheckpoint = Recomeçar
 DeathWish = Desejo Mortal
+GhostParty = Turma On-line
 DLC1Title = Seal the Deal
-DLC2Title = DLC 2
+DLC2Title = Metrô Nyakuza
 BingoMode = Modo Bingo
+BonusItems = Itens Bônus
+Soundtracks = Trilha Sonora
 
 [Cinematics]
 SkipCinematic = PULAR
@@ -703,9 +777,30 @@ coop_bullet0 = Jogue a aventura inteira com um amigo
 coop_bullet1 = e ajudem um ao outro a sobreviver
 coop_bullet2 = ou zoem juntos em tela dividida!
 
+dlc2_title = Novo: Metrô Nyakuza
+dlc2_bullet0 = 10 novas Peças Temporais localizadas
+dlc2_bullet1 = nos perigosos túneis do metrô
+dlc2_bullet2 = que A Imperatriz controla!
+
+ghostparty_title = Novo: Turma On-line
+ghostparty_bullet0 = Jogue com até 50 amigos
+ghostparty_bullet1 = ou estranhos nesse
+ghostparty_bullet2 = novo modo on-line!
+
+newgamebowkid_title = Obrigado!
+newgamebowkid_bullet0 = Obrigado por ser um super fã!
+newgamebowkid_bullet1 = Você pode começar uma nova aventura com
+newgamebowkid_bullet2 = a Garotinha do Laço como protagonista!
+
+[Splash]
+Splash_Close = Fechar
+Splash_Next = Próximo
+Splash_ViewStorePage = Ver na Loja
+Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
+
 [DeathWishMap]
 Locked = Ato Bloqueado
-Reward = Pegue o Prêmio!
+Reward = Pegar o Prêmio!
 Unlock = Desbloquear
 Disable = Desabilitar
 Enable = Habilitar
@@ -730,7 +825,7 @@ EasyExit = Não se preocupe, lembre-se de mim\nquando as coisas ficarem difícei
 EasyAccept0 = Um... dois... presto!
 EasyAccept1 = Esse Desejo Mortal ficou mais fácil!
 EasyAccept2 = Tenha um dia tranquilo!
-ButtonYes = Paz e Tranquilidade
+ButtonYes = Sim, por favor!
 ButtonNo = Não!
 
 EasyNamePre = Você quer

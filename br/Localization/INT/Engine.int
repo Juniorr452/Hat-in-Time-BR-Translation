@@ -1,5 +1,5 @@
 [General]
-SplashScreen_CopyrightInfo=Copyright © 2013-2017   Gears for Breakfast, Aps.   Todos os direitos reservados.
+SplashScreen_CopyrightInfo=Copyright © 2013-2019   Gears for Breakfast, Aps.   Todos os direitos reservados.
 
 [Errors]
-NoDownload=Você não pode se juntar à partida porque o host ou tem DLCs que você não possui, ou o seu conteúdo está desatualizado ('`~').
+NoDownload=Você não pode entrar na sessão porque o host tem DLCs que você não possui ou o seu conteúdo está desatualizado ('`~').

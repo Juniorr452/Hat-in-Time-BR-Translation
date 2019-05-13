@@ -82,6 +82,19 @@ TimeRift_Cave_MountainRift = A Fenda da Montanha
 
 secretlevel_beta_space = Desafio do Herói Beta
 
+Chapter7_Metro = Metrô Nyakuza
+Location_Metro_HUB = Estação Principal
+Location_Metro_RouteA = Viaduto Olhar Amarelo
+Location_Metro_RouteB = Estação Verde Aspirante
+Location_Metro_RouteC = Túnel Peixe Lazúli
+Location_Metro_RouteD = Estação Pata Rosada
+Metro_Escape = Horário de Pico
+Metro_Escape_Location = Túneis da Fuga
+Metro_ManholeA = Bueiro Olhar Amarelo
+Metro_ManholeB = Bueiro Verde Aspirante
+Metro_ManholeC = Bueiro Pata Rosada
+Metro_CaveRift_RumbiFactory = Fábrica Rambi
+
 [ActInfoBoxDetails]
 Population_MafiaTown = População: 379
 Population_MafiaTown_Less = População: Menos do que antes, já que fiz eles explodirem
@@ -97,7 +110,7 @@ Sweating_Nope = Transpiração: Sem chance
 Sweating_Yes = Transpiração: Sim, infelizmente
 Sweating_Rain = Transpiração: O céu parece estar transpirando
 
-Mission_Studio = Missão: Encontre pra onde essas\nPeças Temporais foram!
+Mission_Studio = Missão: Encontre para onde essas\nPeças Temporais foram!
 Mission_Award = Missão: Celebre! Você conseguiu!
 Mission_Uncanny = Algo estranho acontecendo aqui?
 ReviewScore = \nMelhor Análise: "2 Estrelas e meia, Todos os\nAtores são Terríveis"
@@ -117,6 +130,7 @@ MovieStars_Penguins = PINGUINS DA LUA como PÚBLICO
 HighScore = Maior Pontuação
 CharacterName_Conductor = CONDUTOR
 CharacterName_DJGrooves = DJ GROOVES
+NumSecondsLeft = [value]s restantes
 
 Mission_Mail = Obrigação: Entregar essas cartas bem velhas!
 Mission_Manor = Obrigação: Ver a velha casa do Snatcher!

@@ -1,0 +1,16 @@
+[booths]
+ticket_booth0 = Quer um Passe de Metrô? 
+sold_out0 = Obrigado pela compra!
+
+[helpdesk]
+help_desk0 = Olá! Precisa do Guia do Metrô? Se você estiver MESMO perdida, ele vai te mostrar para onde ir!
+help_desk1 = [name]Opção de Acessibilidade[/name][br]O metrô é um lugar grande e complexo, pode ser bem difícil de navegar! Se não estiver interessada em explorar e quiser ajuda para achar o objetivo, esses indicadores irão mostrar o caminho a ser seguido. Se quiser voltar a explorar, você pode desligá-los.
+help_desk2 = Precisa de assistência?
+help_desk3 = Então, o que me diz? Você precisa de um guia?
+guide_bought = Gostaria de ter os indicadores ligados ou desligados?
+guide_enable = Ajude-me a achar o caminho!
+guide_disable = Na verdade, eu quero é explorar!
+guide_empty = Estamos... é... já vendemos tudo. Desculpe!
+
+helpyes = Sim, eu quero um guia!
+helpno = Não, eu quero explorar!
