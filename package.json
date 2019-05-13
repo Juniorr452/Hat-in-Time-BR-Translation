@@ -1,0 +1,14 @@
+{
+  "name": "Hat-in-Time-BR-Translation",
+  "version": "3.0.0",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/Juniorr452/Hat-in-Time-BR-Translation.git",
+  "author": "Junior <juniorr452@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-convert-encoding": "^2.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-zip": "^4.2.0"
+  }
+}

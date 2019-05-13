@@ -1,14 +1,10 @@
 language: generic
 
 before_deploy:
-- echo 'Installing gulp...'
-- npm install -g gulp-cli
-- npm install --save-dev gulp
-- npm install --save-dev gulp-convert-encoding
-- npm install --save-dev gulp-zip
-- npm install --save-dev gulp-rename
-- gulp build
-- ls
+  - echo 'Installing gulp...'
+  - npm install
+  - gulp build
+  - ls
 
 deploy:
   provider: releases
