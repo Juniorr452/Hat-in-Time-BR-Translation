@@ -1,37 +1,65 @@
-const gulp            = require('gulp');
-const convertEncoding = require('gulp-convert-encoding');
-const zip             = require('gulp-zip');
-const rename          = require('gulp-rename');
+const gulp = require("gulp");
+const convertEncoding = require("gulp-convert-encoding");
+const copy = require("gulp-copy");
+const zip = require("gulp-zip");
+const rename = require("gulp-rename");
 
-gulp.task('convert_encoding', () => {
-    return gulp.src('br/Localization/INT/**')
-        .pipe(convertEncoding(
-            {
-                from: 'utf8',
-                to: 'utf16'
-            }))
-        .pipe(gulp.dest('br/Localization/INT/'));
+gulp.task("copy_mod_folder", () => {
+  return gulp
+    .src("br/**")
+    .pipe(
+      convertEncoding({
+        from: "utf8",
+        to: "utf16"
+      })
+    )
+    .pipe(gulp.dest("build/br/"));
 });
 
-gulp.task('make_mod_zip', () => {
-    return gulp.src('**/br/**')
-        .pipe(zip('MOD.zip'))
-        .pipe(gulp.dest('build'));
+gulp.task("convert_encoding", () => {
+  return gulp
+    .src("build/br/Localization/INT/**")
+    .pipe(
+      convertEncoding({
+        from: "utf8",
+        to: "utf16"
+      })
+    )
+    .pipe(gulp.dest("build/br/Localization/INT/"));
 });
 
-gulp.task('create_br_files', () => {
-    return gulp.src('br/Localization/INT/**/*.int')
-        .pipe(rename((path) => {
-            path.extname = ".ptb"
-        }))
-        .pipe(gulp.dest('gfb/PTB'));
+gulp.task("make_mod_zip", () => {
+  return gulp
+    .src("**/build/br/**")
+    .pipe(zip("MOD.zip"))
+    .pipe(gulp.dest("dist"));
 });
 
-gulp.task('make_gfb_zip', () => {
-    return gulp.src('gfb/**')
-        .pipe(zip('GfB.zip'))
-        .pipe(gulp.dest('build'));
+gulp.task("create_br_files", () => {
+  return gulp
+    .src("build/br/Localization/INT/**/*.int")
+    .pipe(
+      rename(path => {
+        path.extname = ".ptb";
+      })
+    )
+    .pipe(gulp.dest("build/gfb/PTB"));
 });
 
-gulp.task('build', gulp.series('convert_encoding', 'make_mod_zip', 'create_br_files', 'make_gfb_zip'));
+gulp.task("make_gfb_zip", () => {
+  return gulp
+    .src("build/gfb/**")
+    .pipe(zip("GfB.zip"))
+    .pipe(gulp.dest("dist"));
+});
 
+gulp.task(
+  "build",
+  gulp.series(
+    "copy_mod_folder",
+    "convert_encoding",
+    "make_mod_zip",
+    "create_br_files",
+    "make_gfb_zip"
+  )
+);

@@ -8,6 +8,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-convert-encoding": "^2.0.1",
+    "gulp-copy": "^4.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-zip": "^4.2.0"
   }
