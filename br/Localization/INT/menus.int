@@ -87,6 +87,9 @@ Header_GhostParty = Turma On-line
 Item_GhostPartyDisplay_Title = Mostrar Nomes e Avatares
 Item_GhostPartyDisplay_Desc = Esconde os nomes e fotos de perfil de outros jogadores on-line para reduzir o risco de aparecer conteúdo potencialmente ofensivo. Recomendado para streamers.
 
+Item_PlayRemotePlayerEmoteSounds_Title = Sons de Emotes de Outros Jogadores
+Item_PlayRemotePlayerEmoteSounds_Desc = Se desligado, não vai tocar os sons dos emotes usados por outros jogadores.
+
 Item_GhostPartyDisplay_None = Desabilitado
 Item_GhostPartyDisplay_Name = Só Nomes
 Item_GhostPartyDisplay_Avatar = Só Avatares
@@ -152,7 +155,7 @@ Item_DevConsole_Title = Console de Desenvolvedor
 Item_DevConsole_Desc = Permite acesso ao console de desenvolvedor. Aperte TAB / til (~) para abrir.
 
 Item_DisableMods_Title = Desabilitar Mods
-Item_DisableMods_Desc = Desliga a Steam Workshop e suporte de mods para a ter a experiência original.
+Item_DisableMods_Desc = Desliga a Steam Workshop e suporte de mods para ter a experiência original.
 
 Header_Debug = Debug
 
@@ -414,6 +417,9 @@ Item_InputAssist_Desc = Essa opção irá melhorar a experiência do jogo, guard
 Item_HoldBackToCancelDive_Title = Segurar para trás cancela o Mergulho
 Item_HoldBackToCancelDive_Desc = Enquanto estiver mergulhando, segure na direção oposta para cancelar.
 
+Item_InputAllowEmote_Title = Permitir Emotes
+Item_InputAllowEmote_Desc = Habilitar o uso de emotes.
+
 [systemsettings.controller]
 Header_Controller = Controles Conectados
 Item_NewController_Title = Novo Controle
@@ -503,7 +509,7 @@ ModTimePiece_multiple = Fichas da Fenda de Mods
 
 Offer_AvailableNow = Já Disponível
 
-CreateFileBowKid = Sim, com a Garotinha do Laço!
+CreateFileBowKid = Sim, com a Garota do Laço!
 
 [ItemUnlock]
 ItemUnlock_Badge = Novo chapéu costurado!
@@ -519,6 +525,10 @@ Help_ChangeDoF = Ajustar Profundidade de Campo
 Help_EnableDoF = Ativer Profundidade de Campo
 Help_DisableDoF = Desativar Profundidade de Campo
 Help_Exit = Sair
+Help_Sticker_Apply = Aplicar
+Help_Sticker_Rotate = Rotacionar
+Help_Sticker_Zoom = Ampliar
+Help_Sticker_Grab = Pegar
 
 Msg_Filter = Filtro
 Msg_DoF = Profundidade de Campo
@@ -583,7 +593,7 @@ Item_ScreenshotFolder = Pasta de Fotos
 Item_ScreenshotFolder_View = Abrir...
 
 [MetroFood]
-UndiscoveredCombo = Uma combinação não descoberta está disponível, consegue desvendá-la?
+UndiscoveredCombo = Um combo secreto está disponível, tente encontrá-lo!
 
 [ActSelect]
 Help_GoToAct = Iniciar Ato
@@ -737,7 +747,7 @@ Mods = Mods
 RestartToLastCheckpoint = Recomeçar
 DeathWish = Desejo Mortal
 GhostParty = Turma On-line
-DLC1Title = Seal the Deal
+DLC1Title = Foca no Acordo
 DLC2Title = Metrô Nyakuza
 BingoMode = Modo Bingo
 BonusItems = Itens Bônus
@@ -840,3 +850,7 @@ EasyName6 = Peça de Tranquilidade
 EasyName7 = para tirar um cochilo
 EasyName8 = para habilitar Modo IZI???
 EasyName9 = um Desejo Legal
+
+[Stickers]
+NewRareSticker = Uma figurinha rara apareceu em [location] - encontre-a!
+NewRareStickerUnknownLocation = Uma figurinha rara apareceu em algum lugar - encontre-a!

@@ -44,7 +44,7 @@ HelpUsage = Use seu [icon:activehat] para encontrar seu objetivo!
 
 ChemicalName = Chapéu de Infusão
 ChemicalDescFun0 = Faça misturas malucas!
-ChemicalDescTech0 = Pressione [button:badge] para jogar[br]uma mistura explosiva!
+ChemicalDescTech0 = Pressione [button:badge] para jogar uma mistura explosiva!
 
 TimeStopName = Chapéu de Parar o Tempo
 TimeStopDescFun0 = A morte é inevitável, seu tempo é precioso.
@@ -193,7 +193,7 @@ HK64_Name = Garota Virtual
 HikingSkin_Name = Shorts de Caminhada
 
 NyakuzaOutfitName = Jaqueta da Nyakuza
-NyakuzaOutfitShop = Apenas gatos legais podem vestir essa jaqueta. Esse é o tamanho mais grande que eles têm.
+NyakuzaOutfitShop = Só gatos legais podem vestir essa jaqueta. É o maior tamanho que eles têm.
 BigSweaterName = Suéter Confortável
 BigSweaterShop = É como um travesseiro que você pode vestir.
 WireframeName = Arame
@@ -304,7 +304,7 @@ CompletionistPrefix = Complecionista
 Weapon_Umbrella = Guarda-chuva
 Weapon_Umbrella_Desc = A diplomacia não funcionou, hora da ação.
 Weapon_Nyakuza_BaseballBat = Taco de Beisebol
-Weapon_Nyakuza_BaseballBat_Shop = Perfeito para danificar propriedade, intimidar, e às vezes jogar beisebol.
+Weapon_Nyakuza_BaseballBat_Shop = Perfeito para danificar patrimônio, intimidar, e às vezes jogar beisebol.
 
 [Stickers]
 StickerName = Figurinha
@@ -313,7 +313,7 @@ StickerDesc1 = use com [button:emote] e [icon:camerabadge]!
 
 [MetroFood]
 TeaName = Chá
-TeaDescription = Uma bebida quente, feita da água fervente e das folhas das plantas. Ótimo para te esquentar em um dia frio, seja com você bebendo ou com alguém derramando isso em você.
+TeaDescription = Uma bebida quente, feita da água fervente e das folhas das plantas. Ótimo para lhe esquentar em um dia frio, seja com você bebendo ou com alguém derramando isso em você.
 
 HotChocolateName = Chocolate Quente
 HotChocolateDesc = Uma doce bebida quente, feita a partir de chocolate raspado ou derretido. Aproveite os pequenos pedaços de marshmallows com uma porção de creme, se quiser visitar seu dentista em breve.
@@ -321,8 +321,8 @@ HotChocolateDesc = Uma doce bebida quente, feita a partir de chocolate raspado o
 CoffeeName = Café
 CoffeeDesc = Uma bebida quente e processada, preparada dos grãos do café. Beber este drink regularmente transforma um gatinho em gato, e um gato em uma pilha de nervos.
 
-SoupDumplingsName = Bolo de Sopa
-SoupDumplingsDesc = Pães cozidos no vapor e recheados de carne e sopa. Você não saberá o sabor que existe depois da massa enquanto não criar coragem para morder o desconhecido.
+SoupDumplingsName = Bolinho Oriental
+SoupDumplingsDesc = Pães cozidos no vapor e recheados de carne e sopa. Você não saberá o sabor que existe dentro da massa enquanto não criar coragem para morder o desconhecido.
 
 SpringRollName = Rolinho Primavera
 SpringRollDesc = Uma grande variedade de aperitivos enrolados, muitas vezes recheados com carne ou vegetais. Um lanche delicioso, não importa a estação.
@@ -377,7 +377,7 @@ ComboCoffeeCookies = Café & Biscoitos
 ComboYumCha = Yum Cha
 ComboIceCreamFloat = Vaca-preta
 ComboFishChips = Fish & Chips
-ComboBurgerMenu = Hambúrger do Menu
+ComboBurgerMenu = Hambúrguer do Menu
 ComboCurryRice = Arroz & Curry
 ComboPizzaMenu = Pizza do Menu
 ComboDessert = Sobremesa

@@ -1,5 +1,5 @@
 [finale]
-empress_finale0 = Um milhão de reais para o gato que me trouxer nossa pequena furtadora.
+empress_finale0 = Um milhão de reais para o gato que me trouxer nossa pequena ladra.
 empress_finale1 = Corra se quiser. Você não vai muito longe.
 empress_finale2 = Capturem-na. E rápido.
 empress_finale3 = Tenho que substituir todos vocês? Não conseguem capturar uma criança?
@@ -21,31 +21,31 @@ empress_finale17 = Vamos nos encontrar novamente, pirralha.
 
 
 [timepiece1]
-empress_tp1_0 = Existem mais dessas, tenho certeza. Você parece... talentosa em encontrá-las.
-empress_tp1_1 = Eu lhe pago, e você me trás mais. Um arranjo simples.
+empress_tp1_0 = Há mais dessas, tenho certeza. Você parece... talentosa em encontrá-las.
+empress_tp1_1 = Eu lhe pago, e você trás mais. Um acordo simples.
 empress_tp1_2 = Comece olhando no Viaduto Amarelo. Tenho certeza que você pode se virar.
 empress_tp1_3 = Agora siga seu caminho... e não volte de mãos vazias.
 
 [timepiece2]
 empress_tp2_0 = Você voltou? E tem uma nova [timepiece][icon:timepiece]Peça Temporal[/timepiece] para mim - ótimo.
-empress_tp2_1 = Nosso pequeno arranjo está funcionando bem. Espero que continue assim.
-empress_tp2_2 = E já que está indo tão bem, você não deveria ter nenhum problema para comprar alguns [hint]passes de metrô[/hint].
+empress_tp2_1 = Nosso pequeno acordo está funcionando bem. Espero que continue assim.
+empress_tp2_2 = E já que está indo tão bem, você não deve ter nenhum problema para comprar alguns [hint]passes de metrô[/hint].
 empress_tp2_3 = Afinal de contas, você não vai conseguir ir muito longe sem eles.
 
 [timepiece3]
 empress_tp3_0 = Interessante. Você é mais útil do que imaginei.
 empress_tp3_1 = Continue assim, mocinha, e a fazerei rica. Invisto bem... em lealdade.
-empress_tp3_2 = Agora, mostre que é um bom pequeno investimento e encontre-me outra. Mesmo que tenha que olhar nos [hint]túneis dos bueiros[/hint].
+empress_tp3_2 = Agora, mostre que é um bom pequeno investimento e traga-me outra. Mesmo que tenha que olhar nos [hint]túneis dos bueiros[/hint].
 empress_tp3_3 = Meus gatos e eu os usamos em nosso... trabalho. Tenha cuidado.
 
 [timepiece4]
 empress_tp4_0 = Muito bem. Minha organização sempre tem lugar para pessoas como você.
 empress_tp4_1 = Existe um lugar para você aqui, considerando que você não... me desaponte.
 empress_tp4_2 = Ainda assim, ouvi dizer que minha coleção ainda não está completa. Então, volte ao trabalho.
-empress_tp4_3 = E seja caprichosa. Olhe em todo canto, me ouviu?
+empress_tp4_3 = E seja caprichosa. Olhe em todo canto, ouviu?
 
 [timepiece5]
-empress_tp5_0 = Uma quinta? Você continua a me surpreender.
+empress_tp5_0 = A quinta? Você continua a me surpreender.
 empress_tp5_1 = Está aproveitando sua estadia no metrô? Existem pessoas de todos os lugares aqui.
 empress_tp5_2 = É o lugar perfeito para uma pequena mentira. Uma pequena enganação... um pequeno roubo.
 empress_tp5_3 = Você quase conseguiu um pouco da ação de verdade aqui. Quase.
@@ -53,7 +53,7 @@ empress_tp5_3 = Você quase conseguiu um pouco da ação de verdade aqui. Quase.
 [timepiece6]
 empress_tp6_0 = Outra? Não devem ter muitas restantes.
 empress_tp6_1 = Em breve ocorrerá uma operação que eu pretendo fazer uma fortuna. Um negócio de transporte.
-empress_tp6_2 = Traga-me mais, e não haverá um gato nessa cidade com mais garras do que eu.
+empress_tp6_2 = Traga-me mais, e não haverá um gato nesta cidade com mais garras do que eu.
 
 [timepiece7]
 empress_tp7_0 = Sete. Um número da sorte para alguns, sabe.
@@ -61,7 +61,7 @@ empress_tp7_1 = Você tem sonhos, mocinha? Coisas que quer fazer quando for mais
 empress_tp7_2 = Continue sendo útil, e não vai ter muito fora do seu alcance. 
 
 [timepiece8]
-empress_tp8_0 = Uma oitava? Hm... quão apropriado.
+empress_tp8_0 = A oitava? Hm... quão apropriado.
 empress_tp8_1 = Para você, isso significa mais dinheiro. Eu disse que iria lhe fazer rica, e eu não minto para os meus.
 empress_tp8_2 = Agora, quanto a mim... bom, isso é da MINHA conta. Entrarei em contato caso precise de suas habilidades novamente, mocinha.
 empress_tp8_3 = Por agora, aproveite seus ganhos. Tenho lugares para ir, e preparações a fazer.
@@ -75,7 +75,7 @@ empress_tp9_3 = Ótimo? Então de volta ao trabalho.
 [directions]
 empress_dir_yellowR = Bom... comece a procura pela Linha Amarela, mocinha. 
 
-empress_dir_greenR = Ouvi relatos de que tem algo brilhante no topo da Estação Verde Aspirante. Vá.
+empress_dir_greenR = Ouvi relatos de que há algo brilhante no topo da Estação Verde Aspirante. Vá.
 
 empress_dir_blueR = Peixe Lazúli. O subsolo. Não volte de mãos vazias.
 
@@ -94,7 +94,7 @@ empress_dir_blueM = Espero que não seja claustrofóbica. Peixe Lazúli novament
 empress_dir_pinkM2 = Existe um segundo túnel em Pata Rosada. Procure por ele.
 
 [postfinale]
-empress_post_finale_0 = Voltando diretamente para minhas garras. Corajoso.
+empress_post_finale_0 = Bem de volta para as minhas garras. Corajoso.
 empress_post_finale_1 = Não se deixe enganar, mocinha. Se esses policiais não estivessem fazendo esse show investigando agora mesmo, você não escaparia novamente. 
 empress_post_finale_2 = Graças a sua pequena façanha, o Chefe quer... renegociar nosso acordo. Ele acredita que enviar alguns de seus filhotinhos para cá vai me pressionar.
 empress_post_finale_3 = Eles não acharão nada, claro. Eles não são tão estúpidos. Mas isso significa que terei que manter as coisas em ordem por enquanto. Sem ninguém sofrendo acidentes, sabe.

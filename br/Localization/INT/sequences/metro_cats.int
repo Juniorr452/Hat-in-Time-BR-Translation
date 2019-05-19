@@ -1,5 +1,5 @@
 [ambient]
-metrocat_2p_missing_0 = Ouviu que alguém desapareceu semana passada? [br]Eles dizem que foi-
+metrocat_2p_missing_0 = Ouviu que alguém desapareceu semana passada? [br]Dizem que foi-
 metrocat_2p_missing_1 = Xiiu! Olhe o que fala por aqui.
 
 metrocat_1p_helpdesk_0 = Está perdida, criança? Você pode no [hint]balcão de ajuda[/hint] [br]se está procurando por alguma coisa.
@@ -111,7 +111,7 @@ metrocat_2p_sphynx_3 = Ela? Eu acho que é daquela raça Sphynx.
 
 metrocat_2p_stash_0 = Então, o que você fez com a sua parte?
 metrocat_2p_stash_1 = O de sempre. Guardei.
-metrocat_2p_stash_2 = O que, você só deixou parado? Não gastou nada?
+metrocat_2p_stash_2 = O quê, você só deixou parado? Não gastou nada?
 metrocat_2p_stash_3 = Ahã, isso mesmo. Estou guardando pra comprar uma casa nova.
 metrocat_2p_stash_4 = Você vai pagar por uma casa com dinheiro em notas? Não é meio suspeito?
 metrocat_2p_stash_5 = Eu, hã.... não pensei nisso. Você acha que ela me faria um cheque?
@@ -125,7 +125,7 @@ metrocat_2p_mud_4 = Não tão ruim, é? Um robô de limpeza correu atrás de mim
 metrocat_2p_cops_0 = Sabe, faz tempo que não vejo um gato policial.
 metrocat_2p_cops_1 = E nem vai ver. Ouvi dizer que você-sabe-quem fez um trato com eles.
 metrocat_2p_cops_2 = Sério?
-metrocat_2p_cops_3 = Sim. Eles não vem aqui pra baixo, ela não vai lá pra cima.
+metrocat_2p_cops_3 = Sim. Eles não vêm aqui pra baixo, ela não vai lá pra cima.
 
 metrocat_2p_cclives_0 = Você viu o último episódio da Gata Cozinheira?
 metrocat_2p_cclives_1 = Ah, eu perdi. Foi outro episódio na Cidade Mafiosa?
@@ -186,11 +186,11 @@ metrocat_3p_watched_0 = Você já teve a sensação que está sendo observado?
 metrocat_3p_watched_1 = Nunca. Todo mundo sabe que não devem se meter conosco.
 metrocat_3p_watched_2 = É. A chefe não ia gostar disso nem um pouquinho.
 
-metrocat_2p_feedtrain_0 = Eu tentei alimentar um dos gatos-trem mais cedo.
+metrocat_2p_feedtrain_0 = Eu tentei dar comida pra um dos gatos-trem mais cedo.
 metrocat_2p_feedtrain_1 = O quê? Eles pedem pra você não fazer isso!
 metrocat_2p_feedtrain_2 = Eu sei... eu pensei que eles iam parar para comer, mas acabei atropelado.
 metrocat_2p_feedtrain_3 = Au.
-metrocat_2p_feedtrain_4 = É, eles realmente tem a mente nos trilhos.
+metrocat_2p_feedtrain_4 = É, eles realmente têm a mente nos trilhos.
 
 metrocat_2p_shinything_0 = Eu continuo vendo essas coisas brilhantes pelo metrô.
 metrocat_2p_shinything_1 = 'Coisas' brilhantes? Onde? Eu tenho uma, é... amiga que está procurando por elas.
@@ -251,7 +251,7 @@ metro_yellow_2 = funcionários amigáveis, preços justos[br][icon:reviewstar1][
 
 metro_red&yellow_0 = eles têm uma máquina de refrigerante chique[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
 metro_red&yellow_1 = ESQUECERAM DO MEU KETCHUP[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
-metro_red&yellow_2 = melhor hambúrguer do metro[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_red&yellow_2 = melhor hambúrguer do metrô[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
 
 metro_ramen_0 = tive que pagar extra por arroz???[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
 metro_ramen_1 = comida perfeita pra relaxar[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]

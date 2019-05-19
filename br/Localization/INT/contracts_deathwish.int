@@ -88,12 +88,12 @@ Condition = Sem cura entre lutas
 Tip0 = Se você encontrar uma [icon:health] [name]Gema de Vida[/name] que não precise, não a pegue ainda! Você pode precisar depois...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
-Title = Seal the Deal
+Title = Foca no Acordo
 Objective = Vença seus inimigos mais poderosos
 Condition = Boa sorte!
 NoHats = Não use nenhuma habilidade de chapéu
 FewHits = Não deixe sua vida cair para 1 PV
-Tip0 = Não esqueça de fazer intervalos! Não se mover por longos períodos de tempo não é bom para sua saúde!
+Tip0 = Não esqueça de fazer pausas! Não se mover por longos períodos de tempo não é bom para sua saúde!
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = Collect-a-thon
