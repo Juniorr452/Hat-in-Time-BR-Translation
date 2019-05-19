@@ -133,8 +133,8 @@ Objective = Encontre uma Moeda do Snatcher em Floresta Subcon
 Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser como andar de bicicleta!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
-Title = Moedas do Snatcher na Alpine Skyline
-Objective = Encontre uma Moeda do Snatcher em Alpine Skyline
+Title = Moedas do Snatcher na Tirolesa Alpina
+Objective = Encontre uma Moeda do Snatcher em Tirolesa Alpina
 2Tokens = Encontre 2 Moedas do Snatcher
 3Tokens = Encontre todas as 3 Moedas do Snatcher
 Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser muito fácil!
@@ -200,8 +200,8 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse você pegar eles mais fácil...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
-Title = Rush! - Alpine Skyline
-Objective = Escape da fenda Alpine Skyline
+Title = Rush! - Tirolesa Alpina
+Objective = Escape da fenda Tirolesa Alpina
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
 Faster = Escape com mais de 30 segundos restantes
