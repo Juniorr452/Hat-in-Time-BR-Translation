@@ -57,7 +57,7 @@ gulp.task(
   "build",
   gulp.series(
     "copy_mod_folder",
-    "convert_encoding",
+    //"convert_encoding",
     "make_mod_zip",
     "create_br_files",
     "make_gfb_zip"
