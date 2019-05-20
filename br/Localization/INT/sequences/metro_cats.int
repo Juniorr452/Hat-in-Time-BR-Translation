@@ -10,8 +10,8 @@ metrocat_2p_stuck_0 = Já te falei sobre o meu amigo? [br]Ele perdeu um [hint]pa
 metrocat_2p_stuck_1 = Hã, espero que ele tenha conseguido comprar um novo. Essas [hint]bilheterias[/hint] são tão restritivas!
 
 metrocat_2p_sushi_0 = Já visitou o restaurante de sushi lá em cima, hm?
-metrocat_2p_sushi_1 = Ainda não. Sempre vejo ele da Linha Verde quando vou trabalhar, e me deixa com fome.
-metrocat_2p_sushi_2 = Às vezes, eu queria poder pular até ele.
+metrocat_2p_sushi_1 = Ainda não. Sempre vejo ele da Linha Verde quando vou trabalhar, e fico com fome.
+metrocat_2p_sushi_2 = Às vezes, eu queria poder pular até lá.
 
 metrocat_2p_stolen_0 = Já falei que tive que comprar um outro [hint]passe de metrô[/hint]? Acho que foi roubado.
 metrocat_2p_stolen_1 = Você deveria prestar mais atenção. Ouvi dizer que tem tido mais crimes por aqui recentemente.
@@ -74,7 +74,7 @@ metrocat_3p_needmoney_0 = Espero que consiga fazer hora extra no trabalho.
 metrocat_3p_needmoney_1 = Precisa de dinheiro extra, é?
 metrocat_3p_needmoney_2 = Se estiver procurando por trabalho extra, sei com quem você pode conversar.
 
-metrocat_3p_bigidea_0 = Tô com essa ideia bem grande para um restaurante.
+metrocat_3p_bigidea_0 = Tive uma ideia bem grande para um restaurante.
 metrocat_3p_bigidea_1 = Sério? Um restaurante nessa parte da cidade? Já tem tantos!
 metrocat_3p_bigidea_2 = É. O que o seu faria tão especial?
 metrocat_3p_bigidea_3 = Então... pensa num drive-through.
@@ -175,7 +175,7 @@ metrocat_3p_confusion_13 = Tem duas Verdes.
 metrocat_3p_confusion_14 = E três Amarelas.
 metrocat_3p_confusion_15 = Eu vou perder meu trem de novo.
 
-metrocat_3p_stickers_0 = Quem fica colocando esses adesivos em todo lugar?
+metrocat_3p_stickers_0 = Quem fica colocando esses adesivos em todo canto?
 metrocat_3p_stickers_1 = Filhotes. Hoje em dia eles não tem respeito por lugares públicos.
 metrocat_3p_stickers_2 = É sujar a cidade, é isso o que estão fazendo!
 metrocat_3p_stickers_3 = Mas eu meio que quero um.
