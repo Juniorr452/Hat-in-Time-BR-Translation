@@ -12,7 +12,7 @@ LobbyPrompt = Nome da Turma
 OnlineInfo = Permite você ver e interagir com outros jogadores, incluindo amigos e pessoas desconhecidas.
 PublicInfo = Caso preenchido, você só verá jogadores que estiverem nessa turma. Se estiver em branco, verá jogadores visitantes de vez em quando.
 
-Tutorial0 = Bem-vindo ao modo [wave][hint]Turma On-line[/hint][/wave]! Misture as dimensões e veja seus amigos!
+Tutorial0 = Bem-vindo ao modo [wave][hint]Turma On-line[/hint][/wave]! Junte dimensões paralelas e veja seus amigos!
 Tutorial1 = Ligue a opção para encontrar jogadores de outros mundos na sua jornada!
 Tutorial2 = Ou digite o nome de uma turma para jogar apenas com seus amigos!
 

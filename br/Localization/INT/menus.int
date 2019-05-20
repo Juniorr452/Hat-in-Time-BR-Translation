@@ -525,6 +525,8 @@ Help_ChangeDoF = Ajustar Profundidade de Campo
 Help_EnableDoF = Ativer Profundidade de Campo
 Help_DisableDoF = Desativar Profundidade de Campo
 Help_Exit = Sair
+Help_ShowMenu = Mostrar Menu
+Help_HideMenu = Esconder Menu
 Help_Sticker_Apply = Aplicar
 Help_Sticker_Rotate = Rotacionar
 Help_Sticker_Zoom = Ampliar
@@ -854,3 +856,5 @@ EasyName9 = um Desejo Legal
 [Stickers]
 NewRareSticker = Uma figurinha rara apareceu em [location] - encontre-a!
 NewRareStickerUnknownLocation = Uma figurinha rara apareceu em algum lugar - encontre-a!
+MachineNoRareSticker = A máquina não está detectando nenhuma anomalia agora, talvez pegue alguma coisa mais tarde.
+MachineRareSticker = A máquina detectou um sinal raro, o sinal diz...[br][stickerloc]
