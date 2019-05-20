@@ -37,7 +37,7 @@ metrocat_2p_badcrowd_1 = Crianças não deveriam andar sozinhas! Tomara que ela 
 metrocat_2p_chase_0 = Dá vontade abraçar e pular em cima daqueles aspiradores.
 metrocat_2p_chase_1 = Abraçar? Se você se sujar eles vêm correndo atrás de você! É assustador.
 
-metrocat_2p_jewellery_0 = Já pensou que é meio esquisito ter, hã, uma loja grande de jóias caras por aqui?
+metrocat_2p_jewellery_0 = Já pensou que é meio esquisito ter, hã, uma loja grande de joias caras por aqui?
 metrocat_2p_jewellery_1 = Como assim?
 metrocat_2p_jewellery_2 = Digo, quem vem até o metrô pra comprar um colar? Tem alguma coisa estranha sobre aquele lugar.
 metrocat_2p_jewellery_3 = Hm, eu não sei do que você tá falando.
@@ -258,7 +258,7 @@ metro_ramen_1 = comida perfeita pra relaxar[br][icon:reviewstar1][icon:reviewsta
 metro_ramen_2 = Serviço rápido e ótima comida.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
 
 [finale]
-finale_cop0 = Ei, criança. Não se preocupe, eu estou no, hã... negócio de jóias.
+finale_cop0 = Ei, criança. Não se preocupe, eu estou no, hã... negócio de joias.
 finale_cop1 = Aconteceu alguma coisa enquanto eu estava lá em cima? A chefe parecia nervosa.
 finale_cop2 = De qualquer forma, eu tinha algo para entregar à ela, mas eu não podia fazer a troca com meu parceiro aqui.
 finale_cop3 = Eu sei que ela tem usado você para recuperar elas, então tome conta dessa aqui para mim.
@@ -296,4 +296,4 @@ metro_easteregg_extra = Yeehaw :)
 [cutscenes]
 Intro0 = Isso pertence à chefe!
 Midpoint0 = Não fui eu, eu juro!
-Midpoint1 = Eu nunca triscaria uma pata nas suas jóias!
+Midpoint1 = Eu nunca triscaria uma pata nas suas joias!
