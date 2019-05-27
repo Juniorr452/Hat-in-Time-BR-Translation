@@ -76,24 +76,24 @@ Tip0 = Tendo dificuldade com plataformas rápidas? Tente não pular tão alto qu
 [Hat_SnatcherContract_DeathWish_SecretVault]
 Title = Cofre Secreto
 Objective = Abra o Cofre Dourado
-Condition = Todos os Códigos do Cofre estão espalhados
-Condition2 = O Cofre aponta parcialmente para os códigos
+Condition = Os Códigos foram espalhados
+Condition2 = O Cofre aponta vagamente para os códigos
 
 [Hat_SnatcherContract_DeathWish_BossRush]
 Title = Boss Rush
 Objective = Abaixo à Máfia (e todo o resto!)
-NoMiss = Não perca uma chance de bater
+NoMiss = Não perca sua chance de bater
 OneHit = Vença com a insígnia Hit Kill equipada
 Condition = Sem cura entre lutas
 Tip0 = Se você encontrar uma [icon:health] [name]Gema de Vida[/name] que não precise, não a pegue ainda! Você pode precisar depois...
 
 [Hat_SnatcherContract_DeathWish_BossRushEX]
-Title = Seal the Deal
+Title = Foca no Acordo
 Objective = Vença seus inimigos mais poderosos
 Condition = Boa sorte!
 NoHats = Não use nenhuma habilidade de chapéu
 FewHits = Não deixe sua vida cair para 1 PV
-Tip0 = Não esqueça de fazer intervalos! Não se mover por longos períodos de tempo não é bom para sua saúde!
+Tip0 = Não esqueça de fazer pausas! Não se mover por longos períodos de tempo não é bom para sua saúde!
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = Collect-a-thon
@@ -105,29 +105,36 @@ Tip0 = Não pare de coletar Gemas, garotinha! Fique de olho em caixas, barris, i
 EasyTip = Quebre caixas e barris!
 
 [Hat_SnatcherContract_DeathWish_Tokens_MafiaTown]
-Title = Moedas do Snatcher em Cidade Mafiosa
+Title = Moedas do Snatcher na Cidade Mafiosa
 Objective = Encontre uma Moeda do Snatcher na Cidade Mafiosa
 2Tokens = Encontre 2 Moedas do Snatcher
 3Tokens = Encontre todas as 3 Moedas do Snatcher
 Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser como tirar doce de criança!
 
+[Hat_SnatcherContract_DeathWish_Tokens_Metro]
+Title = Moedas do Snatcher no Metrô Nyakuza
+Objective = Encontre uma Moeda do Snatcher no Metrô Nyakuza
+2Tokens = Encontre 2 Moedas do Snatcher
+3Tokens = Encontre todas as 3 Moedas do Snatcher
+Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser como tirar doce de um gatinho!
+
 [Hat_SnatcherContract_DeathWish_Tokens_Birds]
-Title = Moedas do Snatcher em Batalha dos Pássaros
+Title = Moedas do Snatcher na Batalha dos Pássaros
 Objective = Encontre uma Moeda do Snatcher em Batalha dos Pássaros
 2Tokens = Encontre 2 Moedas do Snatcher
 3Tokens = Encontre todas as 3 Moedas do Snatcher
 Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser moleza!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Subcon]
-Title = Moedas do Snatcher em Floresta Subcon
+Title = Moedas do Snatcher na Floresta Subcon
 Objective = Encontre uma Moeda do Snatcher em Floresta Subcon
 2Tokens = Encontre 2 Moedas do Snatcher
 3Tokens = Encontre todas as 3 Moedas do Snatcher
 Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser como andar de bicicleta!
 
 [Hat_SnatcherContract_DeathWish_Tokens_Alps]
-Title = Moedas do Snatcher em Alpine Skyline
-Objective = Encontre uma Moeda do Snatcher em Alpine Skyline
+Title = Moedas do Snatcher na Tirolesa Alpina
+Objective = Encontre uma Moeda do Snatcher em Tirolesa Alpina
 2Tokens = Encontre 2 Moedas do Snatcher
 3Tokens = Encontre todas as 3 Moedas do Snatcher
 Tip0 = Se você usar o [icon:compassbadge], encontrar elas deve ser muito fácil!
@@ -193,8 +200,8 @@ Condition = A Fenda Temporal ficou instável!
 Tip0 = Com certeza tem vários [icon:treasure] espalhados por aí. Se apenas você tivesse uma [name]insígnia[/name] que fizesse você pegar eles mais fácil...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Alps]
-Title = Rush! - Alpine Skyline
-Objective = Escape da fenda Alpine Skyline
+Title = Rush! - Tirolesa Alpina
+Objective = Escape da fenda Tirolesa Alpina
 AllPons = Pegue todas as Gemas da Fenda
 AllPons_Easy = Pegue todas as Gemas da Fenda menos 3
 Faster = Escape com mais de 30 segundos restantes
@@ -283,7 +290,7 @@ Condition = Esse projeto é uma colaboração...
 Tip0 = Tem muita coisa acontecendo aqui, mas não se distraia![br]Lembre-se, garota: um pássaro na mão é melhor que dois voando!
 
 [Hat_SnatcherContract_DeathWish_SnatcherEX]
-Title = Brecha no Contrato
+Title = Furo no Contrato
 Objective = Derrote o Snatcher
 Condition = Estou ainda mais bonitão que o normal!
 FewHits = Não deixe sua vida cair para 1 PV 
@@ -327,7 +334,7 @@ EasyTip = Tente usar o Chapéu de Parar o Tempo!
 
 [Hat_SnatcherContract_DeathWish_CommunityRift_RhythmJump]
 Title = Fenda da Comunidade: Estúdio Rhythm Jump
-ShortTitle = Estúdio Jump Studio
+ShortTitle = Estúdio Jump
 Condition = Contribuído por Lane 'FlameLFH' Haskins
 Objective = Termine a Fenda Temporal
 AllPons = Pegue todas as Gemas da Fenda
