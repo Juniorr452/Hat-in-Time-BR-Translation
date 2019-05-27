@@ -1,0 +1,299 @@
+[ambient]
+metrocat_2p_missing_0 = Ouviu que alguém desapareceu semana passada? [br]Dizem que foi-
+metrocat_2p_missing_1 = Xiiu! Olhe o que fala por aqui.
+
+metrocat_1p_helpdesk_0 = Está perdida, criança? Você pode no [hint]balcão de ajuda[/hint] [br]se está procurando por alguma coisa.
+
+metrocat_1p_waiting_0 = Pode me deixar em paz, por favor? Tô esperando um trem.
+
+metrocat_2p_stuck_0 = Já te falei sobre o meu amigo? [br]Ele perdeu um [hint]passe de metrô[/hint] e ficou preso na Estação Pata Rosada.
+metrocat_2p_stuck_1 = Hã, espero que ele tenha conseguido comprar um novo. Essas [hint]bilheterias[/hint] são tão restritivas!
+
+metrocat_2p_sushi_0 = Já visitou o restaurante de sushi lá em cima, hm?
+metrocat_2p_sushi_1 = Ainda não. Sempre vejo ele da Linha Verde quando vou trabalhar, e fico com fome.
+metrocat_2p_sushi_2 = Às vezes, eu queria poder pular até lá.
+
+metrocat_2p_stolen_0 = Já falei que tive que comprar um outro [hint]passe de metrô[/hint]? Acho que foi roubado.
+metrocat_2p_stolen_1 = Você deveria prestar mais atenção. Ouvi dizer que tem tido mais crimes por aqui recentemente.
+
+metrocat_2p_burgers_0 = O que você quer comer antes de irmos embora?
+metrocat_2p_burgers_1 = Comer aonde? Têm tantos lugares de fast-food por aqui. 
+metrocat_2p_burgers_2 = Hmm... Acho que tô com vontade de hambúrguer.
+metrocat_2p_burgers_3 = Você SEMPRE está com vontade de hambúrguer.
+
+metrocat_2p_right_0 = Vê se compra o passe certo.
+metrocat_2p_right_1 = Eu sei, eu sei. Eles têm [hint]cores diferentes[/hint].
+
+metrocat_2p_knocking_0 = Já ouviu um barulho no teto quando tava andando de trem? [br]Como se alguém estivesse andando nele?
+metrocat_2p_knocking_1 = Hã, eu acho que você está ouvindo coisas. [br]Ninguém andaria em cima de um trem.
+
+metrocat_2p_shortcuts_0 = Você não ouviu isso de mim, hã, mas algumas dessas tampas de bueiros? Elas não são reais.
+metrocat_2p_shortcuts_1 = O quê? Tipo, eles são só pinturas?
+metrocat_2p_shortcuts_2 = Não, não assim. Eles não levam até o esgoto. Meu amigo me falou que são atalhos pra outras partes do metrô.
+
+metrocat_2p_badcrowd_0 = Você viu aquela criança correndo por ai?
+metrocat_2p_badcrowd_1 = Crianças não deveriam andar sozinhas! Tomara que ela não se meta com gente errada.
+
+metrocat_2p_chase_0 = Dá vontade abraçar e pular em cima daqueles aspiradores.
+metrocat_2p_chase_1 = Abraçar? Se você se sujar eles vêm correndo atrás de você! É assustador.
+
+metrocat_2p_jewellery_0 = Já pensou que é meio esquisito ter, hã, uma loja grande de joias caras por aqui?
+metrocat_2p_jewellery_1 = Como assim?
+metrocat_2p_jewellery_2 = Digo, quem vem até o metrô pra comprar um colar? Tem alguma coisa estranha sobre aquele lugar.
+metrocat_2p_jewellery_3 = Hm, eu não sei do que você tá falando.
+metrocat_2p_jewellery_4 = O quê? Não acha que não tem nada de estranho com aquilo?
+metrocat_2p_jewellery_5 = Xiiu, chega! Não fica olhando aquela loja, ok?
+
+metrocat_1p_watchstep_0 = Olhe por onde anda, criança. Parece que alguns desses bueiros daqui vão cair se você pisar forte demais.
+
+metrocat_1p_weirdgates_0 = Os portões daqui são bem esquisitos.
+metrocat_1p_weirdgates_1 = Você precisa dos passes [hint]Azul[/hint] E [hint]Amarelo[/hint] para passar!
+
+metrocat_2p_delayed_0 = Más notícias, companheiro. O das três se atrasou novamente...
+metrocat_2p_delayed_1 = De novo!? Aaaah, isso é ruim. Vou me atrasar.
+metrocat_2p_delayed_2 = Talvez você possa pegar um trem diferente?
+metrocat_2p_delayed_3 = E-Eu nunca peguei um diferente! E se eu me perder?
+
+metrocat_2p_rightmeow_0 = Agh... se miau trem não aparecer agora, vou me atrasar!
+metrocat_2p_rightmeow_1 = Eu não ouvi a respeito de nenh- espera, o que você acabou de...?
+metrocat_2p_rightmeow_2 = De o quê?
+metrocat_2p_rightmeow_3 = Deixa pra lá. Devo ter ouvido errado.
+
+metrocat_2p_outoftown_0 = Ouvi dizer que 'a joalheira' quer transportar um 'colar bem grande' para fora da cidade em breve. 
+metrocat_2p_outoftown_1 = Ouviu alguma coisa sobre isso?
+metrocat_2p_outoftown_2 = Não ouvi nada. Não sei do que você está falando, amiguinho.
+metrocat_2p_outoftown_3 = Tem certeza? Eu não sou tipo, um repórter nem nada assim.
+metrocat_2p_outoftown_4 = Eu... tenho certeza, sim.
+
+metrocat_2p_missingvan_0 = Antigamente aqui tinha uma van que vendia hambúrguer... sinto tanta falta dela.
+metrocat_2p_missingvan_1 = Hmmm... aquele lugar seguindo a rua não vende hambúrguer também?
+metrocat_2p_missingvan_2 = Sim, mas... a van costumava ficar BEM aqui, sabe?
+metrocat_2p_missingvan_3 = Tch. Você é tão preguiçoso.
+
+metrocat_3p_needmoney_0 = Espero que consiga fazer hora extra no trabalho.
+metrocat_3p_needmoney_1 = Precisa de dinheiro extra, é?
+metrocat_3p_needmoney_2 = Se estiver procurando por trabalho extra, sei com quem você pode conversar.
+
+metrocat_3p_bigidea_0 = Tive uma ideia bem grande para um restaurante.
+metrocat_3p_bigidea_1 = Sério? Um restaurante nessa parte da cidade? Já tem tantos!
+metrocat_3p_bigidea_2 = É. O que o seu faria tão especial?
+metrocat_3p_bigidea_3 = Então... pensa num drive-through.
+metrocat_3p_bigidea_4 = Não tem espaço pra carros aqui em baixo!
+metrocat_3p_bigidea_5 = Certo, certo, mas imagine um... para trens!
+metrocat_3p_bigidea_6 = Por favor me diga que isso tudo não é para um trocadilho de 'fast' food.
+metrocat_3p_bigidea_7 = Você teria que pegar sua comida tão rápi- ah.
+
+metrocat_3p_foodchoice_0 = Então, que tal ramen?
+metrocat_3p_foodchoice_1 = Nós comemos isso ontem... que tal Fish & Chips?
+metrocat_3p_foodchoice_2 = Vou comer isso amanhã. Mas eu poderia ir por um hambúrguer.
+metrocat_3p_foodchoice_3 = Hããã... eu já comi hambúrguer duas vezes essa semana.
+metrocat_3p_foodchoice_4 = ... talvez seja melhor comermos em lugares diferentes.
+
+metrocat_2p_beckoning_0 = Qual é a do gato gigante dando a pata?
+metrocat_2p_beckoning_1 = Tá acenando, não dando a pata! É um símbolo de boa sorte, que nem trevos ou ferraduras.
+metrocat_2p_beckoning_2 = Pra quê que gatos precisam de sorte? Nós caimos de perna pra baixo, temos nove vidas...
+metrocat_2p_beckoning_3 = Digo, não existe isso de ser sortudo DEMAIS, certo?
+
+metrocat_2p_purehate_0 = Eu odeio essa estação.
+metrocat_2p_purehate_1 = Ah, lá vamos nós de novo...
+metrocat_2p_purehate_2 = Você sai em uma linha, anda para outra, escaneia dois passes diferentes...
+metrocat_2p_purehate_3 = Mmm-hmm.
+metrocat_2p_purehate_4 = E eu tenho que trocar de linha outras quatro vezes só para chegar aonde eu quero.
+metrocat_2p_purehate_5 = Ahã.
+metrocat_2p_purehate_6 = Eu tenho certeza que alguns desses trens não estão indo pra lugar algum!
+metrocat_2p_purehate_7 = Quer ir comer algo depois?
+metrocat_2p_purehate_8 = ... sim, eu acho.
+
+metrocat_2p_sphynx_0 = Você viu aquele gato esquisito andando por ai?
+metrocat_2p_sphynx_1 = Hã?
+metrocat_2p_sphynx_2 = Sabe? Aquele gato sem pelo?
+metrocat_2p_sphynx_3 = Ela? Eu acho que é daquela raça Sphynx.
+
+metrocat_2p_stash_0 = Então, o que você fez com a sua parte?
+metrocat_2p_stash_1 = O de sempre. Guardei.
+metrocat_2p_stash_2 = O quê, você só deixou parado? Não gastou nada?
+metrocat_2p_stash_3 = Ahã, isso mesmo. Estou guardando pra comprar uma casa nova.
+metrocat_2p_stash_4 = Você vai pagar por uma casa com dinheiro em notas? Não é meio suspeito?
+metrocat_2p_stash_5 = Eu, hã.... não pensei nisso. Você acha que ela me faria um cheque?
+
+metrocat_2p_mud_0 = Tô tendo um dia terrível. Preciso de uma bebida.
+metrocat_2p_mud_1 = O que aconteceu?
+metrocat_2p_mud_2 = Eu pisei na lama...
+metrocat_2p_mud_3 = Isso não é tããão ruim?
+metrocat_2p_mud_4 = Não tão ruim, é? Um robô de limpeza correu atrás de mim na estação por 10 minutos!
+
+metrocat_2p_cops_0 = Sabe, faz tempo que não vejo um gato policial.
+metrocat_2p_cops_1 = E nem vai ver. Ouvi dizer que você-sabe-quem fez um trato com eles.
+metrocat_2p_cops_2 = Sério?
+metrocat_2p_cops_3 = Sim. Eles não vêm aqui pra baixo, ela não vai lá pra cima.
+
+metrocat_2p_cclives_0 = Você viu o último episódio da Gata Cozinheira?
+metrocat_2p_cclives_1 = Ah, eu perdi. Foi outro episódio na Cidade Mafiosa?
+metrocat_2p_cclives_2 = Melhor! Ela foi em um cruzeiro pra experimentar a comida, sabe?
+metrocat_2p_cclives_3 = Foi bom?
+metrocat_2p_cclives_4 = Foi ok, mas o navio afundou!
+metrocat_2p_cclives_5 = O quê!? Spoilers!
+metrocat_2p_cclives_6 = Foi mal...
+metrocat_2p_cclives_7 = A Gata Cozinheira tá bem? Ela saiu viva?
+metrocat_2p_cclives_8 = Sim. Você não vê ela nos botes salva-vidas, mas ela aparece na vinheta final.
+metrocat_2p_cclives_9 = Ah, ainda bem. Eu não seria capaz de aturar um final sem conclusão.
+
+metrocat_2p_metrosmell_0 = Sentiu esse cheiro?
+metrocat_2p_metrosmell_1 = Qual?
+metrocat_2p_metrosmell_2 = Parece pelo molhado, misturado com gasolina, e fumaça.
+metrocat_2p_metrosmell_3 = Agh, agora que você falou...
+metrocat_2p_metrosmell_4 = Não é horrível?
+metrocat_2p_metrosmell_5 = É péssimo! É tudo que consigo cheirar agora. Tá para todo lado!
+metrocat_2p_metrosmell_6 = Não acredito que você não tinha percebido até agora.
+
+metrocat_3p_ignored_0 = Ei, posso pegar a sua máscara emprestada? A minha arrebentou.
+metrocat_3p_ignored_1 = Xiiiu, quieto! Você não sabe quem pode estar ouvindo!
+metrocat_3p_ignored_2 = Do que vocês dois estão falando?
+metrocat_3p_ignored_3 = Nada. Nos deixe em paz.
+metrocat_3p_ignored_4 = É melhor você conseguir uma nova. Nunca se sabe quando você vai precisar dela.
+metrocat_3p_ignored_5 = Eu vi uma criança com uma máscara mais cedo!
+metrocat_3p_ignored_6 = Ela vai cortar minha cabeça se eu chegar pedindo uma nova!
+metrocat_3p_ignored_7 = Só bote suas mãos na frente da sua cara e faz de conta que você está usando ela.
+metrocat_3p_ignored_8 = Hã? Oi?
+metrocat_3p_ignored_9 = Isso funciona mesmo?
+metrocat_3p_ignored_10 = Sim, eu faço o tempo todo. Ninguém percebe.
+
+metrocat_3p_confusion_0 = Eu vou perder meu trem de novo.
+metrocat_3p_confusion_1 = Que linha você precisa pegar? Amarela ou Verde?
+metrocat_3p_confusion_2 = Eu pensei que você estava pegando uma das Azuis hoje?
+metrocat_3p_confusion_3 = Estou. Azul, depois Amarela, depois Rosa.
+metrocat_3p_confusion_4 = Amarela não vai pra Rosa, né?
+metrocat_3p_confusion_5 = Vai, mas você tem que pegar a Verde antes, certo?
+metrocat_3p_confusion_6 = Por acaso a Azul vai pra a Amarela?
+metrocat_3p_confusion_7 = Não, não. Você tem que pegar a Verde antes.
+metrocat_3p_confusion_8 = Verde então Amarelo.
+metrocat_3p_confusion_9 = Eu achei que fosse Amarelo, depois Verde, depois Rosa?
+metrocat_3p_confusion_10 = É Azul, depois Verde, depois Amarelo...
+metrocat_3p_confusion_11 = Depois Verde, e Rosa.
+metrocat_3p_confusion_12 = O quê?
+metrocat_3p_confusion_13 = Tem duas Verdes.
+metrocat_3p_confusion_14 = E três Amarelas.
+metrocat_3p_confusion_15 = Eu vou perder meu trem de novo.
+
+metrocat_3p_stickers_0 = Quem fica colocando esses adesivos em todo canto?
+metrocat_3p_stickers_1 = Filhotes. Hoje em dia eles não tem respeito por lugares públicos.
+metrocat_3p_stickers_2 = É sujar a cidade, é isso o que estão fazendo!
+metrocat_3p_stickers_3 = Mas eu meio que quero um.
+metrocat_3p_stickers_4 = Eu também...
+metrocat_3p_stickers_5 = Eu tentei descolar um mais cedo, mas não consegui alcançár.
+
+metrocat_3p_watched_0 = Você já teve a sensação que está sendo observado?
+metrocat_3p_watched_1 = Nunca. Todo mundo sabe que não devem se meter conosco.
+metrocat_3p_watched_2 = É. A chefe não ia gostar disso nem um pouquinho.
+
+metrocat_2p_feedtrain_0 = Eu tentei dar comida pra um dos gatos-trem mais cedo.
+metrocat_2p_feedtrain_1 = O quê? Eles pedem pra você não fazer isso!
+metrocat_2p_feedtrain_2 = Eu sei... eu pensei que eles iam parar para comer, mas acabei atropelado.
+metrocat_2p_feedtrain_3 = Au.
+metrocat_2p_feedtrain_4 = É, eles realmente têm a mente nos trilhos.
+
+metrocat_2p_shinything_0 = Eu continuo vendo essas coisas brilhantes pelo metrô.
+metrocat_2p_shinything_1 = 'Coisas' brilhantes? Onde? Eu tenho uma, é... amiga que está procurando por elas.
+metrocat_2p_shinything_2 = Ah, você sabe. Em prédios e coisas do tipo.
+metrocat_2p_shinything_3 = Você pode trazê-las pra mim? São valiosas!
+metrocat_2p_shinything_4 = Sem chance, tenho medo de alturas!
+metrocat_2p_shinything_5 = Eu divido o pagamento com você...
+metrocat_2p_shinything_6 = Hmmm... vamos conversar depois. Acho que alguém tá ouvindo.
+
+metrocat_2p_vacuumears_0 = Esses aspiradores me assustam.
+metrocat_2p_vacuumears_1 = Eu acho que eles são fofos!
+metrocat_2p_vacuumears_2 = Tá zoando? Eles botam essas orelhinhas estranhas neles. Tipo, orelhas realísticas.
+metrocat_2p_vacuumears_3 = Agora que você falou, isso é meio estranho.
+
+metrocat_2p_vacuumbump_0 = Eu trombei num desses aspiradores outro dia.
+metrocat_2p_vacuumbump_1 = Caramba. O que aconteceu?
+metrocat_2p_vacuumbump_2 = Ele me jogou lá para cima! 
+metrocat_2p_vacuumbump_3 = Eles fazem isso. Pelo menos nós sempre caimos com as pernas para baixo.
+metrocat_2p_vacuumbump_4 = Eu bati no teto do restaurante! Minha cabeça ainda dói...
+
+metrocat_2p_whattime_0 = Ei amigo, pode me dizer as horas?
+metrocat_2p_whattime_1 = Claro, é, hã... Ei! Alguém roubou meu relógio!
+
+metrocat_3p_foodchoices_0 = Tem lugares demais para se comer por aqui...
+metrocat_3p_foodchoices_1 = Como podem ter lugares DEMAIS? Variedade é ótimo.
+metrocat_3p_foodchoices_2 = O cheiro é insuportável! Todos os sabores se misturam.
+metrocat_3p_foodchoices_3 = Como que esperam que você se decida em qualquer um deles?
+metrocat_3p_foodchoices_4 = Até eu escolher um, eu já estou com o dobro da fome...
+metrocat_3p_foodchoices_5 = Eu perco meu trem toda manhã porque demora demais!
+
+metrocat_2p_toomuchfood_0 = Eu acho que comi demais...
+metrocat_2p_toomuchfood_1 = Sabe, você não tem que pedir algo de TODO food truck que nós passamos.
+metrocat_2p_toomuchfood_2 = Digo, eu não PRECISO.
+metrocat_2p_toomuchfood_3 = Você... quer parar um pouco aqui, então?
+metrocat_2p_toomuchfood_4 = Por favor.
+
+metrocat_2p_manholemusic_0 = Já ouviu música vindo de alguns dos bueiros daqui?
+metrocat_2p_manholemusic_1 = Dos bueiros? Tipo, eles tem uma vibe estranha.
+metrocat_2p_manholemusic_2 = É. Quer ir olhar mais de perto?
+metrocat_2p_manholemusic_3 = Vou passar. Já vi os gatos de você-sabe-quem entrando lá dentro.
+
+[reviews]
+metro_coffee_0 = ótimo pra um cafézinho + um lanche[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_coffee_1 = bebidas mt quentes[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_coffee_2 = não vendem chá aqui?[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+
+metro_dimsum_0 = muito bom mas eu derramei meu chá[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_dimsum_1 = o melhor do metrô!!!![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_dimsum_2 = ótimo pra dias frios[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+metro_icecream_0 = eles vão te fazer flutuar se você perguntar![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_icecream_1 = meu tio foi roubado aqui. sorvete bom[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_icecream_2 = derreteu antes deu chegar no meu trem[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+
+metro_yellow_0 = ótimas e autênticas 'chips' 'inglesas'[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_yellow_1 = muito bom! Eu venho aqui todo fim de semana[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_yellow_2 = funcionários amigáveis, preços justos[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+metro_red&yellow_0 = eles têm uma máquina de refrigerante chique[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_1 = ESQUECERAM DO MEU KETCHUP[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_2 = melhor hambúrguer do metrô[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+
+metro_ramen_0 = tive que pagar extra por arroz???[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_ramen_1 = comida perfeita pra relaxar[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_ramen_2 = Serviço rápido e ótima comida.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+[finale]
+finale_cop0 = Ei, criança. Não se preocupe, eu estou no, hã... negócio de joias.
+finale_cop1 = Aconteceu alguma coisa enquanto eu estava lá em cima? A chefe parecia nervosa.
+finale_cop2 = De qualquer forma, eu tinha algo para entregar à ela, mas eu não podia fazer a troca com meu parceiro aqui.
+finale_cop3 = Eu sei que ela tem usado você para recuperar elas, então tome conta dessa aqui para mim.
+
+[solo]
+hiding_bushes0 = Xiiiu! Vaza daqui!
+hiding_bushes1 = Você está estragando meu esconderijo, garota.
+olddays0 = Ei, garota! Sabia que as coisas costumavam ser bem vazias por aqui?
+olddays1 = Antigamente, quando existia apenas uma linha de trem, não tinha quase nada. Tipo, lojas e tudo mais.
+olddays2 = Mas assim que as pessoas começaram a usar trens, esse lugar ficou bem mais cheio!
+secret_teller0 = Quer saber de um segredo?
+secret_teller1 = Tem certeza? É um dos grandes...
+secret_teller2 = Ok, ok, vou te contar. Você nunca iria adivinhar isso.
+secret_teller3 = A dona da joalheiria...
+secret_teller4 = Não tem as qualificações de joalheira!
+secret_teller5 = Eu te falei que era um bom segredo! 
+gacha0 = Eu comprei cem tentativas da caixa de eventos... e consegui tudo que queria!
+gacha1 = Nossa. Eu tenho trabalhado na joalheiria para conseguir um dinheiro extra, e eu ainda não tenho o Cavaleiro Robogato Super-Ultra-Raro...
+gacha2 = Você... sabe que pode trocar pontos por ele, certo?
+gacha3 = O qu.... [scream]O QUÊ?[/scream]
+agilesuitfreegun0 = Você! Você parece ter bom gosto!
+agilesuitfreegun1 = Qual a melhor série do Agile Suit Freegun? 
+agilesuittt0 = Double Theta!
+agilesuitfreegun2 = Ah, bom. Você é uma criança esperta.
+signal0 = Não posso conversar agora, criança, tô ocupado.
+signal1 = Tô tentando enviar emails do trabalho, mas o sinal aqui tá terrivel...
+
+[egg]
+metro_easteregg_pre0 = Hã, tem algo escrito nesse bueiro
+metro_easteregg_pre1 = "Kiwami significa extremo."
+metro_easteregg_0 = [big][shake]GAROTA DO CHAPÉU-CHAAAAAAN![/shake][/big]
+metro_easteregg_1 = Você ficou mole, hora de elevar o seu espírito de luta!
+metro_easteregg_extra = Yeehaw :)
+
+[cutscenes]
+Intro0 = Isso pertence à chefe!
+Midpoint0 = Não fui eu, eu juro!
+Midpoint1 = Eu nunca triscaria uma pata nas suas joias!

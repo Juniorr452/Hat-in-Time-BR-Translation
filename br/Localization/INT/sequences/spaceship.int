@@ -8,6 +8,7 @@ Location_MachineRoom = Cômodo das Máquinas
 Location_Basement = Porão
 Location_Attic = Sótão
 Location_LandryRoom = Lavanderia
+Location_DLC2 = Armazém
 
 [Decorations]
 DecorationPerfect = Combinar os [decorations] fez um [dreamworld] aparecer em [name][chaptername][/name]! Olhe pelo telescópio do capítulo para ver onde ele está se escondendo!
