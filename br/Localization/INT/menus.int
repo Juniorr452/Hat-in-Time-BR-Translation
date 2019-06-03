@@ -618,7 +618,9 @@ StandOff_Confirm_DJGrooves0 = DJ Grooves tem a pontuação mais alta! Deseja con
 StandOff_Confirm_DJGrooves1 = A dança dele enche o saco às vezes. Tem certeza que quer que ele vença?
 
 StandOff_Confirm_Draw0 = É um empate! Deseja deixar a sorte decidir o vencedor?
-StandOff_Confirm_Draw1 = Você tem certeza? Isso será completamente aleatório!
+StandOff_Confirm_Draw1 = Você tem certeza? Isso será totalmente aleatório!
+
+MissingPurpleTimeRift = There's still a Time Rift you haven't unlocked for this chapter yet. Have you constructed the [icon:relic][name]relic[/name]?
 
 [Shops]
 Total_Cost = Total:
@@ -718,11 +720,16 @@ DownloadingMod = Baixando Mod
 ModCreatedBy = Por
 ModVersion = Versão
 HowToAccessLevelMods = Fases de Mods podem ser acessadas[br]na sala do correio assim que você[br]tiver:
+VisitModMenu = Visit the mail room to give it a try!
 
 PreviewButtonsText_Play = Jogar!
+PreviewButtonsText_RePlay = Re-play!
 PreviewButtonsText_Enable = Habilitar
 PreviewButtonsText_Config = Configurar
 PreviewButtonsText_ViewInWorkshop = Ver no Workshop
+PreviewButtonsText_Install = Install
+PreviewButtonsText_Unsubscribe = Uninstall
+PreviewButtonsText_CancelDownload = Cancel
 
 Category_Levels = FASES
 Category_AllLevels = TODAS AS FASES
@@ -731,6 +738,12 @@ Category_TimeRifts = FENDAS TEMPORAIS
 Category_HatsAndBadges = CHAPÉUS E INSÍGNIAS
 Category_Collectibles = COLECIONÁVEIS
 Category_Misc = OUTROS
+Category_Featured = FEATURED
+Category_ChallengeRoad = CHALLENGE ROAD
+
+Category_ChallengeRoad_Description = Can you beat this community gauntlet with just 3 lives?
+Category_ChallengeRoad_Clear0 = You did it, congratulations!
+Category_ChallengeRoad_Clear1 = A new Challenge Road will appear in the near future...
 
 [ConsoleProfileSwap]
 SwapProfile = Trocar de Perfil
@@ -803,6 +816,9 @@ newgamebowkid_title = Obrigado!
 newgamebowkid_bullet0 = Obrigado por ser um super fã!
 newgamebowkid_bullet1 = Você pode começar uma nova aventura com
 newgamebowkid_bullet2 = a Garotinha do Laço como protagonista!
+
+featuremodmap_title = New featured community level
+challengeroad_title = New challenge road!
 
 [Splash]
 Splash_Close = Fechar
