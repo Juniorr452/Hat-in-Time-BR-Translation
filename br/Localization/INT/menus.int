@@ -388,7 +388,7 @@ Item_Toggle = Ativar/Desativar
 
 [systemsettings.input]
 Header_Input = Controle
-Header_Input_Adv = Controle (Advançado)
+Header_Input_Adv = Controle (Avançado)
 
 Item_OnTheFlyController_Title = Selecionar Controle Automaticamente
 Item_OnTheFlyController_Desc = Se ativado e estiver no modo Um Jogador, o controle vai mudar automaticamente quando você apertar um botão em outro.
@@ -414,11 +414,14 @@ Item_Rumble_Controller_Desc = Ativa ou desativa a vibração do controle
 Item_InputAssist_Title = Auxílio de Controle
 Item_InputAssist_Desc = Essa opção irá melhorar a experiência do jogo, guardando movimentos ou ações do controle que ocorreram um pouco cedo demais, assim como tentar desconsiderar apertos de botões rápidos.
 
-Item_HoldBackToCancelDive_Title = Segurar para trás cancela o Mergulho
+Item_HoldBackToCancelDive_Title = Segurar para trás para cancelar o mergulho
 Item_HoldBackToCancelDive_Desc = Enquanto estiver mergulhando, segure na direção oposta para cancelar.
 
 Item_InputAllowEmote_Title = Permitir Emotes
 Item_InputAllowEmote_Desc = Habilitar o uso de emotes.
+
+Item_GyroAim_Controller_Title = Sensor de Movimento
+Item_GyroAim_Controller_Desc = Usar sensor de movimento quando estiver mirando.
 
 [systemsettings.controller]
 Header_Controller = Controles Conectados
@@ -435,7 +438,7 @@ alpha2 = Certifique-se de gravar, e realizar o upload da sua corrida em [name]sp
 
 [System_Warnings]
 SteamVerifyIntegrityGameCache = [name]ATENÇÃO[/name][br]Parece que a [hint]Steam[/hint] não baixou todos os arquivos do jogo direito.[br]Por favor,[hint] verifique a integridade dos arquivos [/hint] do jogo se os problemas persistirem.
-UsingIntegratedGPU0 = [name]ATENÇÃO[/name][br]Seu computador está usando a [hint]placa gráfica integrada[/hint] ao invés da sua[br][hint]placa gráfica dedicada[/hint].
+UsingIntegratedGPU0 = [name]ATENÇÃO[/name][br]Seu computador está usando a [hint]placa gráfica integrada[/hint] ao invés da [br][hint]placa gráfica dedicada[/hint].
 UsingIntegratedGPU1 = Por favor, abra o [hint]Painel de Controle NVidia[/hint] ou o [hint]Centro de Controle AMD[/hint] e ative [br]a placa gráfica dedicada para A Hat in Time.
 BrokenControllerSoftware0 = [name]ATENÇÃO[/name][br]Você está usando software de terceiros para controles como [hint]Joy2Key[/hint]. Isso não é necessário! A Hat in Time tem suporte para a maioria dos controles... e provavelmente para o seu também!
 BrokenControllerSoftware1 = Tente desligar o software que você está usando e veja se A Hat in Time funciona com seu controle!
@@ -618,7 +621,9 @@ StandOff_Confirm_DJGrooves0 = DJ Grooves tem a pontuação mais alta! Deseja con
 StandOff_Confirm_DJGrooves1 = A dança dele enche o saco às vezes. Tem certeza que quer que ele vença?
 
 StandOff_Confirm_Draw0 = É um empate! Deseja deixar a sorte decidir o vencedor?
-StandOff_Confirm_Draw1 = Você tem certeza? Isso será completamente aleatório!
+StandOff_Confirm_Draw1 = Você tem certeza? Isso será totalmente aleatório!
+
+MissingPurpleTimeRift = Ainda tem uma Fenda Temporal que você não desbloqueou para este capítulo. Já terminou de montar a [icon:relic][name]relíquia[/name]?
 
 [Shops]
 Total_Cost = Total:
@@ -718,11 +723,16 @@ DownloadingMod = Baixando Mod
 ModCreatedBy = Por
 ModVersion = Versão
 HowToAccessLevelMods = Fases de Mods podem ser acessadas[br]na sala do correio assim que você[br]tiver:
+VisitModMenu = Vá até a sala de correio e dê uma olhada!
 
 PreviewButtonsText_Play = Jogar!
+PreviewButtonsText_RePlay = Rejogar!
 PreviewButtonsText_Enable = Habilitar
 PreviewButtonsText_Config = Configurar
 PreviewButtonsText_ViewInWorkshop = Ver no Workshop
+PreviewButtonsText_Install = Instalar
+PreviewButtonsText_Unsubscribe = Desinstalar
+PreviewButtonsText_CancelDownload = Cancelar
 
 Category_Levels = FASES
 Category_AllLevels = TODAS AS FASES
@@ -731,6 +741,12 @@ Category_TimeRifts = FENDAS TEMPORAIS
 Category_HatsAndBadges = CHAPÉUS E INSÍGNIAS
 Category_Collectibles = COLECIONÁVEIS
 Category_Misc = OUTROS
+Category_Featured = DESTAQUES
+Category_ChallengeRoad = DESAFIOS
+
+Category_ChallengeRoad_Description = Consegue fazer esse desafio com apenas 3 vidas?
+Category_ChallengeRoad_Clear0 = Você conseguiu, parabéns!
+Category_ChallengeRoad_Clear1 = Novos desafios surgirão em um futuro próximo...
 
 [ConsoleProfileSwap]
 SwapProfile = Trocar de Perfil
@@ -803,6 +819,9 @@ newgamebowkid_title = Obrigado!
 newgamebowkid_bullet0 = Obrigado por ser um super fã!
 newgamebowkid_bullet1 = Você pode começar uma nova aventura com
 newgamebowkid_bullet2 = a Garotinha do Laço como protagonista!
+
+featuremodmap_title = Nova fase da comunidade em destaque
+challengeroad_title = Novo desafio!
 
 [Splash]
 Splash_Close = Fechar
