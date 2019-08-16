@@ -739,11 +739,11 @@ Category_HatsAndBadges = CHAPÉUS E INSÍGNIAS
 Category_Collectibles = COLECIONÁVEIS
 Category_Misc = OUTROS
 Category_Featured = DESTAQUES
-Category_ChallengeRoad = CHALLENGE ROAD
+Category_ChallengeRoad = DESAFIOS
 
-Category_ChallengeRoad_Description = Consegue fazer esse desafio comunitário com apenas 3 vidas?
+Category_ChallengeRoad_Description = Consegue fazer esse desafio com apenas 3 vidas?
 Category_ChallengeRoad_Clear0 = Você conseguiu, parabéns!
-Category_ChallengeRoad_Clear1 = A new Challenge Road aparecerá em um futuro próximo...
+Category_ChallengeRoad_Clear1 = Novos desafios surgirão em um futuro próximo...
 
 [ConsoleProfileSwap]
 SwapProfile = Trocar de Perfil
@@ -818,7 +818,7 @@ newgamebowkid_bullet1 = Você pode começar uma nova aventura com
 newgamebowkid_bullet2 = a Garotinha do Laço como protagonista!
 
 featuremodmap_title = Nova fase da comunidade em destaque
-challengeroad_title = New challenge road!
+challengeroad_title = Novo desafio!
 
 [Splash]
 Splash_Close = Fechar
