@@ -414,7 +414,7 @@ Item_Rumble_Controller_Desc = Ativa ou desativa a vibração do controle
 Item_InputAssist_Title = Auxílio de Controle
 Item_InputAssist_Desc = Essa opção irá melhorar a experiência do jogo, guardando movimentos ou ações do controle que ocorreram um pouco cedo demais, assim como tentar desconsiderar apertos de botões rápidos.
 
-Item_HoldBackToCancelDive_Title = Segurar para trás para cancelar mergulho
+Item_HoldBackToCancelDive_Title = Segurar para trás para cancelar o mergulho
 Item_HoldBackToCancelDive_Desc = Enquanto estiver mergulhando, segure na direção oposta para cancelar.
 
 Item_InputAllowEmote_Title = Permitir Emotes
